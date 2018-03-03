@@ -1848,8 +1848,8 @@ jewish_group = {
 	jewish = {
 		graphical_culture = jewishgfx
 		
-		icon = 66
-		heresy_icon = 67
+		icon = 46
+		heresy_icon = 47
 		
 		color = { 0.1 0.7 1.0 }
 		crusade_name = GREAT_HOLY_WAR
@@ -1879,8 +1879,8 @@ jewish_group = {
 	reform = {
 		graphical_culture = jewishgfx
 		
-		icon = 66
-		heresy_icon = 67
+		icon = 46
+		heresy_icon = 47
 		
 		color = { 0.1 0.8 0.8 }
 		
