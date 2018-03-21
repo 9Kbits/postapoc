@@ -735,8 +735,9 @@ pacific = {
 		}
 		
 		can_grant_divorce = yes
-		priests_can_inherit = yes
-		priests_can_marry = yes
+		priests_can_inherit = no
+		priests_can_marry = no
+		can_retire_to_monastery = yes 
 		allow_rivermovement = yes
 		
 		religious_clothing_head = 10
