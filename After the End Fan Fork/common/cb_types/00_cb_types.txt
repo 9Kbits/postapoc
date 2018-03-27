@@ -1772,7 +1772,7 @@ claim_all = {
 	defender_ai_defeat_worth = {
 		factor = 100
 	}
-}
+	}
 
 
 change_seniority_succession_law = {
@@ -2411,6 +2411,15 @@ invasion = {
 					}
 					character_event = { id = LoR.30 days = 12 }
 				}
+				
+				if = {
+					limit = {
+						NOT = {
+							has_character_flag = consumerist_prophet							
+							}
+						}
+					disband_event_forces = yes
+				}
 			}
 		}
 		
@@ -2591,8 +2600,8 @@ tribal_invasion = {
 								religion_group = pagan_group
 							}
 							OR = {
-								culture_group = first_nations
-								culture_group = native_american
+								culture_group = algonquian
+								culture_group = plains
 							}
 							FROM = {
 								NOR = {  # Should subjugate these instead
@@ -2686,7 +2695,12 @@ tribal_invasion = {
 			ROOT = {
 				occupy_minors_of_occupied_settlements = FROM
 				gain_all_occupied_titles = { who = FROM type = invasion }
-				
+				if = {
+					limit = { 
+						NOT = { has_character_flag = horde_invader } 
+					}
+					disband_event_forces = yes
+				}				
 				if = {
 					limit = {
 						has_nickname = no
@@ -2715,6 +2729,13 @@ tribal_invasion = {
 						is_crusade = yes # Even if the title holder is not participating in the war, gain holdings occupied by all Crusade participants
 						type = invasion
 					}
+				}
+				if = {
+					limit = {
+						higher_tier_than = BARON
+						NOT = { culture = ROOT }
+						}
+					hidden_tooltip = { conquest_culture = ROOT }
 				}
 				#if = {
 				#	limit = {
@@ -3365,7 +3386,7 @@ religious = {
 	can_use = { #American Natives no longer have access to the Holy War CB, are given County Conquest CB instead.
 		ROOT = {
 			is_nomadic = no
-			NOR = { 
+			NOR = {
 				religion_group = pagan_group
 				religion_group = american_native
 				religion = brethren
@@ -6030,6 +6051,13 @@ muslim_invasion = {
 						}
 					}
 				}
+				if = {
+					limit = {
+						higher_tier_than = BARON
+						NOT = { culture = ROOT }
+						}
+					hidden_tooltip = { conquest_culture = ROOT }
+				}
 			}
 		}
 	}
@@ -6407,6 +6435,7 @@ imperial_reconquest = { #bringing this one back for the restored Empire of the U
 	allowed_to_target_tributaries = no
 
 	can_use = {
+		has_dlc = "Legacy of Rome"
 		ROOT = {
 			has_landed_title = e_usa
 			independent = yes
@@ -6427,6 +6456,7 @@ imperial_reconquest = { #bringing this one back for the restored Empire of the U
 			de_jure_liege_or_above = k_hudsonia
 			de_jure_liege_or_above = k_new_england
 			de_jure_liege_or_above = k_allegheny
+			de_jure_liege_or_above = k_keystone
 			de_jure_liege_or_above = k_appalachia
 			de_jure_liege_or_above = k_old_dominion
 			de_jure_liege_or_above = k_dixieland
@@ -6948,6 +6978,7 @@ viking_invasion = {
 						10 = { give_nickname = nick_the_ironside }
 					}
 				}
+				disband_event_forces = yes
 			}
 			participation_scaled_prestige = 300
 		}
@@ -6994,6 +7025,13 @@ viking_invasion = {
 						remove_holding_modifier = recently_conquered
 						refill_holding_levy = yes
 					}
+				}
+				if = {
+					limit = {
+						higher_tier_than = BARON
+						NOT = { culture = ROOT }
+						}
+					hidden_tooltip = { conquest_culture = ROOT }
 				}
 				
 				if = {
@@ -8056,9 +8094,11 @@ pagan_holy_war = { #idk what this is but I guess I'm giving it to the native Ame
 	can_use = {
 		ROOT = {
 			OR = {
-				religion_group = pagan_group
-				religion_group = american_native
-				religion = brethren
+				religion = revelationist_reformed
+				religion = rust_cultist_reformed
+				religion = occultist_reformed
+				religion = thelemic_reformed
+				religion = norse_pagan_reformed
 			}
 			NOT = { same_realm = FROM }
 			NOT = { religion = FROM }
@@ -8128,9 +8168,11 @@ pagan_holy_war = { #idk what this is but I guess I'm giving it to the native Ame
 	is_valid = {
 		ROOT = {
 			OR = {
-				religion_group = pagan_group
-				religion_group = american_native
-				religion = brethren
+				religion = revelationist_reformed
+				religion = rust_cultist_reformed
+				religion = occultist_reformed
+				religion = thelemic_reformed
+				religion = norse_pagan_reformed
 			}
 			NOT = { same_realm = FROM }
 			NOT = { religion = FROM }
@@ -10026,7 +10068,7 @@ buddhist_holy_war = {
 	}
 }
 
-# 52: This can be used for various special cases; the great conquerors
+#these are for seljuks, although the name "manifest destiny" would work well for a future cb
 manifest_destiny_invasion = {
 	name = CB_NAME_INVASION
 	war_name = WAR_NAME_INVASION
@@ -10039,7 +10081,7 @@ manifest_destiny_invasion = {
 	check_de_jure_tier = KING # this scans all de jure kingdoms for the counties which are held by or vassals(or below) of selected character. Only valid if is_permanent = yes
 	
 	can_use = {
-		always = no #these are for seljuks, although the name "manifest destiny" would work well for a future cb
+		always = no 
 		#ROOT = {
 		#	OR = {
 		#		AND = {
@@ -10170,6 +10212,14 @@ manifest_destiny_invasion = {
 						is_crusade = yes # Even if the kingdom title holder is not participating in the war, gain holdings occupied by all participants
 						type = invasion
 					}
+				}
+				
+				if = {
+					limit = {
+						higher_tier_than = BARON
+						NOT = { culture = ROOT }
+						}
+					hidden_tooltip = { conquest_culture = ROOT }
 				}
 			}
 		}
@@ -12267,7 +12317,16 @@ nomad_invasion = {
 						type = invasion
 					}
 				}
+				
+				if = {
+					limit = {
+						higher_tier_than = BARON
+						NOT = { culture = ROOT }
+						}
+					hidden_tooltip = { conquest_culture = ROOT }
+				}
 			}
+			
 		}
 	}
 

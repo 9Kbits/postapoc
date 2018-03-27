@@ -287,8 +287,11 @@ castle = {
 	ca_culture_native_american_1 = {
 		desc = ca_culture_native_american_1_desc
 		potential = {
-			FROM = { 
-				culture_group = native_american
+			FROM = {
+				OR = {
+					culture_group = plains
+					culture_group = plateau
+				}
 			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
@@ -308,7 +311,11 @@ castle = {
 		desc = ca_culture_native_american_1_desc
 		potential = {
 			FROM = { 
-				culture_group = native_american
+				OR = {
+					culture_group = plains
+					culture_group = plateau
+				}
+
 			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
@@ -328,7 +335,10 @@ castle = {
 		desc = ca_culture_native_american_1_desc
 		potential = {
 			FROM = { 
-				culture_group = native_american
+				OR = {
+					culture_group = plains
+					culture_group = plateau
+				}
 			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
@@ -348,7 +358,10 @@ castle = {
 		desc = ca_culture_native_american_1_desc
 		potential = {
 			FROM = { 
-				culture_group = native_american
+				OR = {
+					culture_group = plains
+					culture_group = plateau
+				}
 			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
@@ -1261,7 +1274,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1294,7 +1310,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1327,7 +1346,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1360,7 +1382,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1393,7 +1418,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1424,7 +1452,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1455,7 +1486,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -1486,7 +1520,10 @@ castle = {
 					culture = ontarian
 					culture = lacustrine
 					culture = canuck
-					culture_group = first_nations
+					culture = metis
+					culture_group = algonquian
+					culture_group = northwest_coast
+					culture_group = subarctic
 				}
 			}
 		}
@@ -2992,6 +3029,176 @@ castle = {
 		ai_creation_factor = 101
 		
 		extra_tech_building_start = 0.8
+	}
+	#Woodland Warriors
+	ca_culture_woodlands_1 = {
+		desc = ca_culture_woodlands_1_desc
+		potential = {
+			FROM = {
+				culture_group = eastern_woodlands
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		light_infantry = 30
+		heavy_infantry_morale = 0.15
+		archers = 25
+		archers_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_woodlands_2 = {
+		desc = ca_culture_woodlands_1_desc
+		potential = {
+			FROM = {
+				culture_group = eastern_woodlands
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_woodlands_1
+		gold_cost = 300
+		build_time = 1095
+		light_infantry = 40
+		heavy_infantry_morale = 0.15
+		archers = 35
+		archers_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_woodlands_3 = {
+		desc = ca_culture_woodlands_1_desc
+		potential = {
+			FROM = {
+				culture_group = eastern_woodlands
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_woodlands_2
+		gold_cost = 400
+		build_time = 2190
+		light_infantry = 50
+		heavy_infantry_morale = 0.15
+		archers = 45
+		archers_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_woodlands_4 = {
+		desc = ca_culture_woodlands_1_desc
+		potential = {
+			FROM = {
+				culture_group = eastern_woodlands
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_woodlands_3
+		gold_cost = 500
+		build_time = 2190
+		light_infantry = 60
+		heavy_infantry_morale = 0.15
+		archers = 55
+		archers_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	#Gompa Monastery
+	ca_government_monastery_1 = {
+		desc = ca_government_monastery_1_desc
+		potential = {
+			FROM = { 
+				government = theocratic_feudal_government
+			}
+		}
+		trigger = {
+			TECH_TEMPLE_CONSTRUCTION = 0
+		}
+		gold_cost = 150
+		build_time = 547
+		levy_size = 0.05
+		garrison_size = 0.05
+		tech_growth_modifier = 0.025
+		culture_techpoints = 0.01
+		ai_creation_factor = 96
+		add_number_to_name = no
+		liege_piety = 0.05
+
+		extra_tech_building_start = 0.2
+	}
+	ca_government_monastery_2 = {
+		desc = ca_government_monastery_1_desc
+		potential = {
+			FROM = { 
+				government = theocratic_feudal_government
+			}
+		}
+		trigger = {
+			TECH_TEMPLE_CONSTRUCTION = 0
+		}
+		prerequisites = { ca_wall_1 }
+		upgrades_from = ca_government_monastery_1
+		gold_cost = 200
+		build_time = 730
+		levy_size = 0.05
+		garrison_size = 0.05
+		tech_growth_modifier = 0.05
+		culture_techpoints = 0.02
+		ai_creation_factor = 95
+		add_number_to_name = no
+		liege_piety = 0.05
+		
+		extra_tech_building_start = 0.2
+	} 
+	ca_government_monastery_3 = {
+		desc = ca_government_monastery_1_desc
+		potential = {
+			FROM = { 
+				government = theocratic_feudal_government
+			}
+		}
+		trigger = {
+			TECH_TEMPLE_CONSTRUCTION = 2
+		}
+		upgrades_from = ca_government_monastery_2
+		gold_cost = 300
+		build_time = 1095
+		levy_size = 0.05
+		garrison_size = 0.05
+		tech_growth_modifier = 0.075
+		culture_techpoints = 0.03
+		ai_creation_factor = 94
+		add_number_to_name = no
+		liege_piety = 0.05
+
+		extra_tech_building_start = 0.2
+	} 
+	ca_government_monastery_4 = {
+		desc = ca_government_monastery_1_desc
+		potential = {
+			FROM = { 
+				government = theocratic_feudal_government
+			}
+		}
+		trigger = {
+			TECH_TEMPLE_CONSTRUCTION = 4
+		}
+		upgrades_from = ca_government_monastery_3
+		gold_cost = 400
+		build_time = 1460
+		levy_size = 0.05
+		garrison_size = 0.05
+		tech_growth_modifier = 0.1
+		culture_techpoints = 0.04
+		ai_creation_factor = 93
+		add_number_to_name = no
+		liege_piety = 0.05
+
+		extra_tech_building_start = 0.2
 	}
 }
 

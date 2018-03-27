@@ -508,7 +508,16 @@
 			color = 0
 			color = 0
 		}
-	} }1491202 = { name="Hagey" culture=cherokee }1491203 = { name="Saunooke" culture=cherokee }1491204 = { name="Tahquette" culture=cherokee }1491205 = { name="Youngdeer" culture=cherokee }
+	} }1491202 = { name="Hagey" culture=cherokee }1491203 = { name="Saunooke" culture=cherokee }1491204 = { name="Tahquette" culture=cherokee }1491205 = { name="Youngdeer" culture=cherokee }
+1491206 = { name="Mohe" culture=cherokee }
+1491207 = { name="Diwali" culture=cherokee }
+1491208 = { name="Waya" culture=cherokee }
+1491209 = { name="Tsiyi" culture=cherokee }
+1491210 = { name="Onacona" culture=cherokee }
+1491211 = { name="Atagulkalu" culture=cherokee }
+1491212 = { name="Degataga" culture=cherokee }
+1491213 = { name="Cheasequah" culture=cherokee }
+1491214 = { name="Adahy" culture=cherokee }
 1491300 = { name="Menewa" culture=muscogee }1491301 = { name="Chebona" culture=muscogee }1491302 = { name="Osceola" culture=muscogee }1491303 = { name="Chitto" culture=muscogee }1491304 = { name="Hasse Ola" culture=muscogee }1491305 = { name="Hopoethe" culture=muscogee }1491306 = { name="Talof Harjo" culture=muscogee }1491307 = { name="Hothlepoya" culture=muscogee }1491308 = { name="Lumhe Chati" culture=muscogee }1491309 = { name="Tustenuggee" culture=muscogee }1491310 = { name="Homathlemico" culture=muscogee }1491311 = { name="Cowaya" culture=muscogee }1491312 = { name="Yaholo" culture=muscogee }
 1491400 = { name="Ozawanimke" culture=algonquin }1491401 = { name="Amikons" culture=algonquin
 	coat_of_arms = {
@@ -700,7 +709,21 @@
 			color = 0
 			color = 0
 		}
-	} }1519001 = { name="Zarco" culture=chilango }1519002 = { name="de Bastidas" culture=chilango }1519003 = { name="de Oñate" culture=chilango }1519004 = { name="del Castillo" culture=chilango }1519005 = { name="de Herrera" culture=chilango }1519006 = { name="de Las Casas" culture=chilango }1519007 = { name="de Tapia" culture=chilango }1519008 = { name="de Zuazo" culture=chilango }1519009 = { name="Chirino" culture=chilango }1519010 = { name="de Albornoz" culture=chilango }1519011 = { name="de la Torre" culture=chilango }1519012 = { name="de Fuenleal" culture=chilango }1519013 = { name="Ceinos" culture=chilango }1519014 = { name="de Matienzo" culture=chilango }1519015 = { name="Milmo" culture=chilango }1519016 = { name="Bessudo" culture=chilango }1519017 = { name="Reinoso" culture=chilango }1519018 = { name="Barroso" culture=chilango }1519019 = { name="el Capitalino" culture=chilango }1519020 = { name="el Defeño" culture=chilango }1519021 = { name="Sambueza" culture=chilango }1519022 = { name="Madueña" culture=chilango }
+	} }1519001 = { name="Zarco" culture=chilango }1519002 = { name="de Bastidas" culture=chilango }1519003 = { name="de Oñate" culture=chilango }1519004 = { name="del Castillo" culture=chilango }1519005 = { name="de Herrera" culture=chilango }1519006 = { name="de Las Casas" culture=chilango }1519007 = { name="de Tapia" culture=chilango }1519008 = { name="de Zuazo" culture=chilango }1519009 = { name="Chirino" culture=chilango }1519010 = { name="de Albornoz" culture=chilango }1519011 = { name="de la Torre" culture=chilango }1519012 = { name="de Fuenleal" culture=chilango }1519013 = { name="Ceinos" culture=chilango }1519014 = { name="de Matienzo" culture=chilango }1519015 = { name="Milmo" culture=chilango }1519016 = { name="Bessudo" culture=chilango }1519017 = { name="Reinoso" culture=chilango }1519018 = { name="Barroso" culture=chilango }1519019 = { name="el Capitalino" culture=chilango }1519020 = { name="el Defeño" culture=chilango }1519021 = { name="Sambueza" culture=chilango }1519022 = { name="Madueña" culture=chilango }
+
+#This is a cheat so that the Mexican dynasties work.
+1519999 = { name="Iturbide" #culture=chilango
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} }
 
 1520000 = { name="Mishta-masseku" culture=mikmaq }
 1520001 = { name="Kakupiu-shipu" culture=mikmaq }
@@ -1242,7 +1265,7 @@
 1543064	 = { name="Akai" culture=edokko }
 1543065	 = { name="Subaru" culture=edokko }
 1543066	 = { name="Namco" culture=edokko }
-1543067	 = { name="Saitama" culture=edokko }
+1543067	 = { name="Saitama" culture=edokko } #ONE PUUUUUUUNCH
 1543068	 = { name="Yakult" culture=edokko }
 1543069	 = { name="Capcom" culture=edokko }
 1543070	 = { name="Takeda" culture=edokko }
@@ -1370,7 +1393,11 @@
 1543192	 = { name="Shizuoka" culture=edokko }
 1543193	 = { name="Takata" culture=edokko }
 1543194	 = { name="Nikko" culture=edokko }
-1543195	 = { name="Miyamoto" culture=edokko }
+1543195	 = { name="Miyamoto" culture=edokko }
+1543196  = { name="Ikari" culture=edokko } #get in the robot Shinji
+1543197  = { name="Soryu" culture=edokko } #anta BAKA
+1543198  = { name="Hirasawa" culture=edokko } #fuwa fuwa TAIMU
+1543199  = { name="Kobayashi" culture=edokko } #Meidoragon
 
 1546000 = { name="Muyil" culture=yucateco }1546001 = { name="Ibarra" culture=yucateco }1546002 = { name="Canek" culture=yucateco }1546003 = { name="Brown" culture=yucateco }1546004 = { name="Kayom" culture=yucateco }1546005 = { name="Topoxté" culture=yucateco }1546006 = { name="Xultun" culture=yucateco }1546007 = { name="Waká" culture=yucateco }1546008 = { name="Dueñas" culture=yucateco }1546009 = { name="Gucumatz" culture=yucateco }1546010 = { name="Tancah" culture=yucateco }1546011 = { name="Ix Chel" culture=yucateco }1546012 = { name="Chinkultic" culture=yucateco }1546013 = { name="Macías" culture=yucateco }1546014 = { name="Larios" culture=yucateco }1546015 = { name="Herrera" culture=yucateco }1546016 = { name="Galindo" culture=yucateco }1546017 = { name="Xculoc" culture=yucateco }1546018 = { name="Tulum" culture=yucateco }1546019 = { name="Ahmetakkukul" culture=yucateco }1546020 = { name="Viniegra" culture=yucateco }1546021 = { name="Crespo" culture=yucateco }1546022 = { name="Tecoh" culture=yucateco }1546023 = { name="Salazar" culture=yucateco 
 	coat_of_arms = {
@@ -2471,7 +2498,7 @@
 			color = 0
 			color = 0
 		}
-	} }1781002 = { name="Wheelock" culture=beltway }1781003 = { name="Turgidson" culture=beltway }1781004 = { name="Crampton" culture=beltway }1781005 = { name="Gambrill" culture=beltway }1781006 = { name="Habeus" culture=beltway }1781007 = { name="Lenfant" culture=beltway }1781008 = { name="Smithson" culture=beltway }1781009 = { name="Hoban" culture=beltway }1781010 = { name="Hallet" culture=beltway }1781011 = { name="Bulfinch" culture=beltway }1781012 = { name="Russell" culture=beltway }1781013 = { name="Cannon" culture=beltway }1781014 = { name="Arefu" culture=beltway }1781015 = { name="Eden" culture=beltway }1781016 = { name="August" culture=beltway }1781017 = { name="Almodovar" culture=beltway }1781018 = { name="Mack" culture=beltway }1781019 = { name="Kendall" culture=beltway }1781020 = { name="Hannon" culture=beltway }1781021 = { name="Lyon" culture=beltway }1781022 = { name="Bigsley" culture=beltway }1781023 = { name="Dashwood" culture=beltway }1781024 = { name="Tercorien" culture=beltway }1781025 = { name="Spurlock" culture=beltway }1781026 = { name="Vaultman" culture=beltway }1781027 = { name="Stoddert" culture=beltway }1781028 = { name="Tingey" culture=beltway }1781029 = { name="Buchlin" culture=beltway }
+	} }1781002 = { name="Wheelock" culture=beltway }1781003 = { name="Turgidson" culture=beltway }1781004 = { name="Crampton" culture=beltway }1781005 = { name="Gambrill" culture=beltway }1781006 = { name="Habeus" culture=beltway }1781007 = { name="Lenfant" culture=beltway }1781008 = { name="Smithson" culture=beltway }1781009 = { name="Hoban" culture=beltway }1781010 = { name="Hallet" culture=beltway }1781011 = { name="Bulfinch" culture=beltway }1781012 = { name="Russell" culture=beltway }1781013 = { name="Cannon" culture=beltway }1781014 = { name="Arefu" culture=beltway }1781015 = { name="Eden" culture=beltway }1781016 = { name="August" culture=beltway }1781017 = { name="Almodovar" culture=beltway }1781018 = { name="Mack" culture=beltway }1781019 = { name="Kendall" culture=beltway }1781020 = { name="Hannon" culture=beltway }1781021 = { name="Lyon" culture=beltway }1781022 = { name="Bigsley" culture=beltway }1781023 = { name="Dashwood" culture=beltway }1781024 = { name="Tercorien" culture=beltway }1781025 = { name="Spurlock" culture=beltway }1781026 = { name="Vaultman" culture=beltway }1781027 = { name="Stoddert" culture=beltway }1781028 = { name="Tingey" culture=beltway }1781029 = { name="Buchlin" culture=beltway }1781030 = { name="Avunculus" culture=beltway }
 
 1782000 = { name="Royall" culture=southron
 	coat_of_arms = {
@@ -2556,7 +2583,9 @@
 			color = 0
 			color = 0
 		}
-	} }
+	} }
+1783043 = { name="Hatfield" culture=appalachian }
+1783044 = { name="McCoy" culture=appalachian }
 
 1784000 = { name="Stahlbleche" culture=rostmann }1784001 = { name="Luick" culture=rostmann }1784002 = { name="Glasmacher" culture=rostmann }1784003 = { name="Weber" culture=rostmann }1784004 = { name="Burgholm" culture=rostmann }1784005 = { name="Heim" culture=rostmann }1784006 = { name="Steiger" culture=rostmann }1784007 = { name="Steinbach" culture=rostmann }1784008 = { name="Zeeb" culture=rostmann }1784009 = { name="Cass" culture=rostmann }1784010 = { name="Stahlkopf" culture=rostmann }1784011 = { name="Rostenhauer" culture=rostmann
 	coat_of_arms = {
@@ -3485,11 +3514,11 @@
 1849061 = { name="Hewkard" culture=bayfolk }
 1849062 = { name="Macint" culture=bayfolk }
 1849063 = { name="Parc" culture=bayfolk }
-1849064 = { name="Terman" culture=bayfolk }
+1849064 = { name="Madonna" culture=bayfolk }
 1849065 = { name="Litton" culture=bayfolk }
 1849066 = { name="Eitel" culture=bayfolk }
 1849067 = { name="Shockley" culture=bayfolk }
-1849068 = { name="Moore" culture=bayfolk
+1849068 = { name="Goldengate" culture=bayfolk
 	coat_of_arms = {
 		religion = cetic
 		template = 0
@@ -3524,7 +3553,8 @@
 1849088 = { name="Chen" culture=bayfolk }
 1849089 = { name="Chou" culture=bayfolk }
 1849090 = { name="Alviso" culture=bayfolk }
-1849091 = { name="Shakur" culture=bayfolk }
+1849091 = { name="Shakur" culture=bayfolk }
+1849092 = { name="Moore" culture=bayfolk }
 1850000 = { name="Bogart" culture=angeleno }
 1850001 = { name="Hepburn" culture=angeleno }
 1850002 = { name="Grant" culture=angeleno }
@@ -3716,7 +3746,7 @@
 1851141 = { name="Kim" culture=calaotian }
 1851142 = { name="Wang" culture=calaotian }
 1851143 = { name="Yamamoto" culture=calaotian }
-1851144 = { name="Templar" culture=calaotian
+1851144 = { name="Tubrog" culture=calaotian
 	coat_of_arms = {
 		religion = cetic
 		template = 0
@@ -3745,7 +3775,6 @@
 1851158 = { name="Han" culture=calaotian }
 1851159 = { name="Hiboro" culture=calaotian }
 1851160 = { name="Tasajara" culture=calaotian }
-
 
 1867000 = { name="Grune" culture=ontarian }
 1867001 = { name="Movenpick" culture=ontarian }
@@ -3783,7 +3812,8 @@
 1867022 = { name="Dysart" culture=ontarian }
 1867023 = { name="Onaping" culture=ontarian }
 1867024 = { name="Chicona" culture=ontarian }
-1867025 = { name="Oldhome" culture=ontarian }
+1867025 = { name="Oldhome" culture=ontarian }1869026 = { name="Beckett" culture=ontarian }
+
 1869000 = { name="Riel" culture=metis }
 1869001 = { name="Lépine" culture=metis }
 1869002 = { name="Dumont" culture=metis }
@@ -4607,7 +4637,8 @@
 2001050 = { name="Hérard" culture=haitian }
 2001051 = { name="Boisrond" culture=haitian }
 2001052 = { name="Lamothe" culture=haitian }
-2001053 = { name="Salomon" culture=haitian }
+2001053 = { name="Salomon" culture=haitian }
+2001054 = { name="Christophe" culture=haitian }
 
 2002000 = { name="Santana" culture=dominicano }
 2002001 = { name="Báez" culture=dominicano }
@@ -4720,6 +4751,7 @@
 2005031 = { name="Spiegel" culture=yiddish }	
 2005032 = { name="Wolfowitz" culture=yiddish }
 2005033 = { name="Schwartz" culture=yiddish }
+2005034 = { name="fun Tash" culture=yiddish }
 
 2006000 = { name="Álvarez" culture=neoladino }
 2006001 = { name="Affonso" culture=neoladino }
@@ -4743,3 +4775,58 @@
 2006019 = { name="Vargas" culture=neoladino }
 2006020 = { name="Sanchez" culture=neoladino }
 2006021 = { name="Lopez" culture=neoladino }
+
+2007001 = { name="Awegen" culture=iroquois }
+2007002 = { name="Ahaouet" culture=iroquois }
+2007003 = { name="Canajoharie" culture=iroquois }
+2007004 = { name="Canastigaone" culture=iroquois }
+2007005 = { name="Canienga" culture=iroquois }
+2007006 = { name="Caughnawaga" culture=iroquois }
+2007007 = { name="Cahunghage" culture=iroquois }
+2007008 = { name="Canowaroghere" culture=iroquois }
+2007009 = { name="Deseroken" culture=iroquois }
+2007010 = { name="Dayoitgao" culture=iroquois }
+2007011 = { name="Deonundagae" culture=iroquois }
+2007012 = { name="Deyodeshot" culture=iroquois }
+2007013 = { name="Brant" culture=iroquois }
+2007014 = { name="Onondaga" culture=iroquois }
+2007015 = { name="Norton" culture=iroquois }
+2007016 = { name="Deyohnegano" culture=iroquois }
+2007017 = { name="Deyonongdadagana" culture=iroquois }
+2007018 = { name="Gweugwehono" culture=iroquois }
+2007019 = { name="Gandasetaigon" culture=iroquois }
+2007020 = { name="Ganogeh" culture=iroquois }
+2007021 = { name="Gayagaanhe" culture=iroquois }
+2007022 = { name="Gewauga" culture=iroquois }
+2007023 = { name="Goiogouen" culture=iroquois }
+2007024 = { name="Gadoquat" culture=iroquois }
+2007025 = { name="Gannentaha" culture=iroquois }
+2007026 = { name="Hostayuntwa" culture=iroquois }
+2007027 = { name="Kawauka" culture=iroquois }
+2007028 = { name="Kente" culture=iroquois }
+2007029 = { name="Kanagaro" culture=iroquois }
+2007030 = { name="Kowogoconnughariegugharie" culture=iroquois }
+2007031 = { name="Kanadaseagea" culture=iroquois }
+2007032 = { name="Kanatakowa" culture=iroquois }
+2007033 = { name="Neodakheat" culture=iroquois }
+2007034 = { name="Nowadaga" culture=iroquois }
+2007035 = { name="Nundawaono" culture=iroquois }
+2007036 = { name="Onekagoncka" culture=iroquois }
+2007037 = { name="Onoalagona" culture=iroquois }
+2007038 = { name="Oquaga" culture=iroquois }
+2007039 = { name="Osquake" culture=iroquois }
+2007040 = { name="Onayotekaono" culture=iroquois }
+2007041 = { name="Oriska" culture=iroquois }
+2007042 = { name="Ossewingo" culture=iroquois }
+2007043 = { name="Skannayutenate" culture=iroquois }
+2007044 = { name="Saratoga" culture=iroquois }
+2007045 = { name="Schaunactada" culture=iroquois }
+2007046 = { name="Schoharie" culture=iroquois }
+2007047 = { name="Teatontaloga" culture=iroquois }
+2007048 = { name="Tewanondadon" culture=iroquois }
+2007049 = { name="Tionnontoguen" culture=iroquois }
+2007050 = { name="Tegasoke" culture=iroquois }
+2007051 = { name="Teseroken" culture=iroquois }
+2007052 = { name="Tetosweken" culture=iroquois }
+2007053 = { name="Yoroonwago" culture=iroquois }
+2007054 = { name="Hearst" culture=bayfolk }

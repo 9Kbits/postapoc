@@ -7,6 +7,7 @@ technology = {
 		d_la_citadelle
 		d_colima
 		d_goldengate
+		c_brooklyn
 	}
 
 	768 = {
@@ -105,6 +106,7 @@ technology = {
 		d_westsylvania
 		d_niagara
 		d_transallegheny
+		d_wilds
 	}
 
 	768 = {
@@ -235,7 +237,7 @@ technology = {
 		d_hudson_valley
 		d_champlain
 		d_catskill
-		d_long_island
+		c_long_island
 		d_north_jersey
 		d_jersey
 		d_connecticut
@@ -517,6 +519,7 @@ technology = {
 		d_salton
 		d_los_padres
 		d_equinox_isles
+		d_channel_islands
 	}
 
 	768 = {

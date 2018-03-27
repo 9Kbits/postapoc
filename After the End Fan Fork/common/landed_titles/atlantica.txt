@@ -15,6 +15,8 @@
 		capital = 10 # Albany
 		
 		yiddish = "Apsteyt"
+		iroquois = "Haudenosaunee"
+		deitsch = "Hudsonie"
 
 		d_adirondack = {
 
@@ -22,11 +24,15 @@
 
 			color={ 123 100 66 }
 			color2={ 220 220 0 }
+			
+			deitsch = "Adrondeck"
 
 			c_black_river = {
 
 				color={ 143 117 78 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Schwarzrewwer"
 
 				b_boonville_NY = {}
 				b_lowville_NY = {}
@@ -44,6 +50,8 @@
 			c_watertown = {
 				color={ 97 79 52 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Wassertaun"
 
 				b_watertown_NY = {}
 				b_ogdensburg_NY = {}
@@ -58,6 +66,8 @@
 			c_raquette = {
 				color={ 168 138 94 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Rakket"
 
 				b_malone_NY = {}
 				b_hogansburg_NY = {}
@@ -71,6 +81,8 @@
 			c_big_moose = {
 				color={ 152 109 63 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Grossmoose"
 
 				b_old_forge_NY = {
 					used_for_dynasty_names = no
@@ -92,8 +104,12 @@
 
 			color={ 160 87 63 }
 			color2={ 220 220 0 }
-
+			
+			deitsch = "Fingerlaeks"
+			
 			c_rochester = {
+			
+				deitsch = "Roschter"
 
 				color={ 140 77 55 }
 				color2={ 220 220 0 }
@@ -110,6 +126,8 @@
 			c_oswego = {
 				color={ 139 145 214 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Auswegen"
 
 				b_oswego_NY = {}
 				b_pulaski_NY = {}
@@ -125,6 +143,8 @@
 			c_canandaigua = {
 				color={ 140 87 63 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Ganendogen"
 
 				b_canandaigua_NY = {}
 				b_bloomfield_NY = {}
@@ -138,6 +158,8 @@
 			c_canacdea = {
 				color={ 180 87 63 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Kankdenen"
 
 				b_urbana_NY = {}
 				b_bath_NY = {}
@@ -152,13 +174,17 @@
 		d_cayuga = {
 			color={ 95 102 197 }
 			color2={ 220 220 0 }
-
+			
 			capital = 14
+			
+			deitsch = "Kayugaa"
 
 			c_cortland = {
 				color={ 43 48 117 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Korzland"
+				
 				b_ithaca_NY = {}
 				b_cortland_NY = {}
 				b_cazenovia_NY = {}
@@ -172,7 +198,10 @@
 
 				color={ 196 90 60 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Syrakus"
+				iroquois = "Onondaga"
+				
 				b_syracuse_NY = {}
 				b_utica_NY = {}
 				b_rome_NY = {}
@@ -188,7 +217,10 @@
 			c_seneca = {
 				color={ 60 67 164 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Senka"
+				iroquois = "Kanadaseaga"
+				
 				b_seneca_falls_NY = {
 					used_for_dynasty_names = no
 				}
@@ -205,6 +237,8 @@
 
 			color={ 183 158 72 }
 			color2={ 220 220 0 }
+			
+			deitsch = "Mauhakwaelli"
 
 			capital = 10
 
@@ -214,9 +248,14 @@
 				color2={ 220 220 0 }
 				holy_site = occultist
 				holy_site = occultist_reformed
+				
+				deitsch = "Albani"
+				iroquois = "Scheneghtada"
 
 				b_albany_NY = {} #Home of the steamed ham
-				b_schenectady_NY = {}
+				b_schenectady_NY = {
+					iroquois = "Scheneghtada"
+				}
 				b_colonie_NY = {}
 				b_menands_NY = {}
 				b_watervliet_NY = {}
@@ -228,6 +267,8 @@
 
 				color={ 165 140 60 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Saratogen"
 
 				b_saratoga_springs_NY = {
 					used_for_dynasty_names = no
@@ -244,6 +285,8 @@
 
 				color={ 155 134 2 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Yonstaun"
 
 				b_johnstown_NY = {}
 				b_amsterdam_NY = {}
@@ -263,12 +306,15 @@
 			color2={ 220 220 0 }
 
 			capital = 6
+			
+			deitsch = "Hudsonwaelli"
 
 			c_newburgh = {
 
 				color={ 175 82 41 }
 				color2={ 220 220 0 }
 				
+				deitsch = "Neibarrig"
 				yiddish = "Kiryas Joel"
 
 				b_newburgh_NY = {}
@@ -291,6 +337,8 @@
 				color2={ 220 220 0 }
 				holy_site = occultist
 				holy_site = occultist_reformed
+				
+				deitsch = "Puhgibsen"
 
 				b_poughkeepsie_NY = {}
 				b_sleepy_hollow_NY = {}
@@ -310,6 +358,8 @@
 
 				color={ 139 56 10 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Waldstuck"
 
 				b_woodstock_NY = {}
 				b_kingston_NY = {}
@@ -340,6 +390,8 @@
 
 				color={ 254 128 44 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Trojen"
 
 				b_troy_NY = {}
 				b_wynantskill_NY = {}
@@ -358,10 +410,14 @@
 			color2={ 220 220 0 }
 
 			capital = 39
+			
+			deitsch = "Schamplein"
 
 			c_plattsburgh = {
 				color={ 60 120 100 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Plattbarrig"
 
 				b_plattsburgh_NY = {}
 				b_beekmantown_NY = {}
@@ -375,6 +431,8 @@
 			c_ticonderoga = {
 				color={ 75 100 90 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Konderogen"
 
 				b_ticonderoga_NY = {}
 				b_essex_NY = {}
@@ -390,6 +448,8 @@
 			c_chepontuc = {
 				color={ 75 140 120 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Keenichinsbarrig"
 
 				b_glens_falls_NY = {
 					used_for_dynasty_names = no
@@ -409,12 +469,14 @@
 
 			capital = 18
 			
+			deitsch = "Katzkill"
 			yiddish = "Di Yidish Alps"
 
 			c_shawangunk = {
 				color={ 35 140 40 }
 				color2={ 220 220 0 }
 				
+				deitsch = "Schawengunk"
 				yiddish = "Solomon"
 
 				b_goshen_NY = {}
@@ -429,7 +491,9 @@
 			c_otsego = {
 				color={ 40 145 45 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Otsegen"
+				
 				b_cooperstown_NY = {}
 				b_oneonta_NY = {}
 				b_edmeston_NY = {}
@@ -442,6 +506,8 @@
 			c_schoharie = {
 				color={ 30 140 50 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Schohari"
 
 				b_cobleskill_NY = {}
 				b_middleburgh_NY = {}
@@ -459,8 +525,9 @@
 		color={ 2 128 255 }
 		color2={ 220 220 0 }
 		
+		deitsch = "Nei-Yarrick"
 		yiddish = "Niu Yark"
-
+		
 		# Crusade target weight
 		catholic = 5
 		ursuline = 5
@@ -500,6 +567,8 @@
 				holy_site = occultist_reformed
 				holy_site = jewish
 				holy_site = reform
+				
+				deitsch = "Mannatten"
 
 				b_manhattan_NY = {}
 				b_bronx_NY = {}
@@ -524,6 +593,7 @@
 			color={ 6 150 204 }
 			color2={ 220 220 0 }
 			
+			deitsch = "Langeninsel"
 			yiddish = "Lang Inzel"
 
 			capital = 2
@@ -534,6 +604,8 @@
 				color2={ 220 220 0 }
 				holy_site = jewish
 				holy_site = reform
+				
+				deitsch = "Bruchlin"
 
 				b_brooklyn_NY = {}
 				b_queens_NY = {}
@@ -552,6 +624,7 @@
 				color={ 7 182 248 }
 				color2={ 220 220 0 }
 				
+				deitsch = "Langeninsel"
 				yiddish = "Lang Inzel"
 
 				b_hempstead_NY = {}
@@ -578,6 +651,7 @@
 			color={ 186 171 205 }
 			color2={ 220 220 0 }
 			
+			deitsch = "Nord-Schaersi"
 			yiddish = "Dzherzi"
 
 			capital = 4
@@ -585,7 +659,9 @@
 			c_kittatinny = { # Skylands? Raritan?
 				color={ 200 185 215 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Kittinen"
+				
 				b_sussex_NJ = {}
 				b_wantage_NJ = {}
 				b_newton_NJ = {}
@@ -602,6 +678,7 @@
 				holy_site = rust_cultist
 				holy_site = rust_cultist_reformed
 				
+				deitsch = "Pallisaden"
 				yiddish = "Dzherzi"
 
 				b_newark_NJ = {}
@@ -617,6 +694,7 @@
 				color={ 160 140 190 }
 				color2={ 220 220 0 }
 				
+				deitsch = "Monmout"
 				yiddish = "Lakewood"
 
 				b_middletown_NJ = {}
@@ -636,6 +714,7 @@
 			color={ 104 181 34 }
 			color2={ 220 220 0 }
 			
+			deitsch = "Schaersi"
 			yiddish = "Dzherzi Breg"
 
 			capital = 25
@@ -665,6 +744,7 @@
 				color={ 115 180 30 }
 				color2={ 220 220 0 }
 				
+				deitsch = "Sud-Schaersi"
 				yiddish = "Dorem Dzherzi"
 
 				b_vineland_NJ = {}
@@ -679,7 +759,9 @@
 			c_trenton = {
 				color={ 95 165 30 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Trenttaun"
+				
 				b_trenton_NJ = {}
 				b_princeton_NJ = {}
 				b_hightstown_NJ = {}
@@ -695,11 +777,15 @@
 			color2={ 220 220 0 }
 
 			capital = 47 # Hartford
-
+			
+			deitsch = "Konnterkut"
+			
 			c_quinnipiac = {
 				color={ 200 150 150 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Kwinpaken"
+				
 				b_new_haven_CT = {}
 				b_norwalk_CT = {}
 				b_bridgeport_CT = {}
@@ -718,7 +804,9 @@
 			c_hartford = {
 				color={ 209 116 105 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Haerzfurt"
+				
 				b_hartford_CT = {}
 				b_windsor_CT = {}
 				b_suffield_CT = {}
@@ -736,7 +824,9 @@
 			c_norwich = {
 				color={ 231 181 175 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Nordwick"
+				
 				b_norwich_CT = {}
 				b_niantic_CT = {}
 				b_stonington_CT = {}
@@ -749,7 +839,9 @@
 			c_quiet_corner = {
 				color={ 210 110 105 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Stillekorner"
+				
 				b_putnam_CT = {}
 				b_thompson_CT = {}
 				b_webster_MA = {}
@@ -783,11 +875,15 @@
 		thelemic_reformed = 500
 		norse_pagan_reformed = 5
 		jewish = 200
+		
+		deitsch = "Kolumbi"
+		yiddish = "Amerika"
 
 		d_philadelphia = {
 			color={ 55 124 208 }
 			color2={ 220 220 0 }
 			
+			deitsch = "Filadelfi"
 			yiddish = "Filadelfyi"
 			
 			capital = 27 # Philadelphia
@@ -795,11 +891,13 @@
 			c_philadelphia = {
 				color={ 40 105 180 }
 				color2={ 220 220 0 }
-				yiddish = "Filadelfyi"
 				holy_site = evangelical
 				holy_site = anabaptist
 				holy_site = americanist
 				holy_site = consumerist #actual closest province to KoP mall
+				
+				deitsch = "Filadelfi"
+				yiddish = "Filadelfyi"
 
 				b_philadelphia_PA = {
 					deitsch = "Filadelfi"
@@ -822,10 +920,14 @@
 			color2={ 220 220 0 }
 
 			capital = 53
-
+			
+			deitsch = "Dellawerwaelli"
+			
 			c_wilmington = {
 				color={ 200 140 30 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Willmingtaun"
 
 				b_wilmington_DE = {}
 				b_claymont_DE = {}
@@ -845,6 +947,8 @@
 			c_dover = {
 				color={ 220 180 50 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Dower"
 
 				b_dover_DE = {}
 				b_milford_DE = {}
@@ -863,6 +967,8 @@
 			c_choptank = {
 				color={ 195 160 45 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Schoptanck"
 
 				b_easton_MD = {}
 				b_cambridge_MD = {}
@@ -876,6 +982,8 @@
 			c_pocomoke = {
 				color={ 195 100 45 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Pochmock"
 
 				b_crisfield_MD = {}
 				b_temperanceville_VA = {}
@@ -892,12 +1000,15 @@
 			color2={ 220 220 0 }
 
 			deitsch = "Marrland"
+			yiddish = "Eretz Miryam"
 
 			capital = 52
 
 			c_baltimore = {
 				color={ 136 128 104 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Palzimoor"
 
 				b_baltimore_MD = {}
 				b_dundalk_MD = {}
@@ -916,7 +1027,9 @@
 			c_severn = {
 				color={ 136 128 102 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Sewern"
+				
 				b_annapolis_MD = {}
 				b_edgewater_MD = {}
 				b_davidsonville_MD = {}
@@ -931,7 +1044,9 @@
 				color={ 130 120 100 }
 				color2={ 220 220 0 }
 				holy_site = anabaptist
-
+				
+				deitsch = "Friedrich"
+				
 				b_frederick_MD = {}
 				b_hagerstown_MD = {}
 				b_thurmont_MD = {}
@@ -946,6 +1061,7 @@
 			color={ 166 210 255 }
 			color2={ 220 220 0 }
 			
+			deitsch = "Waschington"
 			yiddish = "Vashington"
 			
 			dignity = 10
@@ -986,7 +1102,9 @@
 		color={ 255 201 14 }
 		color2={ 220 220 0 }
 
-		capital = 51
+		capital = 88 #Yohogania
+		
+		deitsch = "Allgeni"
 
 		# Crusade target weight
 		catholic = 5
@@ -1003,10 +1121,14 @@
 			color2={ 220 220 0 }
 
 			capital = 17
+			
+			deitsch = "Neigaren"
 
 			c_buffalo = {
 				color={ 130 60 60 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Bufflo"
 
 				b_buffalo_NY = {}
 				b_cheektowaga_NY = {}
@@ -1022,6 +1144,8 @@
 			c_chautauqua = {
 				color={ 88 44 44 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Schautaucken"
 
 				b_jamestown_NY = {}
 				b_mayville_NY = {}
@@ -1035,6 +1159,8 @@
 			c_genesee = {
 				color={ 150 75 75 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Genensee"
 
 				b_batavia_NY = {}
 				b_warsaw_NY = {}
@@ -1061,177 +1187,19 @@
 				b_wattsburg_PA = {}
 			}
 		}
-		d_coalland = {
-			color={ 99 100 87 }
-			color2={ 220 220 0 }
-
-			capital = 51
-
-			c_lehigh = {
-				color={ 146 147 130 }
-				color2={ 220 220 0 }
-
-				deitsch = "Lechaa"
-				holy_site = anabaptist
-
-				b_allentown_PA = {
-					deitsch = "Allenschteddel"
-				}
-				b_bethlehem_PA = {}
-				b_easton_PA = {}
-				b_quakertown_PA = {}
-				b_fogelsville_PA = {}
-				b_hellertown_PA = {}
-				b_slatington_PA = {}
-				b_perkasie_PA = {}
-				### above and beyond ###
-				b_souderton_PA = {}
-				b_emmaus_PA = {}
-				b_kunkletown_PA = {}
-				b_kutztown_PA = {
-					deitsch = "Kutzeschtettel"
-				}		
-			}
-			c_pocono = {
-				color={ 159 168 142 }
-				color2={ 220 220 0 }
-
-				b_scranton_PA = {}
-				b_wilkesbarre_PA = {}
-				b_carbondale_PA = {}
-				b_stroudsburg_PA = {}
-				b_honesdale_PA = {}
-				b_pittston_PA = {}
-				b_barryville_PA = {}
-				b_moosic_PA = {}
-			}
-			c_schuylkill = {
-				color={ 114 115 100 }
-				color2={ 220 220 0 }
-				holy_site = anabaptist
-
-				b_reading_PA = {
-					deitsch = "Reddin"
-				}
-				b_lancaster_PA = {
-					deitsch = "Lengeschder"
-				}
-				b_pottstown_PA = {}
-				b_reamstown_PA = {
-					deitsch = "Reimeschteddel"
-				}
-				b_mohnton_PA = {}
-				b_pottsgrove_PA = {}
-				b_reiffton_PA = {}
-				b_birdsboro_PA = {}
-			}
-			c_pottsville = {
-				color={ 90 92 67 }
-				color2={ 220 220 0 }
-
-				b_pottsville_PA = {}
-				b_coaldale_PA = {}
-				b_orwigsburg_PA = {}
-				b_frackville_PA = {}
-				b_tamaqua_PA = {}
-				b_minersville_PA = {}
-				b_forrestville_PA = {}
-				b_renningers_PA = {}
-				b_locustdale_PA = {}
-				b_branchdale_PA = {}
-			}
-		}
-		d_east_susquehanna = {
-			color={ 162 181 30 }
-			color2={ 220 220 0 }
-
-			capital = 85
-
-			c_chemung = {
-				color={ 123 137 22 }
-				color2={ 220 220 0 }
-
-				b_elmira_NY = {}
-				b_horseheads_NY = {}
-				b_southport_NY = {}
-				b_waverly_NY = {}
-				b_sayre_PA = {}
-				b_athens_PA = {}
-				b_owego_NY = {}
-				b_gillett_PA = {}
-			}
-			c_tripolis = {
-				color={ 198 220 39 }
-				color2={ 220 220 0 }
-
-				b_binghamton_NY = {}
-				b_endicott_NY = {}
-				b_johnson_city_NY = {}
-				b_conklin_NY = {}
-				b_susquehanna_PA = {}
-				b_montrose_PA = {}
-				b_vestal_NY = {}
-				b_friendsville_PA = {}
-			}
-			c_williamsport = {
-				color={ 139 157 36 }
-				color2={ 220 220 0 }
-
-				b_williamsport_PA = {}
-				b_lock_haven_PA = {}
-				b_selinsgrove_PA = {}
-				b_sunbury_PA = {}
-				b_lewisburg_PA = {}
-				b_middleburg_PA = {}
-				b_dornsife_PA = {}
-				b_northumberland_PA = {}
-				b_montoursville_PA = {}
-				b_watsontown_PA = {}
-			}
-		}
-		d_west_susquehanna = {
-			color={ 134 133 121 }
-			color2={ 220 220 0 }
-
-			capital = 83
-
-			c_susquehanna = {
-				color={ 130 130 120 }
-				color2={ 220 220 0 }
-
-				b_harrisburg_PA = {
-					deitsch = "Harrisbarrig"
-				}
-				b_york_PA = {
-					deitsch = "Yarrick"
-				}
-				b_hershey_PA = {}
-				b_steelton_PA = {}
-				b_elizabethtown_PA = {}
-				b_mechanicsburg_PA = {}
-				b_linglestown_PA = {}
-				b_schlusser_PA = {}
-				b_dillsburg_PA = {}
-				b_gettysburg_PA = {}
-			}
-			c_rothrock = {
-				color={ 179 179 151 }
-				color2={ 220 220 0 }
-
-				b_altoona_PA = {}
-				b_hollidaysburg_PA = {}
-				b_state_college_PA = {}
-				b_huntingdon_PA = {}
-				b_chambersburg_PA = {}
-				b_needmore_Pa = {}
-				b_duncansville_PA = {}
-				b_williamsburg_PA = {}
-				b_claysburg_PA = {}
-				b_everett_PA = {}
-			}
+		d_wilds = {
+			color={ 53 128 20 }
+			color2={ 220 220 20 }
+			
+			capital = 106
+			
+			deitsch = "Gliftse"
+			
 			c_upper_allegheny = {
 				color={ 145 145 125 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Oberallgeni"
 
 				b_bradford_PA = {}
 				b_smethport_PA = {}
@@ -1247,6 +1215,8 @@
 			c_susquehannock = {
 				color={ 159 159 151 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Suskhannoch"
 
 				b_gaines_PA = {}
 				b_north_bend_PA = {}
@@ -1257,30 +1227,20 @@
 				b_cammal_PA = {}
 				b_ulysses_PA = {}
 			}
-			c_three_mile_island = {
-				color={ 159 145 133 }
-				color2={ 220 220 0 }
-				holy_site = atomicist
-
-				b_middletown_PA = {}
-				b_paddletown_PA = {}
-				b_royalton_PA = {}
-				b_goldsboro_PA = {}
-				b_york_haven_PA = {}
-				b_valley_green_PA = {}
-				b_bainbridge_PA = {}
-				b_manchester_PA = {}
-			}
 		}
 		d_westsylvania = {
 			color={ 205 170 35 }
 			color2={ 220 220 0 }
 
 			capital = 88
+			
+			deitsch = "Westsylvanien"
 
 			c_moshannon = {
 				color={ 175 145 30 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Moschannen"
 
 				b_punxsutawney_PA = {}
 				b_dubois_PA = {}
@@ -1299,6 +1259,8 @@
 				holy_site = rust_cultist
 				holy_site = rust_cultist_reformed
 				holy_site = anabaptist
+				
+				deitsch = "Yohogen"
 
 				b_pittsburgh_PA = {
 					deitsch = "Pittsbarig"
@@ -1316,6 +1278,8 @@
 			c_laurel_highlands = {
 				color={ 225 200 120 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Larrellanden"
 
 				b_johnstown_PA = {}
 				b_ebensburg_PA = {}
@@ -1331,6 +1295,8 @@
 			c_lower_allegheny = {
 				color={ 140 115 25 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Niederallgeni"
 
 				b_mercer_PA = {}
 				b_hermitage_PA = {}
@@ -1346,8 +1312,12 @@
 			c_greensburg = {
 				color={ 210 186 120 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Griebarrig"
 
-				b_greensburg_PA = {}
+				b_greensburg_PA = {
+					deitsch = "Griebarrig"
+					}
 				b_youngwood_PA = {}
 				b_connellsville_PA = {}
 				b_uniontown_PA = {}
@@ -1360,12 +1330,385 @@
 			}
 		}
 	}
+	
+	k_keystone = {
+		color= { 136 40 70 } #{ 195 205 185 }
+		color2={ 220 220 0 }
+		
+		culture = deitsch
+		
+		deitsch = "Deitschrei"
+
+		capital = 51 # Schuylkill
+		
+		d_coalland = {
+			color={ 99 100 87 }
+			color2={ 220 220 0 }
+
+			capital = 51
+			
+			deitsch = "Kohlenland"
+
+			c_lehigh = {
+				color={ 146 147 130 }
+				color2={ 220 220 0 }
+
+				deitsch = "Lechaa"
+				holy_site = anabaptist
+
+				b_allentown_PA = {
+					deitsch = "Allenschteddel"
+				}
+				b_bethlehem_PA = {
+					deitsch = "Betlehem"
+					}
+				b_easton_PA = {
+					deitsch = "Oschttaun"
+					}
+				b_quakertown_PA = {
+					deitsch = "Quaekertaun"
+					}
+				b_fogelsville_PA = {
+					deitsch = "Fogelsdaref"
+					}
+				b_hellertown_PA = {
+					deitsch = "Hellerschteddel"
+					}
+				b_slatington_PA = {
+					deitsch = "Schlaetingtaun"
+					}
+				b_perkasie_PA = {
+					deitsch = "Perkassi"
+					}
+				### above and beyond ###
+				b_souderton_PA = {
+					deitsch = "Suddertaun"
+					}
+				b_emmaus_PA = {}
+				b_kunkletown_PA = {
+					deitsch = "Kunckeltaun"
+					}
+				b_kutztown_PA = {
+					deitsch = "Kutzschteddel"
+				}		
+			}
+			c_pocono = {
+				color={ 159 168 142 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Pockonen"
+
+				b_scranton_PA = {
+					deitsch = "Schkranten"
+					}
+				b_wilkesbarre_PA = {
+					deitsch = "Wilchesbarren"
+					}
+				b_carbondale_PA = {
+					deitsch = "Kohleschtofftdaal"
+					}
+				b_stroudsburg_PA = {
+					deitsch = "Straudsbarrig"
+					}
+				b_honesdale_PA = {
+					deitsch = "Honesdaal"
+					}
+				b_pittston_PA = {
+					deitsch = "Pittstaun"
+					}
+				b_barryville_PA = {
+					deitsch = "Berridaref"
+					}
+				b_moosic_PA = {
+					deitsch = "Musik"
+					}
+			}
+			c_schuylkill = {
+				color={ 114 115 100 }
+				color2={ 220 220 0 }
+				holy_site = anabaptist
+
+				b_reading_PA = {
+					deitsch = "Reddin"
+				}
+				b_lancaster_PA = {
+					deitsch = "Lengeschder"
+				}
+				b_pottstown_PA = {
+					deitsch = "Putzschteddel"
+					}
+				b_reamstown_PA = {
+					deitsch = "Reimeschteddel"
+				}
+				b_mohnton_PA = {
+					deitsch = "Mohntaun"
+					}
+				b_pottsgrove_PA = {
+					deitsch = "Putzhain"
+					}
+				b_reiffton_PA = {
+					deitsch = "Reifftaun"
+					}
+				b_birdsboro_PA = {
+					deitsch = "Voggelsbarrig"
+					}
+			}
+			c_pottsville = {
+				color={ 90 92 67 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Putzdaref"
+
+				b_pottsville_PA = {
+					deitsch = "Putzdaref"
+					}
+				b_coaldale_PA = {
+					deitsch = "Kohldaal"
+					}
+				b_orwigsburg_PA = {
+					deitsch = "Orwigsbarrig"
+					}
+				b_frackville_PA = {
+					deitsch = "Frackdaref"
+					}
+				b_tamaqua_PA = {
+					deitsch = "Temache"
+					}
+				b_minersville_PA = {
+					deitsch = "Meindersdaref"
+					}
+				b_forrestville_PA = {
+					deitsch = "Buschdaref"
+					}
+				b_renningers_PA = {
+					deitsch = "Renningeren"}
+				b_locustdale_PA = {
+					deitsch = "Locusdaal"
+					}
+				b_branchdale_PA = {
+					deitsch = "Zackedaal"
+					}
+			}
+		}
+		d_east_susquehanna = {
+			color={ 162 181 30 }
+			color2={ 220 220 0 }
+
+			capital = 85
+			
+			deitsch = "Ostsuskahnen"
+
+			c_chemung = {
+				color={ 123 137 22 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Schmung"
+
+				b_elmira_NY = {
+					deitsch = "Elmiren"
+					}
+				b_horseheads_NY = {
+					deitsch = "Gaulbaalen"
+					}
+				b_southport_NY = {
+					deitsch = "Suddhafen"
+					}
+				b_waverly_NY = {
+					deitsch = "Waverli"
+					}
+				b_sayre_PA = {
+					deitsch = "Saehre"}
+				b_athens_PA = {
+					deitsch = "Atten"
+					}
+				b_owego_NY = {}
+				b_gillett_PA = {}
+			}
+			c_tripolis = {
+				color={ 198 220 39 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Dreischtedt"
+
+				b_binghamton_NY = {
+					deitsch = "Binghamtaun"
+					}
+				b_endicott_NY = {
+					deitsch = "Endikott"
+					}
+				b_johnson_city_NY = {
+					deitsch = "Hanssohschtadt"
+					}
+				b_conklin_NY = {
+					deitsch = "Konklin"
+					}
+				b_susquehanna_PA = {
+					deitsch = "Suskahnen"
+					}
+				b_montrose_PA = {
+					deitsch = "Montros"
+					}
+				b_vestal_NY = {}
+				b_friendsville_PA = {
+					deitsch = "Freindsdaref"
+					}
+			}
+			c_williamsport = {
+				color={ 139 157 36 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Wilhelmshafen"
+
+				b_williamsport_PA = {
+					deitsch = "Wilhelmshafen"
+					}
+				b_lock_haven_PA = {
+					deitsch = "Schlosshafen"
+					}
+				b_selinsgrove_PA = {
+					deitsch = "Selinhain"
+					}
+				b_sunbury_PA = {
+					deitsch = "Sunnbarrig"
+					}
+				b_lewisburg_PA = {
+					deitsch = "Luwisbarrig"
+					}
+				b_middleburg_PA = {
+					deitsch = "Middelbarrig"
+					}
+				b_dornsife_PA = {}
+				b_northumberland_PA = {
+					deitsch = "Naddumberland"
+					}
+				b_montoursville_PA = {
+					deitsch = "Montersdaref"
+					}
+				b_watsontown_PA = {
+					deitsch = "Watsontaun"
+					}
+			}
+		}
+		d_west_susquehanna = {
+			color={ 134 133 121 }
+			color2={ 220 220 0 }
+			
+			deitsch = "Westsuskahnen"
+
+			capital = 83
+
+			c_susquehanna = {
+				color={ 130 130 120 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Suskahnen"
+
+				b_harrisburg_PA = {
+					deitsch = "Harrisbarrig"
+				}
+				b_york_PA = {
+					deitsch = "Yarick"
+				}
+				b_hershey_PA = {
+					deitsch = "Herschi"
+					}
+				b_steelton_PA = {
+					deitsch = "Schtaaltaun"
+					}
+				b_elizabethtown_PA = {
+					deitsch = "Elizabetschteddel"
+					}
+				b_mechanicsburg_PA = {
+					deitsch = "Handwaericksmannsbarrig"
+					}
+				b_linglestown_PA = {
+					deitsch = "Lingelschteddel"
+					}
+				b_schlusser_PA = {}
+				b_dillsburg_PA = {
+					deitsch = "Dillsbarrig"
+					}
+				b_gettysburg_PA = {
+					deitsch = "Gettisbarrig"
+					}
+			}
+			c_rothrock = {
+				color={ 179 179 151 }
+				color2={ 220 220 0 }
+				
+				deitsch = "Rottrock"
+
+				b_altoona_PA = {
+					deitsch = "Altuna"
+					}
+				b_hollidaysburg_PA = {
+					deitsch = "Feierdaagsbarrig"
+					}
+				b_state_college_PA = {
+					deitsch = "Schtaatkalletsch"
+					}
+				b_huntingdon_PA = {
+					deitsch = "Yachtaun"
+					}
+				b_chambersburg_PA = {
+					deitsch = "Kammersbarrig"
+					}
+				b_needmore_Pa = {
+					deitsch = "Brauchemehner"
+					}
+				b_duncansville_PA = {
+					deitsch = "Dunkansdaref"
+					}
+				b_williamsburg_PA = {
+					deitsch = "Wilhelmsbarrig"
+					}
+				b_claysburg_PA = {
+					deitsch = "Leddesbarrig"
+					}
+				b_everett_PA = {}
+			}
+			c_three_mile_island = {
+				color={ 159 145 133 }
+				color2={ 220 220 0 }
+				holy_site = atomicist
+				
+				deitsch = "Dreimeileninsel"
+
+				b_middletown_PA = {
+					deitsch = "Middeltaun"
+					}
+				b_paddletown_PA = {
+					deitsch = "Britschteddel"
+					}
+				b_royalton_PA = {
+					deitsch = "Keenichlichtaun"
+					}
+				b_goldsboro_PA = {
+					deitsch = "Goldsbarrig"
+					}
+				b_york_haven_PA = {
+					deitsch = "Yarickhafen"
+					}
+				b_valley_green_PA = {
+					deitsch = "Daalgrie"
+					}
+				b_bainbridge_PA = {
+					deitsch = "Naegschtbrick"
+					}
+				b_manchester_PA = {
+					deitsch = "Mannschester"
+					}
+			}
+		}
+	}
+		
 	k_new_england = {
 		color={ 100 175 145 }
 		color2={ 220 220 0 }
 		
 		quebecois = "Nouvelle Angleterre"
 		yiddish = "Niu England"
+		deitsch = "Nei-England"
 		
 		capital = 69
 
@@ -1383,12 +1726,18 @@
 			color={ 34 177 76 }
 			color2={ 220 220 0 }
 			capital = 44 # Burlington
+			
+			deitsch = "Greibarigen"
 
 			c_bennington = {
 				color={ 53 217 102 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Benningschteddel"
 
-				b_bennington_VT = {}
+				b_bennington_VT = {
+					deitsch = "Benningschteddel"
+					}
 				b_greenwich_NY = {}
 				b_dorset_VT = {}
 				b_shaftsbury_VT = {}
@@ -1400,8 +1749,12 @@
 			c_montpelier = {
 				color={ 17 89 38 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Monpellir"
 
-				b_montpelier_VT = {}
+				b_montpelier_VT = {
+					deitsch = "Monpellir"
+					}
 				b_berlin_VT = {}
 				b_barre_VT = {}
 				b_plainfield_VT = {}
@@ -1413,8 +1766,12 @@
 			c_newport = {
 				color={ 28 147 64 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Neiport"
 
-				b_newport_VT = {}
+				b_newport_VT = {
+					deitsch = "Neiport"
+					}
 				b_brighton_VT = {}
 				b_barton_VT = {}
 				b_orleans_VT = {}
@@ -1426,8 +1783,12 @@
 			c_rutland = {
 				color={ 40 210 90 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Ruttland"
 
-				b_rutland_VT = {}
+				b_rutland_VT = {
+					deitsch = "Ruttland"
+					}
 				b_pittsford_VT = {}
 				b_shoreham_VT = {}
 				b_castleton_VT = {}
@@ -1439,8 +1800,12 @@
 			c_burlington = {
 				color={ 40 140 100 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Burlingtaun"
 
-				b_burlington_VT = {}
+				b_burlington_VT = {
+					deitsch = "Burlingtaun"
+					}
 				b_essex_VT = {}
 				b_colchester_VT = {}
 				b_underhill_VT = {}
@@ -1457,12 +1822,18 @@
 
 			capital = 61 # Pioneer Valley, where Springfield is
 			culture = yankee
+			
+			deitsch = "Masseschusetten"
 
 			c_worcester = {
 				color={ 56 81 167 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Wurschester"
 
-				b_worcester_MA = {}
+				b_worcester_MA = {
+					deitsch = "Wurschester"
+					}
 				b_fitchburg_MA = {}
 				b_gardner_MA = {}
 				b_leominster_MA = {}
@@ -1475,6 +1846,8 @@
 			c_berkshires = {
 				color={ 20 29 58 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Berchschirren"
 
 				b_pittsfield_MA = {}
 				b_lanesborough_MA = {}
@@ -1488,6 +1861,8 @@
 			c_pioneer_valley = {
 				color={ 30 50 90 }
 				color2={ 220 220 0 }
+				
+				deitsch = "Pionierdaal"
 
 				b_springfield_MA = {}
 				b_amherst_MA = {}
@@ -1503,6 +1878,8 @@
 				color2={ 220 220 0 }
 				#holy_site = anabaptist
 				#holy_site = occultist
+				
+				deitsch = "Proffdentz"
 
 				b_providence_RI = {}
 				b_pawtucket_RI = {}
@@ -1519,6 +1896,8 @@
 			color2={ 220 220 20 }
 
 			capital = 69
+			
+			deitsch = "Bosten"
 
 			c_boston = {
 				color={ 170 185 80 }
@@ -1528,9 +1907,13 @@
 				holy_site = americanist
 				holy_site = thelemic
 				holy_site = thelemic_reformed
-
+				
+				deitsch = "Bosten"
+				
 				b_cambridge_MA = {}
-				b_boston_MA = {}
+				b_boston_MA = {
+					deitsch = "Bosten"
+					}
 				b_quincy_MA = {}
 				b_weymouth_MA = {}
 				b_dorchester_MA = {}
@@ -1542,8 +1925,12 @@
 			c_plymouth = {
 				color={ 210 220 160 }
 				color2={ 220 220 20 }
-
-				b_plymouth_MA = {}
+				
+				deitsch = "Plimuff"
+				
+				b_plymouth_MA = {
+					deitsch = "Plimuff"
+					}
 				b_falmouth_MA = {}
 				b_taunton_MA = {}
 				b_barnstable_MA = {}
@@ -1555,7 +1942,9 @@
 			c_merrimack = {
 				color={ 210 230 100 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Merrmeck"
+				
 				b_portsmouth_NH = {}
 				b_gloucester_MA = {}
 				b_salem_MA = {}
@@ -1571,11 +1960,15 @@
 			color2={ 220 220 20 }
 
 			capital = 72
+			
+			deitsch = "Pennkochen"
 
 			c_monadnock = {
 				color={ 60 120 200 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Mundnoch"
+				
 				b_manchester_NH = {}
 				b_peterborough_NH = {}
 				b_keene_NH = {}
@@ -1588,7 +1981,9 @@
 			c_concord = {
 				color={ 140 175 220 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Koncherd"
+				
 				b_concord_NH = {}
 				b_boscawen_NH = {}	
 				b_contoocook_NH = {}
@@ -1601,7 +1996,9 @@
 			c_white_mountain = {
 				color={ 95 135 200 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Weissbarigen"
+				
 				b_lincoln_NH = {}
 				b_haverhill_NH = {}
 				b_woodstock_NH = {}
@@ -1614,7 +2011,9 @@
 			c_coos = {
 				color={ 80 140 230 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Kuss"
+				
 				b_pittsburg_NH = {}
 				b_colebrook_NH = {}
 				b_stewartstown_NH = {}
@@ -1630,10 +2029,14 @@
 			color2={ 220 220 20 }
 
 			capital = 128
-
+			
+			deitsch = "Meyn"
+			
 			c_mahoosuc = {
 				color={ 130 65 125 }
 				color2={ 220 220 20 }
+				
+				deitsch = "Mauschtuck"
 
 				b_rumford_ME = {}
 				b_andover_ME = {}
@@ -1647,7 +2050,9 @@
 			c_belknap_lakes = {
 				color={ 145 60 145 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Bellnaff"
+				
 				b_laconia_NH = {}
 				b_wolfeboro_NH = {}
 				b_meredith_NH = {}
@@ -1660,7 +2065,9 @@
 			c_southern_maine = {
 				color={ 150 80 150 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Sudmeyn"
+				
 				b_portland_ME = {}
 				b_biddeford_ME = {}
 				b_windham_ME = {}
@@ -1674,7 +2081,9 @@
 			c_kennebec = {
 				color={ 90 45 95 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Kennbach"
+				
 				b_augusta_ME = {}
 				b_brunswick_ME = {}
 				b_lewiston_ME = {}
@@ -1687,7 +2096,9 @@
 			c_skowhegan = {
 				color={ 111 99 111 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Schowegen"
+				
 				b_skowhegan_ME = {}
 				b_norridgewock_ME = {}
 				b_canaan_ME = {}
@@ -1703,14 +2114,20 @@
 			color2={ 220 220 20 }
 
 			capital = 196
-
+			
+			deitsch = "Pennaufschot"
+			
 			c_bangor = {
 				color={ 60 77 78 }
 				color2={ 220 220 20 }
 				holy_site = occultist
 				holy_site = occultist_reformed
-
-				b_bangor_ME = {}
+				
+				deitsch = "Bangohr"
+				
+				b_bangor_ME = {
+					deitsch = "Bangohr"
+					}
 				b_hampden_ME = {}
 				b_bucksport_ME = {}
 				b_belfast_ME = {}
@@ -1722,7 +2139,9 @@
 			c_mount_desert = {
 				color={ 39 58 59 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Wustesmont"
+				
 				b_bar_harbor_ME = {}
 				b_ellsworth_ME = { # on the mainland
 				}
@@ -1736,7 +2155,9 @@
 			c_machias = {
 				color={ 78 101 102 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Machiyas"
+				
 				b_machias_ME = {}
 				b_machiasport_ME = {}
 				b_addison_ME = {}
@@ -1749,7 +2170,9 @@
 			c_mattawamkeag = {
 				color={ 55 66 77 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Masswamkech"
+				
 				b_mattawamkeag_ME = {}
 				b_lincoln_ME = {}
 				b_kingman_ME = {}
@@ -1762,7 +2185,9 @@
 			c_penobscot = {
 				color={ 45 60 77 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Pennaufschot"
+				
 				b_millinocket_ME = {}
 				b_milo_ME = {}
 				b_brownville_ME = {}
@@ -1778,11 +2203,15 @@
 			color2={ 220 220 20 }
 
 			capital = 200
-
+			
+			deitsch = "Aruschtuck"
+			
 			c_caribou = {
 				color={ 56 169 82 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Karibu"
+				
 				b_caribou_ME = {}
 				b_presque_isle_ME = {}
 				b_lyndon_ME = {}
@@ -1795,7 +2224,9 @@
 			c_moosehead = {
 				color={ 112 207 133 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Mousekopf"
+				
 				b_jackman_ME = {}
 				b_greenville_ME = {}
 				b_mackamp_ME = {}
@@ -1808,7 +2239,9 @@
 			c_katahdin = {
 				color={ 63 190 91 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Katzdin"
+				
 				b_katahdin_ME = {}
 				b_ripogenus_ME = {}
 				b_surdnahunk_ME = {}
@@ -1821,7 +2254,9 @@
 			c_allagash = {
 				color={ 51 153 74 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Allgasch"
+				
 				b_allagash_ME = {}
 				b_pataquongomis_ME = {}
 				b_chinquassabumtook_ME = {}
@@ -1834,7 +2269,9 @@
 			c_st_john_valley = {
 				color={ 37 112 54 }
 				color2={ 220 220 20 }
-
+				
+				deitsch = "Yonswaelli"
+				
 				b_madawaska_ME = {}
 				b_fort_kent_ME = {}
 				b_frenchville_ME = {}
@@ -1853,15 +2290,21 @@
 		color2={ 220 220 0 }
 		capital = 601 # Bermuda
 		
+		deitsch = "Wermuden"
+		
 		d_bermuda = {
 			color={ 234 27 76 }
 			color2={ 220 220 0 }
 			capital = 601 # Bermuda
-
+			
+			deitsch = "Wermuden"
+			
 			c_bermuda = {
 				color={ 253 17 102 }
 				color2={ 220 220 0 }
-
+				
+				deitsch = "Wermuden"
+				
 				b_hamilton_BRM = {}
 				b_hog_bay_BRM = {}
 				b_somerset_BRM = {}

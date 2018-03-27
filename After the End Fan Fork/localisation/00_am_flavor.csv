@@ -409,12 +409,19 @@ temple_empire_of_rust_cultist;System of;;;;;;;;;;;;;x
 count_rust_cultist;Magnate;;;;;;;;;;;;;x
 count_female_rust_cultist;Magnate;;;;;;;;;;;;;x
 county_of_rust_cultist;Enterprise of;;;;;;;;;;;;;x
+county_rust_cultist;Enterprise;;;;;;;;;;;;;x
 duke_rust_cultist;Oligarch;;;;;;;;;;;;;x
 duke_female_rust_cultist;Oligarch;;;;;;;;;;;;;x
 duchy_of_rust_cultist;Oligarchy of;;;;;;;;;;;;;x
+duchy_rust_cultist;Oligarchy;;;;;;;;;;;;;x
 king_rust_cultist;Tycoon;;;;;;;;;;;;;x
 king_female_rust_cultist;Tycoon;;;;;;;;;;;;;x
 kingdom_of_rust_cultist;Tycoonship of;;;;;;;;;;;;;x
+kingdom_rust_cultist;Tycoonship;;;;;;;;;;;;;x
+emperor_rust_cultist;Autarch;;;;;;;;;;;;;x
+emperor_female_rust_cultist;Autarch;;;;;;;;;;;;;x
+empire_of_rust_cultist;Autarchy of;;;;;;;;;;;;;x
+empire_rust_cultist;Autarchy;;;;;;;;;;;;;x
 
 city_baron_rust_cultist_reformed;Machinist;;;;;;;;;;;;;x
 city_baron_female_rust_cultist_reformed;Machinist;;;;;;;;;;;;;x
@@ -625,10 +632,10 @@ city_emperor_female;Lady Executive;;;;;;;;;;;;;x
 city_barony_of;City of;;;;;;;;;;;;;x
 city_county_of;Grand City of;Grande Cité de;Großstadt;;Ciudad de;;;;;;;;;x
 city_duchy_of;Republic of;;;;;;;;;;;;;x
-city_kingdom_of;State of;;;;;;;;;;;;;x
-city_empire_of;United States of;;;;;;;;;;;;;x
-city_kingdom;State;;;;;;;;;;;;;x
-city_empire;United States;;;;;;;;;;;;;x
+city_kingdom_of_americanist;State of;;;;;;;;;;;;;x
+city_empire_of_americanist;United States of;;;;;;;;;;;;;x
+city_kingdom_americanist;State;;;;;;;;;;;;;x
+city_empire_americanist;United States;;;;;;;;;;;;;x
 city_barony_rust_cultist;Machinery;;;;;;;;;;;;;x
 city_county_rust_cultist;Shop;;;;;;;;;;;;;x
 city_duchy_rust_cultist;Factory;;;;;;;;;;;;;x
@@ -989,10 +996,50 @@ job_spymaster_novorusskiy;Oprichnik;;;;;;;;;;;;;x
 job_chancellor_novorusskiy;Polpred;;;;;;;;;;;;;x
 job_treasurer_novorusskiy;Ekonom;;;;;;;;;;;;;x
 
-nomadic_emperor;Horselord;;;;;;;;;;;;;x
-nomadic_emperor_female;Horselord;;;;;;;;;;;;;x
-nomadic_empire_of;Horselands of;;;;;;;;;;;;;x
-nomadic_empire;Horselands;;;;;;;;;;;;;x
+nomadic_king;Lawman;;;;;;;;;x
+nomadic_king_female;Missus;;;;;;;;;x
+nomadic_emperor;Sheriff;;;;;;;;;x
+nomadic_emperor_female;Ma'am;;;;;;;;;x
+nomadic_empire;Department;;;;;;;;;x
+nomadic_empire_of;Department of;;;;;;;;;x
+nomadic_kingdom;Range;;;;;;;;;x
+nomadic_kingdom_of;Range of;;;;;;;;;x
+
+nomadic_king_llanero;Caudillito;;;;;;;;;x
+nomadic_king_female_llanero;Caudillita;;;;;;;;;x
+nomadic_emperor_llanero;Caudillo;;;;;;;;;x
+nomadic_emperor_llanero_female;Caudilla;;;;;;;;;x
+nomadic_empire_llanero;Llano;;;;;;;;;;;;;x
+nomadic_empire_of_llanero;Llano of;;;;;;;;;;;;;x
+nomadic_kingdom_llanero;Llanito;;;;;;;;;;;;;x
+nomadic_kingdom_of_llanero;Llanito of;;;;;;;;;;;;;x
+
+nomadic_king_metis;Exovede;;;;;;;;;x
+nomadic_king_female_metis;Lady;;;;;;;;;x
+nomadic_emperor_metis;Exovedate President;;;;;;;;;x
+nomadic_emperor_female_metis;First Lady;;;;;;;;;x
+nomadic_empire_metis;Mishchaytowuk;;;;;;;;;x
+nomadic_empire_of_metis;Mishchaytowuk of;;;;;;;;;x
+nomadic_kingdom_metis;Baand;;;;;;;;;x
+nomadic_kingdom_of_metis;Baand of;;;;;;;;;x
+
+nomadic_king_plains;Akiçita;;;;;;;;;x
+nomadic_king_female_plains;Wiåyaå;;;;;;;;;x
+nomadic_emperor_plains;Itaåçaå;;;;;;;;;x
+nomadic_emperor_female_plains;Tawiçu;;;;;;;;;x
+nomadic_empire_plains;Obláye;;;;;;;;;x
+nomadic_empire_of_plains;Obláye of;;;;;;;;;x
+nomadic_kingdom_plains;Wichóthi;;;;;;;;;x
+nomadic_kingdom_plains;Wichóthi of;;;;;;;;;x
+
+nomadic_king_algonquian;Okimahkân;;;;;;;;;x
+nomadic_king_female_algonquian;Owikimakana;;;;;;;;;x
+nomadic_emperor_algonquian;Kihchi Okimahkan;;;;;;;;;x
+nomadic_emperor_female_algonquian;Wîwimâw;;;;;;;;;x
+nomadic_empire_algonquian;Paskwâw;;;;;;;;;x
+nomadic_empire_of_algonquian;Paskwâw of;;;;;;;;;x
+nomadic_kingdom_algonquian;Ôcênâs;;;;;;;;;x
+nomadic_kingdom_algonquian;Ôcênâs of;;;;;;;;;x
 
 duke_maya;Ajaw;;;;;;;;;;;;;x
 duke_female_maya;Ix Ajaw;;;;;;;;;;;;;x
@@ -1065,6 +1112,47 @@ city_empire_ozzi;Commonwealth;;;;;;;;;;;;;x
 city_empire_of_rockland;Allied States of;;;;;;;;;;;;;x
 city_empire_rockland;Allied States;;;;;;;;;;;;;x
 
+baron_americanist;Sergeant;;;;;;;;;;;;;x
+baron_female_americanist;Sergeant;;;;;;;;;;;;;x
+barony_of_americanist;Municipality of;;;;;;;;;;;;;x
+barony_americanist;Municipality;;;;;;;;;;;;;x
+count_americanist;Major;;;;;;;;;;;;;x
+count_female_americanist;Major;;;;;;;;;;;;;x
+duke_americanist;Colonel;;;;;;;;;;;;;x
+duke_female_americanist;Colonel;;;;;;;;;;;;;x
+duchy_of_americanist;District of;;;;;;;;;;;;;x
+duchy_americanist;District;;;;;;;;;;;;;x
+king_americanist;General;;;;;;;;;;;;;x
+king_female_americanist;General;;;;;;;;;;;;;x
+kingdom_of_americanist;Commonwealth of;;;;;;;;;;;;;x
+kingdom_americanist;Commonwealth;;;;;;;;;;;;;x
+emperor_americanist;Commander-in-chief;;;;;;;;;;;;;x
+emperor_female_americanist;Commander-in-chief;;;;;;;;;;;;;x
+
+baron_haitian;Bawon;;;;;;;;;;;;;x
+count_haitian;Konte;;;;;;;;;;;;;x
+duke_haitian;Chèf;;;;;;;;;;;;;x
+king_haitian;Wa;;;;;;;;;;;;;x
+king_female_haitian;Larenn;;;;;;;;;;;;;x
+kingdom_of_haitian;Wayòm of;;;;;;;;;;;;;x
+emperor_haitian;Anperè;;;;;;;;;;;;;x
+empire_of_haitian;Anpi of;;;;;;;;;;;;;x
+
+baron_brazilian;Barão;;;;;;;;;;;;;x
+baron_female_brazilian;Baronesa;;;;;;;;;;;;;x
+count_brazilian;Conde;;;;;;;;;;;;;x
+count_female_brazilian;Condessa;;;;;;;;;;;;;x
+county_of_brazilian;Municípo de;;;;;;;;;;;;;x
+duke_brazilian;Duque;;;;;;;;;;;;;x
+duke_female_brazilian;Duquesa;;;;;;;;;;;;;x
+duchy_of_brazilian;Ducado de;;;;;;;;;;;;;x
+king_brazilian;Rei;;;;;;;;;;;;;x
+king_female_brazilian;Rainha;;;;;;;;;;;;;x
+kingdom_of_brazilian;Reino de;;;;;;;;;;;;;x
+emperor_brazilian;Dom;;;;;;;;;;;;;x
+emperor_female_brazilian;Imperatriz;;;;;;;;;;;;;x
+empire_of_brazilian;Império de;;;;;;;;;;;;;x
+
 nick_stepping_razor;Stepping Razor;;;;;;;;;;;;;x
 nick_the_patriot;the Patriot;;;;;;;;;;;;;x
 nick_lastname;[Root.GetOnlyDynastyName];;;;;;;;;;;;;x
@@ -1117,12 +1205,22 @@ best_candidate_title_mormon_cardinal;My Best Apostle Candidate;;;;;;;;;;;;;x
 best_candidate_title_mormon_cardinal_tooltip;Of all the bishops in my realm, this one is the likeliest to get called as an Apostle.;;;;;;;;;;;;;x
 
 colonial_government;Colony;;;;;;;;;;;;;x
-colonial_government_desc;The closest American equivalent to the government of the Japanese and Russian colonies is the merchant republic. The viceroyalty changes between the five major colonial families through special elections. Colonists can also build a network of Trade Posts, even in the counties of other powers.;;;;;;;;;;;;;x
+colonial_government_desc;The closest American equivalent to the government of the Japanese and Russian colonies is the merchant republic. However, unlike American merchant republics, the Japanese and Russian colonies do not have a tradition of religious freedom. The viceroyalty changes between the five major colonial families through special elections. Colonists can also build a network of Trade Posts, even in the counties of other powers.;;;;;;;;;;;;;x
 
 bureaucratic_government;Bureaucracy;;;;;;;;;;;;;x;
 bureaucratic_government_desc;The bureaucratic system of California is similar to the Feudal system - rulers must rely on land holding vassals or varying loyalty and ambition. Rulers are allowed to reorganize their realm, revoking Prefectural titles and retracting vassals, but otherwise are not allowed to imprison vassals or revoke their titles unless they have broken the law. The maximum number of vassals and the number of Holdings you can directly own are controlled by the Centralization Law. If you should convert to a non-Cetic religion, your government form will change to Feudal.;Le système arabe de l'Iqtâ est similaire au système féodal – les souverains doivent faire appel à des vassaux pour tenir leurs fiefs et leur degré d'ambition ou de loyauté peut varier. Le nombre maximal de vassaux et le nombre de fiefs que vous pouvez directement posséder sont contrôlés par la loi de centralisation. Cependant, il n'y a qu'une seule forme de succession disponible – la succession « ouverte » chaotique, selon laquelle le fils qui détient le plus de terres est en droit d'hériter. Si vous vous convertissez à une religion de type non musulman, votre gouvernement sera de type féodal.;Das arabische Iqtasystem ähnelt dem Feudalsystem. Auch hier muss der Herrscher auf möglicherweise unzuverlässige Vasallen vertrauen. In den Zentralisierungsgesetzen ist festgelegt, wie viele Liegenschaften und wie viele Vasallen Ihr maximal haben könnt. Allerdings gibt es bei der Erbfolge nur eine einzige Variante: das chaotische 'offene' System, bei dem immer der Sohn mit dem größten Landbesitz erbt. Wenn Ihr zu einer nicht-islamischen Religion konvertiert, wechselt Eure Staatsform zum Feudalsystem.;;El sistema árabe del Iqta es similar al sistema feudal - los gobernantes deben depender de vasallos con posesiones territoriales de variable lealtad y ambición. El número máximo número de vasallos y de posesiones que puedes poseer directamente puedes poseer están controlados por la ley de centralización. Sin embargo, sólo existe una forma de sucesión: la caótica 'abierta', donde hereda el hijo con más tierras. Si te conviertes a una religión no musulmana tu forma de gobierno cambiará a feudal.;;;;;x;;;;;
 CHRONICLE_ADOPTED_BUREAUCRACY;[Root.GetDynName] adopted a Bureaucratic system in [Root.GetHerHis] domains, abandoning the old tribal ways.;[Root.GetDynName] a adopté un système d'iqta dans son domaine, abandonnant les anciennes coutumes tribales.;[Root.GetDynName] gab das Leben als Stamm auf und übernahm das Iqtasystem in [Root.GetHerHis] Gebiet.;;[Root.GetDynName] adoptó un sistema Iqta en [Root.GetHerHis] dominios, abandonando las viejas costumbres tribales.;;;;;;;;;x
 CHRONICLE_NOMAD_ADOPTED_BUREAUCRACY;[Root.GetDynName] adopted a Bureaucratic system in [Root.GetHerHis] domains, leaving their old nomad life behind them.;[Root.GetDynName] a adopté un système d'iqta dans son domaine, abandonnant son mode de vie nomade.;[Root.GetDynName] gab das Nomadendasein auf und übernahm das Iqtasystem in [Root.GetHerHis] Gebiet.;;[Root.GetDynName] adoptó un sistema Iqta en dominios de [Root.GetHerHis], dejando atrás su vida nómada.;;;;;;;;;x
+californian_imperial_government;Californian Imperialism;;;;;;;;;;;;;x;
+californian_imperial_government_desc;Californian Imperialism, much like the ordinary Feudal government, revolves around vassals owing fealty to their liege who in this case is considered to be the divine Child of Heaven, and ruler of all. The Imperial government is unique to those who claim they are the true Emperor of California, and can only be implemented by an Emperor capable of backing this claim with force...;;;;;;;;;x
+adopt_californian_imperialism_tt;You will reform the Imperial bureaucracy of the Californian Empire.;;;;;;;;;x
+adopt_californian_imperialism_gov_tt;Under Chinese Imperialism you:\n§Y*§! Can hold cities\n§Y*§! Do not care if others do not follow your religion nor can you demand their conversion\n§Y*§! Do not get opinion penalties with vassals of other government types\n§Y*§! Can not create or usurp Empires\n§Y*§! Are limited to non-elective succession laws;;;;;;;;;x
+
+bureaucracy_job_marshal;Grand Commandant;;;;;;;;;;;;;x
+bureaucracy_job_chancellor;Upholder of Ceremonies;;;;;;;;;;;;;x
+bureaucracy_job_treasurer;Superintendent of Revenues;;;;;;;;;;;;;x
+bureaucracy_job_spymaster;Investigator of Transgressions;;;;;;;;;;;;;x
+bureaucracy_job_spiritual;Guru;;;;;;;;;;;;;x
 
 bureaucracy_baron;Baron;;;;;;;;;;;;;x
 bureaucracy_baron_female;Baroness;;;;;;;;;;;;;x
@@ -1139,6 +1237,8 @@ bureaucracy_kingdom_of_female;Kingdom of;;;;;;;;;;;;;x
 bureaucracy_emperor;Celestial Emperor;;;;;;;;;;;;;x
 bureaucracy_emperor_female;Celestial Empress;;;;;;;;;;;;;x
 bureaucracy_empire_of;Celestial Empire of;;;;;;;;;;;;;x
+
+
 
 bureaucracy_title_prince;Prince;;;;;;;;;;;;;x
 bureaucracy_title_prince_female;Princess;;;;;;;;;;;;;x
@@ -1204,6 +1304,7 @@ gov_electorial_sol;Elective [PrimaryTitle.GetTier] of Sol Invicta;;;;;;;;;x
 gov_native_eldership;[Religion.GetName] Eldership;Conseil des anciens ([Religion.GetName]);[Religion.GetName]e-Ältestenherrschaft;;Anciano [Religion.GetName];;;;;;;;;x
 gov_noble_native_eldership;Noble [Religion.GetName] Eldership;Conseil noble des anciens ([Religion.GetName]);Aristokratische [Religion.GetName]e-Ältestenherrschaft;;Noble anciano [Religion.GetName];;;;;;;;;x
 gov_ecumenical;[Religion.GetName] Council Seat;;;;;;;;;x
+gov_reformed_californian_empire;Reformed Californian Empire;;;;;;;;;x
 
 string_generic_believer;believer;;;;;;;;;;;;;x
 string_generic_temple;temple;;;;;;;;;;;;;x
@@ -1330,3 +1431,7 @@ ate_sampo;Sampo;Sampo;Sampo;;Sampo;;;;;;;;;x
 ate_sampo_desc;A strangely well-crafted quern, bearing a striking resemblance to the Mill of Fortune. It is said to be able to produce gold, flour and salt from nothing at all.;Un moulin à bras étrangement bien travaillé, ressemblant de façon frappante au Moulin de la Fortune. On dit qu'il est capable de produire de l'or, de la farine et du sel à partir de rien.;Ein ungewöhnlich sorgfältig gearbeiteter Mühlstein mit einer verblüffenden Ähnlichkeit zur Zaubermühle. Wie es heißt, kann sie Gold, Mehl und Salz mahlen, ohne dass man sie jemals füllen müsste.;;Un molinillo de mano sumamente bien elaborado, con un parecido sorprendente al molinillo de la fortuna. Se dice que es capaz de fabricar oro, harina y sal de la nada.;;;;;;;;;x
 ate_fetish_of_souls;The Fetish of Souls;Le Fétiche des Âmes;Der Seelenfetisch;;El fetiche de almas;;;;;;;;;x
 ate_fetish_of_souls_desc;A piece of bark that has grown into the shape of a trio of visages. The trio's unsettling gazes pierce one's soul, almost as if some form of spirit still remains behind their eyes...;Un morceau d'écorce qui a pris la forme de plusieurs visages. Les trois regards troublants transpercent l'âme, presque comme si une certaine forme d'esprit restait derrière leurs yeux...;Ein Stück Rinde, das so gewachsen ist, dass seine Form ein Trio aus Gesichtern bildet. Der unheimliche Blick der Drei dringt dem Betrachter bis tief in die Seele, ganz so als ob hinter den Augen noch immer ein Fünkchen Leben wohnte.;;Un pedazo de corteza con la forma de tres rostros. Las inquietantes miradas del trío penetran en tu alma, casi como si existiera alguna clase de espíritu tras sus ojos...;;;;;;;;;x
+king_james_bible;King James Bible;;;;;;;;;x
+king_james_bible_desc;First commissioned by an ancient king in the days before Old America, the King James Bible has been the gold standard of all English-language bibles for over a millennium. However, only twelve complete pre-Event copies of the King James Bible are known to exist today, and the text itself is now indecipherable to those without special training.;;;;;;;;;;;;;x
+ate_mardi_gras_beads;Mardi Gras Beads;;;;;;;;;x
+ate_mardi_gras_beads_desc;Once common during festivals in New Orleans, these plastic beads were distributed to anyone who attended these events before the Event. Plastic is now a rare commodity, but not too uncommon, often found by peasants and farmers from time to time.;;;;;;;;;;;;;x

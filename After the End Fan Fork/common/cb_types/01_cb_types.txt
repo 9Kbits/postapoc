@@ -56,6 +56,7 @@ dejure_duchy_claim = { # New1
 				}
 				prestige = 1000
 			}
+			NOT = { trait = figurehead }
 		}
 	}
 	
@@ -403,6 +404,13 @@ force_vassalization = { # New2
 					prestige = 2500
 				}
 			}
+			ROOT = {
+				NOT = { trait = figurehead }
+				NOR = {
+					religion = anabaptist
+					religion = libertarian
+				}
+			}
 		}
 	}
 	
@@ -559,6 +567,11 @@ great_realm_conflict = { # New3
 		ROOT = {
 			prestige = 3000
 			piety = 1500
+			NOT = { trait = figurehead }
+			NOR = {
+				religion = anabaptist
+				religion = libertarian
+			}
 		}
 		FROM = {
 			relative_power = {
@@ -1967,6 +1980,9 @@ unjust_conquest = { # New7
 				piety = 200
 				scaled_wealth = { value = 1.0 min = 400 }
 			}
+			ROOT = {
+				NOT = { trait = figurehead }
+			}
 		}
 	}
 	
@@ -2247,9 +2263,6 @@ unjust_conquest = { # New7
 			mercenary = no
 			NOT = { pacifist = yes }
 			is_nomadic = no # Use the 'pagan_county_conquest' CB instead
-			NOT = {
-				religion = anabaptist
-			}
 			NAND = { # Use 'pagan_county_conquest' instead
 				religion_group = pagan_group
 				FROM = {
@@ -2471,6 +2484,10 @@ tributary_permanent_cb = { # New8
 	
 	can_use_gui = {
 		ROOT = {
+			NOR = {
+				religion = anabaptist
+				religion = libertarian
+			}
 			relative_realm_size = {
 				who = FROM 
 				size > 1

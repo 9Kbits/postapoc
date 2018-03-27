@@ -5,14 +5,18 @@
 		color2= { 255 255 255 }
 
 		culture = arixan
+		
+		navajo = "Naabeehó Bináhásdzo"
+		hopi = "Hopituskwa"
 
-		capital = 412 # Fort Defiance
+		capital = 439 # Phoenix
 			
 		d_navajoland = {
 			color = { 213 173 143 }
 			color2= { 255 255 255 }
 
 			navajo = "Diné Bikéyah"
+			hopi = "Hopituskwa"
 
 			capital = 412 # Fort Defiance
 
@@ -137,6 +141,8 @@
 			color2= { 255 255 255 }
 
 			culture = hopi
+			
+			hopi = "Hopituskwa"
 
 			capital = 413 # Hopituskwa
 

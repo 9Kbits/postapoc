@@ -320,12 +320,49 @@ founder_bust = {
 old_world_money = {
 	monthly_character_piety = 0.1
 	stewardship = 1
-	active = { religion = consumerist }
-	allowed_gift = { religion = consumerist }
+	active = { 
+		OR = {
+			religion = consumerist
+			religion = americanist
+			religion = hamiltonian
+			religion = jeffersonian
+		}
+	}
+	allowed_gift = { 
+		OR = {
+			religion = consumerist
+			religion = americanist
+			religion = hamiltonian
+			religion = jeffersonian
+		}
+	}
 	quality = 1
 	flags = { oldworld religious americanist statue }
 	stacking = no
 	picture = "GFX_relic_box_simple"
+}
+
+king_james_bible = {
+	monthly_character_piety = 0.1
+	learning = 2
+	active = {
+		learning = 9
+		OR = {
+			religion = evangelical
+			religion = charismatic
+			religion = high_church
+		}
+	}
+	allowed_gift = {
+		religion = evangelical
+		religion = charismatic
+		religion = high_church
+		religion = anglo_papalist
+	}
+	quality = 3
+	flags = { oldworld religious christian book }
+	stacking = no
+	picture = "GFX_book_red"
 }
 
 ### Pacific Artifacts ###
@@ -712,6 +749,25 @@ maxwell_iron_shirt = {
 	picture = "GFX_suit_of_armor_black"
 }
 
+ate_mardi_gras_beads = {
+	monthly_character_prestige = 0.2
+	active = {
+		OR = {
+			culture = cajun
+			culture = creole
+		}
+	}
+	allowed_gift = {
+		OR = {
+			culture = cajun
+			culture = creole
+		}
+	}
+	quality = 1
+	flags = { religious voodoo jewelry necklace }
+	picture = "GFX_pearl_necklace"
+}
+
 ## Jewish Artifacts ##
 golden_menorah = {
 	monthly_character_prestige = 0.5
@@ -751,6 +807,8 @@ ancient_torah = {
 	picture = "GFX_book_red_glow"
 }
 
+
+## More Vanilla Overrides ##
 ate_fetish_of_souls = {
 	monthly_character_prestige = 0.1
 	monthly_character_piety = 0.5
@@ -777,16 +835,12 @@ ate_sampo = {
 	same_religion_opinion = 5
 	quality = 5
 	active = {
-		AND = {
-			culture = yooper
-			religion_group = pagan_group
-		}
+		culture = yooper
+		religion_group = pagan_group
 	}
 	allowed_gift = {
-		AND = {
-			culture = yooper
-			religion_group = pagan_group
-		}
+		culture = yooper
+		religion_group = pagan_group
 	}
 	flags = { religious pagan very_rare mill_of_fortune produce_gold }
 	stacking = no

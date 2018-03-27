@@ -529,10 +529,10 @@ e_california = {
 				color2={ 255 255 255 }
 				
 				b_san_luis_obispo_CA = {}
-				b_baywood_CA = {}
+				b_san_simeon_CA = {}
 				b_atascadero_CA = {}
 				b_paso_robles_CA = {}
-				b_templeton_CA = {}
+				b_pismo_beach_CA = {}
 				b_morro_bay_CA = {}
 				b_cambria_CA = {}
 			}
@@ -968,6 +968,13 @@ e_california = {
 				b_viejo_CA = {}
 				b_lake_forest_CA = {}
 			}
+		}
+		d_channel_islands = {
+			color={ 189 187 190 }
+			color2={ 255 255 255 }
+				
+			capital = 2023
+			
 			c_channel_islands = {
 				color={ 189 187 190 }
 				color2={ 255 255 255 }

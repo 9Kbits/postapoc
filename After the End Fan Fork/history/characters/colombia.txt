@@ -279,14 +279,14 @@
 	diplomacy=4
 	stewardship=6
 	trait=skilled_tactician
-	trait=bastard
+	trait=legit_bastard
 	trait=adventurer
 	trait=ambitious
 	trait=diligent
 	trait=brave
 	trait=envious
 	father=2400030
-	2647.1.1={birth=yes}
+	2642.1.1={birth=yes}
 	2662.3.18={
 		effect={add_friend=2400032
 		add_friend=2400033
@@ -303,14 +303,14 @@
 	diplomacy=4
 	stewardship=6
 	trait=skilled_tactician
-	trait=bastard
+	trait=legit_bastard
 	trait=adventurer
 	trait=ambitious
 	trait=proud
 	trait=brave
 	trait=cruel
 	father=2400030
-	2648.1.1={birth=yes}
+	2643.1.1={birth=yes}
 	2662.3.18={
 		effect={add_friend=2400031
 		add_friend=2400033
@@ -327,14 +327,14 @@
 	diplomacy=4
 	stewardship=6
 	trait=skilled_tactician
-	trait=bastard
+	trait=legit_bastard
 	trait=adventurer
 	trait=ambitious
 	trait=proud
 	trait=diligent
 	trait=honest
 	father=2400030
-	2649.1.1={birth=yes}
+	2644.1.1={birth=yes}
 	2662.3.18={
 		effect={add_friend=2400031
 		add_friend=2400032
@@ -351,7 +351,7 @@
 	religion=voodoo
 	intrigue=6
 	learning=4
-	trait=bastard
+	trait=legit_bastard
 	trait=ambitious
 	trait=patient
 	trait=deceitful

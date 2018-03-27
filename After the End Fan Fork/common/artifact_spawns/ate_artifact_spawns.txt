@@ -25,7 +25,7 @@ ate_fetish_of_souls = {
 	}
 
 	artifacts = {
-		fetish_of_souls = {
+		ate_fetish_of_souls = {
 			value = 1
 		}
 	}
@@ -47,16 +47,14 @@ ate_sampo = {
 		value = 0
 		additive_modifier = {
 			value = 5
-			AND = {
-				culture = yooper
-				religion_group = pagan_group
-			}
+			culture = yooper
+			religion_group = pagan_group
 			is_landed = yes
 		}
 	}
 
 	artifacts = {
-		sampo = {
+		ate_sampo = {
 			value = 1
 		}
 	}
@@ -309,6 +307,28 @@ ancient_torah = {
 	}
 }
 
+king_james_bible = {
+	max_amount = 12
+	spawn_date = -1.1.1
+	
+	weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			is_landed = yes
+			OR = {
+				religion = evangelical
+				religion = charismatic
+				religion = high_church
+			}
+		}
+	}
+	
+	artifacts = {
+		king_james_bible = { value = 1 }
+	}
+}
+
 ###################
 #### QUALITY 2 ####
 ###################
@@ -399,7 +419,7 @@ black_cat_banner = {
 		additive_modifier = {
 			value = 100
 			higher_tier_than = BARON
-			religion_group = pagan
+			religion_group = pagan_group
 		}
 	}
 
@@ -636,5 +656,26 @@ ate_generic_artifacts = {
 		old_world_money = { value = 3 }
 		old_world_musicbox = { value = 3 }
 		monkey_paw = { value = 1 }
+	}
+}
+
+ate_mardi_gras_beads = {
+	max_amount = 20
+	spawn_date = -1.1.1
+
+	weight = {
+		value = 0
+		additive_modifier = {
+			value = 100
+			is_landed = yes
+			OR = {
+				culture = cajun
+				culture = creole
+			}
+		}
+	}
+
+	artifacts = {
+		ate_mardi_gras_beads = { value = 1 }
 	}
 }

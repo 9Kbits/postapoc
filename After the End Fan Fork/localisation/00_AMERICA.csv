@@ -61,6 +61,11 @@ ERA_CHAR_INFO_1875001;In the years since the apocalypse, the Comanche have been 
 ERA_CHAR_INFO_1667024;Horselord August the Wise models himself after two men: Augustus, leader of ancient Rome and August's namesake, and Louis Riel, the man who won the Metis people their home in Manitoba. August has lived a nomadic life on the Plains since he was a little boy, and the last 35 years of his life have been filled with hardship after hardship. Now, though, he stands as the sole leader of the Metis in Saskatchewan, and surrounding him are weak leaders ripe for conquest. August's first goal should be to secure Manitoba and unite the rest of the Metis. His people will be oppressed no longer.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_1200011;Beginning almost 150 years ago, the once small Haida realms began a series of conquests that would forever change the political landscape of the Pacific Northwest. Duke Skidegate Hlagi sits upon his throne as one of the successor states of the Haida Conquerors. To his South lay Gaian realms ready to be taken, and to his North lay the fractured Haidan realms that remain to be united. Will he be a great Conqueror like the Haida before him, or will he be the first to die to Gaian liberators?;;;;;;;;;;;;;x
 ERA_CHAR_INFO_1889001;Nearly two centuries ago, the area now known as Lakotah used to be home to a thriving Americanist empire centered at Rushmore. Times change, however, and the Sioux have now filled the previous power vacuum in the region. King Tasinagi Hokwoju is the first of these Sioux kings, having formed Lakotah 22 years ago. In the South, Catholics and the threat of holy war loom. In the East, the hostile Norsemen may soon unite and challenge Lakotah. But the Sioux are as resilient now as they were before the Event. They are warriors, and King Tasinagi won't let his young kingdom go gently.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1810083;House Iturbide claims direct descent from the pre-Event Emperors of Mexico, but they have fallen on hard times. The current head of the Iturbides, Wenceslao I, rules over a vestigial kingdom barely worthy of the name "Mexico". Surrounded by heathen Mesoamericans, rival kings, and squabbling principalities, it seems unlikely that the rulers of Mexico will ever be able to regain their former glory. Will Wenceslao defy the odds and start a new golden age for his dynasty, or will House Iturbide continue its slow fall into obscurity?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1875009;The Cherokee people were driven from their ancestral homeland centuries ago, and, unlike their Comanche neighbors, they have not yet reconquered it. The current leader of the Cherokee, Will-usdi, does not seem like the kind of ruler who will lead his people to glory - he is known for his complacent nature and his tendency to shy away from conflict. It looks like the Cherokee will stay in their neighbor's shadow for decades to come... unless Will-usdi can defy expectations and carry his tribe to new heights.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1810200;When he was a young man, King Louis embarked on a holy conquest of Mexico in the name of the Atom. He managed to carve out a realm for himself south of the Rio Grande, establishing a feudal kingdom in what was once a barren and desolate wasteland. However, King Louis is no longer a young man - he is now 73 years old, and it seems that he will soon become one with the Atom. Although his son Jesús seems like a worthy successor to his father, some still fear that the Kingdom of Sierra Madre will fall to the worshippers of the Sacred Heart.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1325022;Queen Pinopiaa Omactl is the newest ruler of the Kingdom of Mixteca. She is famous for her great beauty and kind nature. Both her father and grandfather are revered by Miclantecs as Incarnates - earthly incarnations of the gods themselves. However, it seems as if the legendary Omactl line is doomed to die out. Queen Pinopiaa has no male siblings, and she is married to King Zuangua of Michoacán. Their children are expected to unite their parents' realms into the most powerful Miclantec kingdom seen since the pre-Columbian age... under King Zuangua's dynasty of Iurhúri. Is this truly the end of House Omactl?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1810111;Gustavo Pistolas reformed his father's Kingdom of Colima into the Republic of Colima, with families drawn from both the Tapatio majority and the Aztec and Chilango minorities in Colima. Gustavo's new republic stands on the crossroads of the valuable Great Pacific trade route, and it has the potential to become the wealthiest realm this side of the Rio Grande. However, Gustavo faces competition from the Chino merchants in Baja, and his realm is within spitting distance of the mighty Kingdom of Michoacán. Can Gustavo make his fledgling republic last, or is this experiment in democracy doomed to fail?;;;;;;;;;;;;;x
 ERA_CHAR_NAME_PAHAYOKO;Pakayoko II Nokona;;;;;;;;;;;;;x
 ERA_CHAR_NAME_WILL_USDI;Will-usdi Boudinot;;;;;;;;;;;;;x
 ERA_CHAR_NAME_TASINAGI;Tasinagi Hokwoju;;;;;;;;;;;;;x
@@ -92,6 +97,7 @@ acadien;Acadien;;;;;;;;;;;;;x
 afroanglo;Afro-Anglo;;;;;;;;;;;;;x
 agraciado;Agraciado;;;;;;;;;;;;;x
 algonquin;Algonquin;;;;;;;;;;;;;x
+algonquian;Algonquian;;;;;;;;;;;;;x
 amerodeutsch;Amerodeutsch;;;;;;;;;;;;;x
 andean;Andean;;;;;;;;;;;;;x
 angeleno;Angeleno;;;;;;;;;;;;;x
@@ -141,6 +147,7 @@ delawarean;Delawarean;;;;;;;;;;;;;x
 dellsman;Dellsman;;;;;;;;;;;;;x
 dixie;Dixie;;;;;;;;;;;;;x
 dominicano;Dominicano;;;;;;;;;;;;;x
+eastern_woodlands;Eastern Woodlands;;;;;;;;;;;;;x
 edokko;Edokko;;;;;;;;;;;;;x
 filipino;Filipino;;;;;;;;;;;;;x
 first_nations;First Nations;;;;;;;;;;;;;x
@@ -160,6 +167,7 @@ hopi;Hopi;;;;;;;;;;;;;x
 hudsonian;Hudsonian;;;;;;;;;;;;;x
 innu;Innu;;;;;;;;;;;;;x
 inuit;Inuit;;;;;;;;;;;;;x
+iroquois;Iroquois;;;;;;;;;;;;;x
 istmeno;Istmeño;;;;;;;;;;;;;x
 jarocho;Jarocho;;;;;;;;;;;;;x
 kinh;Kinh;;;;;;;;;;;;;x
@@ -188,6 +196,7 @@ navajo;Navajo;;;;;;;;;;;;;x
 neoladino;Neoladino;;;;;;;;;;;;;x
 neomexicano;Neomexicano;;;;;;;;;;;;;x
 newfie;Newfie;;;;;;;;;;;;;x
+northwest_coast;Northwest Coast;;;;;;;;;;;;;x
 guinean;Guinean;;;;;;;;;;;;;x
 nigerian;Nigerian;;;;;;;;;;;;;x
 nihonjin;Nihonjin;;;;;;;;;;;;;x
@@ -212,6 +221,8 @@ paisa;Paisa;;;;;;;;;;;;;x
 paiute;Paiute;;;;;;;;;;;;;x
 papiamen;Papiamen;;;;;;;;;;;;;x
 polynesian;Polynesian;;;;;;;;;;;;;x
+plains;Plains;;;;;;;;;;;;;x
+plateau;Plateau;;;;;;;;;;;;;x
 portlander;Portlander;;;;;;;;;;;;;x
 purepecha;Purépecha;;;;;;;;;;;;;x
 quebecois;Quebecois;;;;;;;;;;;;;x
@@ -232,6 +243,7 @@ sioux;Sioux;;;;;;;;;;;;;x
 sonorense;Sonorense;;;;;;;;;;;;;x
 south_anglo;South Anglo;;;;;;;;;;;;;x
 southron;Southron;;;;;;;;;;;;;x
+subarctic;Subarctic;;;;;;;;;;;;;x
 sranan;Sranan;;;;;;;;;;;;;x
 tagalog;Tagalog;;;;;;;;;;;;;x
 tapatio;Tapatio;;;;;;;;;;;;;x
@@ -264,7 +276,7 @@ pirate;Pirate;;;;;;;;;;;;;x
 candomble;Candomblé;;;;;;;;;;;;;x
 candomble_DESC;Candomblé literally means "dance in honor of the gods," and, as is to be expected from the name, many rituals involve music and dance. Practitioners worship a creator deity named Olodumaré, as well as numerous lesser spirits called Orishas, and often make ritual offerings to them. Candomblé is a syncretic faith that absorbed religious traditions from West Africans, Portuguese Catholics, and indigenous South Americans. \nDefining features in-game:;;;;;;;;;;;;;x
 thelemic;Thelema;;;;;;;;;;;;;x
-thelemic_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." Thelema is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. The goddess Nuit, representing the night sky, is their highest deity. \nDefining features in-game:;;;;;;;;;;;;;x
+thelemic_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." Thelema is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. However, their highest deity is someone - or something - known only as "The Queen". \nDefining features in-game:;;;;;;;;;;;;;x
 neognostic;Neo-Gnostic;;;;;;;;;;;;;x
 neognostic_DESC;Neo-Gnostism (re)emerged in Colorado as a syncretic faith combining teachings coming from the the Cetic west and the Catholic east. Neo-Gnostics have amalgamated the belief in the Christian God with the rejection of the material world often found in Cetic schools of thought. They believe that Salvation can be found in worship of Christ and that they can find Enlightenment through his teachings. Gnostics see material processions and desires as secondary to Oneness with God. They reject the material world (matter, flesh) as being the work of Satan and seek to embrace the 'Gnosis' of God (knowledge, enlightenment, salvation). \nDefining features in-game:\n§Y*§! Are considered a Catholic heresy owing to their agreement with the Catholic understanding of God and the Saints, while dismissing the teachings of most Cetic Gurus.\n§Y*§! May have ambitions to remove vices.;;;;;;;;;;;;;x
 sedevacantist;Sedevacantist;;;;;;;;;;;;;x
@@ -274,22 +286,22 @@ ursuline_DESC;The Ursulines originated as an antediluvian religious order, patro
 angeline;Angeline;;;;;;;;;;;;;x
 angeline_DESC;Angelines live very different lives from their Ursuline counterparts. Whereas the Ursulines emphasize the monastic lifestyle and the primacy of the Church, Angelines more strongly emphasize cohabitation with the secular world. \nDefining features in-game:;;;;;;;;;;;;;x
 anabaptist;Anabaptist;;;;;;;;;;;;;x
-anabaptist_DESC;The Anabaptists are a branch of Christianity originating from 16th century Europe, and are the forebears of American groups such as the Amish, Hutterites and Mennonites, which banded together to survive the post-cataclysm world. Anabaptists believe Christians should remain separate from the rest of the world, refuse to hold office and refrain from violence even in war or self-defence. These tenets make life after the apocalypse difficult, and often quite short. \nDefining features in-game:\n§Y*§! Due to their avoidance of violence when possible, cannot use the Holy War CB.;;;;;;;;;;;;;x
+anabaptist_DESC;The Anabaptists are a branch of Christianity originating from 16th century Europe, and are the forebears of American groups such as the Amish, Hutterites and Mennonites, which banded together to survive the post-cataclysm world. Anabaptists believe Christians should remain separate from the rest of the world, refuse to hold office, and refrain from violence except when absolutely necessary. These tenets make life after the apocalypse difficult, and often quite short. \nDefining features in-game:\n§Y*§! Due to their avoidance of violence when possible, cannot use the Holy War CB.;;;;;;;;;;;;;x
 evangelical;Evangelical;;;;;;;;;;;;;x
-evangelical_DESC;The Evangelical Church is what remains of antediluvian Protestantism. In the face of post-deluge upheavals, the Protestant churches banded together, putting aside minor theological differences in favor of establishing an Evangelical Convention of Churches presided over by an ecumenical council of bishops. \nDefining features in-game:;;;;;;;;;;;;;x
+evangelical_DESC;The Evangelical Church is what remains of antediluvian Protestantism. In the face of post-deluge upheavals, the Protestant churches banded together, putting aside minor theological differences in favor of establishing an Evangelical Convention of Churches presided over by an ecumenical council of bishops. However, some Christians chafe against the doctrines and restrictions imposed by this Convention... \nDefining features in-game:;;;;;;;;;;;;;x
 high_church;Anglican;;;;;;;;;;;;;x
-high_church_DESC;Anglicans lean heavily on older Christian traditions and a sense of ritual more in line with Catholicism that of Evangelical Protestantism. Following the Event, the Anglican Church in Canada refused to participate in the Evangelical Convention called by the Holy Columbian Confederacy, and it has since become the majority belief among English-speaking Canadians. The highest authority in Anglicanism is the Archbishop of Canterbury, New Brunswick. \nDefining features in-game:;;;;;;;;;;;;;x
+high_church_DESC;Anglicanism describes itself as being a "via media", or middle way, between Evangelical Protestantism and the Catholic Church. Following the Event, the Anglican Church in Canada refused to participate in the Evangelical Convention called by the Holy Columbian Confederacy, and it has since become recognized as a separate faith unto itself. The highest authority in Anglicanism is the Archbishop of New Canterbury. \nDefining features in-game:;;;;;;;;;;;;;x
 antinomian;Antinomian;;;;;;;;;;;;;x
-antinomian_DESC;Antinomianism is a theological doctrine which predates the apocalypse, and takes the Protestant notion of 'sola fide'- salvation by 'faith alone'- to its extreme, rejecting not just Old Testament ceremonial laws but all of the laws laid down by Moses. This rejection of Mosaic law- or 'moral law'- is universally condemned by mainstream Protestantism and has been a thorny issue since the days of Martin Luther. \nDefining features in-game:;;;;;;;;;;;;;x
+antinomian_DESC;Antinomianism is a theological doctrine which predates the apocalypse and takes the Protestant notion of 'sola fide'- salvation by 'faith alone'- to its extreme, rejecting not just Old Testament ceremonial laws but all of the laws laid down by Moses. This rejection of Mosaic law- or 'moral law'- is universally condemned by mainstream Protestantism and has been a thorny issue since the days of Martin Luther. \nDefining features in-game:;;;;;;;;;;;;;x
 postadventist;Postadventist;;;;;;;;;;;;;x
-postadventist_DESC;Postadventists believe that the Second Coming has already happened, that Jesus came to judge the living and the dead... and was not pleased. Defining features in-game:;;;;;;;;;;;;;x
+postadventist_DESC;Postadventists believe that the Second Coming has already happened, that Jesus came to judge the living and the dead... and was not pleased. \nDefining features in-game:;;;;;;;;;;;;;x
 charismatic;Charismatic;;;;;;;;;;;;;x
-charismatic_DESC;Charismatics are not known as such because of their charm, but rather their belief in 'charismata', gifts of the Holy Spirit manifested in miracles and signs that can be endowed simply by baptism and faith in the Holy Spirit. Such wonders include the ability to speak in tongues, miraculous healing of the cripples, gifts of prophecy and more events often considered 'supernatural'. \nDefining features in-game:;;;;;;;;;;;;;x
+charismatic_DESC;Charismatics are not known as such because of their charm, but rather their belief in 'charismata', gifts of the Holy Spirit manifested in miracles and signs that can be endowed simply by baptism and faith in the Holy Spirit. Such wonders include the ability to speak in tongues, miraculous healing of the cripples, gifts of prophecy and more events often considered 'supernatural'. Although the Evangelical Convention declared these beliefs heretical, the Charismatic faith continues to thrive outside the jurisdiction of the Holy Columbian Confederacy. \nDefining features in-game:;;;;;;;;;;;;;x
 dark_pagan_group;Dark Pagan;;;;;;;;;;;;;x
 occultist;Occultist;;;;;;;;;;;;;x
 occultist_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others. \nDefining features in-game:\n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
 occultist_reformed;Occultist;;;;;;;;;;;;;x
-occultist_reformed_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others. The reformed Occultist church has a new hierarchy and more standardised set of texts. \nDefining features in-game: \n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
+occultist_reformed_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others. The reformed Occultist church has a new hierarchy and more standardized set of texts. \nDefining features in-game: \n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
 atomicist;Atomicist;;;;;;;;;;;;;x
 atomicist_DESC;Atomicists worship elements of old world technology and hold sacred the places 'touched by the Almighty Atom'. Although atomic theory is practically forgotten, Atomicists understand that there is an invisible world out there which houses vast power. If they could but find a way to tap into this intangible world, they believe they would become gods themselves! The tumors and radiation sickness, though, they don't talk about as much. \nDefining features in-game:;;;;;;;;;;;;;x
 americanist;Americanist;;;;;;;;;;;;;x
@@ -299,7 +311,7 @@ hamiltonian_DESC;Hamiltonians differ from mainstream Americanism in that they ta
 jeffersonian;Jeffersonian;;;;;;;;;;;;;x
 jeffersonian_DESC;The old legends speak not of just Washington, Jefferson and Lincoln, but also of the farmers, the soldiers, and all the common men of the Old World. As widespread as the statues of the Founders are, are there not statues of the common infantryman in many old towns? What of the farmers and the grand grange halls they established? Jeffersonians hold that the Americanist gods of the old world were just a few of many, and that the entire nation of ancient America was home to gods. All the land was blessed by the gods, therefore, and thus all the land must be reclaimed by the true faith! \nDefining features in-game:;;;;;;;;;;;;;x
 libertarian;Libertarian;;;;;;;;;;;;;x
-libertarian_DESC;The devoted of Lady Liberty, the Mother of Old America and the Goddess of Freedom, the Libertarians were once a matriarchal Patriotic order of the Americanists dedicated to the defence and restoration of the Statues of Liberty who broke from Washington in protest against the 'overemphasis' of the Founders over Lady Liberty. In the centuries since the continued revelation and dedicated study of the First Lady and her Justices have lead the libertarians and the Americanists to opposite positions on a vast number of theological points, from the approved methods of establishing proof of presidential deification after death all the way to structure of the old world pantheon. \nDefining features in-game:\n§Y*§! There is always a First Lady in Nashville, even if the city falls\n§Y*§! Ability to enact Enatic Succession Laws\n§Y*§! Strict limitations on Consanguinity\n§Y*§! Libertarians follow a principle of non-aggression, so they cannot use the Holy War CB.;;;;;;;;;;;;;x
+libertarian_DESC;The devoted of Lady Liberty, the Mother of Old America and the Goddess of Freedom, the Libertarians were once a matriarchal Patriotic order of the Americanists dedicated to the defense and restoration of the Statues of Liberty who broke from Washington in protest against the 'overemphasis' of the Founders over Lady Liberty. In the centuries since the continued revelation and dedicated study of the First Lady and her Justices have lead the libertarians and the Americanists to opposite positions on a vast number of theological points, from the approved methods of establishing proof of presidential deification after death all the way to structure of the old world pantheon. \nDefining features in-game:\n§Y*§! There is always a First Lady in Nashville, even if the city falls\n§Y*§! Ability to enact Enatic Succession Laws\n§Y*§! Strict limitations on Consanguinity\n§Y*§! Libertarians follow a principle of non-aggression, so they cannot use the Holy War CB.;;;;;;;;;;;;;x
 rust_cultist;Rust Cultist;;;;;;;;;;;;;x
 rust_cultist_DESC;When the first of the Rust Cult stumbled upon an abandoned factory of the old world, what he saw seemed to be the handiwork of the gods. The cult quickly spread through the former Rust Belt, worshiping these houses of the divine and the technological marvels wrought within, which they are willing to defend with their lives. Rust Cultists dedicate much of their time to recovering and revering any old world technology they can find. Due to their age however, opportunities to find operational relics are few and far between. \nDefining features in-game:\n§Y*§! May undertake journeys to seek & salvage old world technology\n§Y*§! Must use Gavelkind succession;;;;;;;;;;;;;x
 rust_cultist_reformed;Rust Cultist;;;;;;;;;;;;;x
@@ -307,16 +319,16 @@ rust_cultist_reformed_DESC; When the first of the Rust Cult stumbled upon an aba
 norse_pagan;Norse;;;;;;;;;;;;;x
 norse_pagan_DESC;The Norse believe the Christian God failed his followers when America was torn down, and in their anger have turned back to the Gods of their ancestors. If only the old Gods had the strength of their faith, they surely would have protected America. They also believe the American people became soft and complacent, which contributed to their destruction, and so have vowed to never allow themselves to become weaklings again. \nDefining features in-game:\n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli \n§Y*§! Must use Gavelkind succession;;;;;;;;;;;;;x
 norse_pagan_reformed;Norse;;;;;;;;;;;;;x
-norse_pagan_reformed_DESC;The Norse believe the Christian God failed his followers when America was torn down, and in their anger have turned back to the Gods of their ancestors. If onlu the old Gods had the strength of their faith, they surely would have protected America. They also believe the American people became soft and complacent, which contributed to their destruction, and so have vowed to never allow themselves to become weaklings again. They have now structured their faith, allowing them full access to mainstream succession laws, as well as the option to wage grand holy wars. \nDefining features in-game: \n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
+norse_pagan_reformed_DESC;The Norse believe the Christian God failed his followers when America was torn down, and in their anger have turned back to the Gods of their ancestors. If only the old Gods had the strength of their faith, they surely would have protected America. They also believe the American people became soft and complacent, which contributed to their destruction, and so have vowed to never allow themselves to become weaklings again. They have now structured their faith, allowing them full access to mainstream succession laws, as well as the option to wage grand holy wars. \nDefining features in-game: \n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
 rastafarian;Rastafarian;;;;;;;;;;;;;x
-rastafarian_DESC;The Rastafari are a religious group originating in Jamaica, inspired by the teachings of Marcus Garvey. They believe in the divinity of Emperor Haile Selassie I of Ethiopia, known before his coronation as Ras Tafari. Defining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs.;;;;;;;;;;;;;x
+rastafarian_DESC;The Rastafari are a religious group originating in Jamaica, inspired by the teachings of Marcus Garvey. They believe in the divinity of Emperor Haile Selassie I of Ethiopia, known before his coronation as Ras Tafari. Although the Rastafarian faith promoted patriarchal gender roles prior to the Event, the stress of post-apocalyptic life has caused this doctrine to be abandoned in favor of a more egalitarian position. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs.;;;;;;;;;;;;;x
 voodoo;Voodoo;;;;;;;;;;;;;x
 voodoo_DESC;Descended from West African Vodun, Voodoo originated in 18th century Haiti, spreading later to Louisiana. Vodouists worship the creator god Bondye, but as he is unreachable by men, they pray to his servants, the Loa, who act as intermediaries in exchange for service. Each Loa is responsible for a different aspect of life, and vodouists develop a personal relationship with them through elaborate ceremonies that can include ritual offerings, song, dance, and allowing themselves to be possessed by the spirits so that Loa and vodouist may communicate. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs.\n§Y*§! May crush the mind of a prisoner with poison, turning them into a zombi.\n§Y*§! Possession by the Loa may grant various advantages and disadvantages.;;;;;;;;;;;;;x
 african_group;African;;;;;;;;;;;;;x
 afro_syncretic;Afro-Syncretic;;;;;;;;;;;;;x
 catholic_DESC;Catholicism is one of the oldest branches of Christianity, and survived the cataclysmic events of centuries past by the skin of its teeth. The Papacy is now located in old St. Louis, as contact with Rome was lost. The formal head of the religion is the Bishop of New Rome - the Pope. \nDefining features in-game:;;;;;;;;;;;;;x
 santeria;Santería;;;;;;;;;;;;;x
-santeria_DESC;Santería, translating roughly to "devotion to the saints", is an Afro-Cuban religion that can be traced back to the Yoruba people of West Africa. Believers worship three aspects of one god, Olodumaré the Creator, Olorun, who manifests as the Sun, and Olofi, who directly communicates with the Orichás - or "Saints" - and grants them spiritual energy to act as intermediaries between man and God, as well as to help mankind live moral, harmonious lives. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs. Defining features in-game:;;;;;;;;;;;;;x
+santeria_DESC;Santería, translating roughly to "devotion to the saints", is an Afro-Cuban religion that can be traced back to the Yoruba people of West Africa. Believers worship three aspects of one god: Olodumaré the Creator, Olorun, who manifests as the Sun, and Olofi, who directly communicates with the Orichás - or "Saints" - and grants them spiritual energy to act as intermediaries between man and God, as well as to help mankind live moral, harmonious lives. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs. Defining features in-game:;;;;;;;;;;;;;x
 nick_the_prophet;the Prophet;;;;;;;;;;;;;x
 nick_the_kingmaker;the Kingmaker;;;;;;;;;;;;;x
 nick_the_bat;the Bat;;;;;;;;;;;;;x
@@ -330,21 +342,21 @@ revelationist_reformed;Revelationist;;;;;;;;;;;;;x
 revelationist_reformed_DESC;A syncretic belief system, Revelationism's origins are Christian in nature. The trauma of the apocalypse and centuries of isolation and turmoil have lead to great distortions in the faith, emphasizing the supernatural and miraculous while often forgetting the Holy Trinity altogether. They have now (re)structured their faith, allowing them full access to mainstream succession laws, as well as the option to wage grand holy wars. \nDefining features in-game:;;;;;;;;;;;;;x
 cult_of_saints;Cult of Saints;;;;;;;;;;;;;x
 sacred_heart;Sagrado Corazón;;;;;;;;;;;;;x
-sacred_heart_DESC;The followers of Sagrado Corazón- the Sacred Heart- follow a pantheon of quasi-deities derived from some Catholic traditions. Although the faith has Catholic origins, it has deviated far from the old theology. \nDefining features in-game:\n§Y*§! Adherents can become followers of one of three specific saint-patrons.\n§Y*§! May experience visions of the Blessed Virgin called Marian Apparitions.\n§Y*§! Followers of Our Lady of Guadalupe are more likely to experience Marian Apparitions.\n§Y*§! Followers of El Santo engage in masked, ritualized combat.\n§Y*§! Followers of Santa Muerte perform funeral rites and exact revenge.;;;;;;;;;;;;;x
+sacred_heart_DESC;The followers of Sagrado Corazón- the Sacred Heart- follow a pantheon of quasi-deities derived from some Catholic traditions. Although the faith has Catholic origins, it has deviated far from the old theology, and the Catholic Church north of the border officially regards Sagrado Corazón as heretical. \nDefining features in-game:\n§Y*§! Adherents can become followers of one of three specific saint-patrons.\n§Y*§! May experience visions of the Blessed Virgin called Marian Apparitions.\n§Y*§! Followers of Our Lady of Guadalupe are more likely to experience Marian Apparitions.\n§Y*§! Followers of El Santo engage in masked, ritualized combat.\n§Y*§! Followers of Santa Muerte perform funeral rites and exact revenge.;;;;;;;;;;;;;x
 mesoamerican_gods;Mesoamerican;;;;;;;;;;;;;x
 mictlantec;Mictlantec;;;;;;;;;;;;;x
-mictlantec_DESC;Mictlantec is a revival of old Aztec traditions for the new Age of the Dead Sun. The previous cycle ended in apocalypse with the near destruction of the sun god Huitzilopochtli in his struggle against the darkness. Death god Mictlantecuhtli was largely responsible for saving humanity, and is now considered the sun god. Defining features in game:\n§Y*§! Sacrifice prisoners to their gods, either individually or in a major ceremony. \nDefining features in-game: \n§Y*§! Kings and emperors are expected to declare themselves Incarnates (living gods).\n§Y*§! May go on vision quests after a ceremony of human sacrifice.;;;;;;;;;;;;;x
+mictlantec_DESC;Mictlantec is a revival of old Aztec traditions for the new Age of the Dead Sun. The previous cycle ended in apocalypse with the near destruction of the sun god Huitzilopochtli in his struggle against the darkness. Death god Mictlantecuhtli was largely responsible for saving humanity, and is now considered the sun god. \nDefining features in game:\n§Y*§! Sacrifice prisoners to their gods, either individually or in a major ceremony. \n§Y*§! Kings and emperors are expected to declare themselves Incarnates (living gods).\n§Y*§! May go on vision quests after a ceremony of human sacrifice.;;;;;;;;;;;;;x
 sol_invicta;Sol Invicta;;;;;;;;;;;;;x
-sol_invicta_DESC;Sol Invicta is a new religion with Aztec and Catholic influences, based around the worship of the sun goddess and her eternal battle against the evil Dark Father. \nDefining features in-game:;;;;;;;;;;;;;x
+sol_invicta_DESC;Sol Invicta is a syncretic religion that emerged after the Event, blending both Catholic and Aztec influences. Like the Miclantecs, Sol Invictists believe that light and darkness are locked in perpetual conflict. However, unlike the Mictlantec faith, Sol Invicta is a monotheistic religion. Their supreme deity is the sun goddess known as Sol Invicta, the Unconquered Sun. Adherents believe that Sol Invicta is locked in an eternal war with the evil Dark Father, and that the Event was the result of a particularly destructive battle between the two deities. \nDefining features in-game:;;;;;;;;;;;;;x
 neomayan;Neomayan;;;;;;;;;;;;;x
-neomayan_DESC;Neomayans follow a very peculiar mix of traditions from the Yucatan and beyond. \nDefining features in-game:;;;;;;;;;;;;;x
+neomayan_DESC;Neomayanism originated shortly after the end times as a result of the blending of both Mayan traditions and New Age beliefs. The chief deity of Neomayanism is Hunab Ku, who represents the Christian God. However, the old Mayan gods have been reintroduced to form a polytheistic pantheon. There are three levels of the universe according to Neomayan belief: Space, which contains aliens, gods, and 'light demons', Earth, which is divided into both the natural (humans and animals) and unnatural (chupacabra and ghosts), and Xibalba, a realm below Earth that contains demons and lesser gods. It is believed that worshippers can reach Space through diligent worship or even become gods by performing various spirit rituals. \nDefining features in-game:;;;;;;;;;;;;;x
 uahomche;Uahomche;;;;;;;;;;;;;x
-uahomche_DESC;Uahomche is the broad term for the diverse and varied traditions and beliefs practiced in Central America. \nDefining features in-game:;;;;;;;;;;;;;x
+uahomche_DESC;Uahomche blends aspects of both Christianity and the traditional Mayan faith. Uahomche gods are referred to as ‘angels’, however the pantheon is largely unchanged from what it was before Spanish colonization. Uahomches practice animal sacrifice and believe that the Event was the end of the 5th world cycle. \nDefining features in-game:;;;;;;;;;;;;;x
 celticist;Celticist;;;;;;;;;;;;;x
 thelemic_reformed;Thelema;;;;;;;;;;;;;x
-thelemic_reformed_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." Thelema is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. The goddess Nuit, representing the night sky, is their highest deity. Thelemites in the United States have rediscovered the writings of Aleister Crowley in the Crimson Library, and have used these works to codify their beliefs. \nDefining features in-game:;;;;;;;;;;;;;x
+thelemic_reformed_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." Thelema is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. However, their highest deity is someone - or something - known only as "The Queen". Thelemites in the United States have rediscovered the writings of Aleister Crowley in the Crimson Library, and have used these works to codify their beliefs. \nDefining features in-game:;;;;;;;;;;;;;x
 gracia_divina;Gracia Divina;;;;;;;;;;;;;x
-gracia_divina_DESC;The adherents of Gracia Divina hold belief in the karma like system of 'divine grace'. They believe that the greater piety and devoutness shown in life, the more fortunate their lives will become, that they literally become graced by the divine. They believe especially that devotion to specific saints/deities (the terms have been interchangeable in Gracia Divina) will lead to that Saint becoming their patron, and directly influence their lives. This can lead to very zealous devotion as the worshiper takes on an extremely personal and intimate connection with their patron. \nDefining features in-game:;;;;;;;;;;;;;x
+gracia_divina_DESC;The adherents of Gracia Divina hold belief in the karma like system of 'divine grace'. They believe that the greater piety and devoutness shown in life, the more fortunate their lives will become, that they literally become graced by the divine. They believe especially that devotion to specific saints/deities (the terms have been interchangeable in Gracia Divina) will lead to that Saint becoming their patron, and directly influence their lives. This can lead to very zealous devotion as the worshipper takes on an extremely personal and intimate connection with their patron. \nDefining features in-game:;;;;;;;;;;;;;x
 espiritista;Espiritista;;;;;;;;;;;;;x
 espiritista_DESC;The Espiritista faithful believe that good and evil spirits inhabit our world, with the powers to affect health, luck, and other aspects of human life. These spirits can be contacted by trained mediums. There is a Supreme God, but under him are 'the three powers': mortals who have ascended to the level of deities: María Lionza, Negro Felipe, and Guaicaipuro. Beneath the three powers are the spirits: numerous powerful mortals who continue to influence the world after their deaths. These spirits are organized into roughly 21 courts, which believers can petition for aid through prayer. \nDefining features in-game:;;;;;;;;;;;;;x
 espiritista_reformed;Espiritista;;;;;;;;;;;;;x
@@ -374,12 +386,14 @@ pacific;Pacific;;;;;;;;;;;;;x
 cetic;Cetic;;;;;;;;;;;;;x
 cetic_DESC;The Cetic faith involves the study of philosophical writings by a number of Great Teachers (Gurus), including the Emperor, Buddha, Christ, and Hubbard. Adherents seek enlightenment through meditation and discussion of the writings. The first Emperor of California formally organized the faith with secular and religious power deeply intertwined within the imperial title, and the head of the faith is traditionally chosen from among his descendants. \nDefining features in game:\n§Y*§!Adherents follow one of four specific Ways (schools of Cetic thought).;;;;;;;;;;;;;x
 shinto;Shinto;;;;;;;;;;;;;x
-shinto_DESC;Shinto is an ancient religion that combines cultural rituals, animist spirit worship, and Buddhist traditions. In centuries after the calamity, veneration of the Emperor grew into a demand for absolute obedience. Today the Divine Emperor is hidden from the people and believed to be in a perfect, eternal state of meditation, while his will is carried out by a sprawling clerical bureaucracy. \nDefining features in-game:;;;;;;;;;;;;;x
+shinto_DESC;Shinto is an ancient religion that combines cultural rituals, animist spirit worship, and Buddhist traditions. In the centuries after the calamity, veneration of the Emperor grew into a demand for absolute obedience. Today the Divine Emperor is hidden from the people and believed to be in a perfect, eternal state of meditation, while his will is carried out by a sprawling clerical bureaucracy. \nDefining features in-game:;;;;;;;;;;;;;x
 jewish_group;Jewish;;;;;;;;;;;;;x
 jewish;Orthodox;;;;;;;;;;;;;x
-jewish_DESC;Judaism is one of the oldest religions on the planet, and it survived the Event like it did so many other catastrophes. Although Orthodox Judaism itself has changed relatively little over the last few centuries, the Jews of post-Event America now face discrimination and persecution on a scale unheard of since the Middle Ages of old. Despite this, or perhaps because of it, Orthodox Jews still patiently await the arrival of the Moshiach, who will, in due time, gather the Jews living in exile and return them to the land promised to their forefathers. \nDefining features in game:;;;;;;;;;;;;;x
+jewish_DESC;Judaism is one of the oldest religions on the planet, and it survived the Event like it did so many other catastrophes. Although Orthodox Judaism itself has changed relatively little over the last few centuries, the Jews of post-Event America now face discrimination and persecution on a scale unheard of since the Middle Ages of old. Despite this, or perhaps because of it, Orthodox Jews still patiently await the arrival of the Moshiach, who will, in due time, gather the Jews living in exile and return them to the land promised to their forefathers. \nDefining features in-game:;;;;;;;;;;;;;x
 reform;Reform;;;;;;;;;;;;;x
-reform_DESC;Reform Judaism first split from Orthodox Judaism in the 19th century, under the belief that in order for Judaism to survive in the modern age, it should reform to be more compatible with a modern, secular lifestyle. Reform Judaism regards Halacha (Jewish religious law) as non-binding, permits women to be ordained as rabbis, and is overall more open to external influences than Orthodox Judaism. Reform Jews actually outnumbered Orthodox Jews prior to the Event, but by 2666, Reform Judaism is the majority religion in only a single county - Palm Beach. \nDefining features in game: \n§Y*§! Absolute Cognatic succession is allowed for all Reform rulers.;;;;;;;;;;;;;x
+reform_DESC;Reform Judaism first split from Orthodox Judaism in the 19th century, under the belief that in order for Judaism to survive in the modern age, it should reform to be more compatible with a modern, secular lifestyle. Reform Judaism regards Halacha (Jewish religious law) as non-binding, permits women to be ordained as rabbis, and is overall more open to external influences than Orthodox Judaism. Reform Jews actually outnumbered Orthodox Jews prior to the Event, but by 2666, Reform Judaism is the majority religion in only a single county - Palm Beach. \nDefining features in-game: \n§Y*§! Absolute Cognatic succession is allowed for all Reform rulers.;;;;;;;;;;;;;x
+anglo_papalist;Anglo-Catholics;;;;;;;;;;;;x
+anglo_papalist_DESC;As the Anglican Church was defined by its "Middle Path," many fringe groups existed within the Communion that were of varying degrees more Protestant or Catholic. One such trend is that of Anglo-Catholicism, which as the name implies is a strand of Anglicanism that is closer in practice to Rome without being in communion with the Holy See. Some use the Book of Common Prayer all other Anglicans use, some use the Catholic Mass, and some even use the Latin or medieval English mass. In the 27th century, such groups are persecuted as the Anglicans are surrounded on all sides by heathens and heretics, and the Anglo-Catholics are seeen as possible enemies from within. \nDefining features in-game:;;;;;;;;;;;;;x
 
 STAT_PIETY_PATRIOTISM;Patriotism;;;;;;;;;;;;;x
 STAT_PIETY_MENU_PATRIOTISM;Patriotism;;;;;;;;;;;;;x
@@ -532,6 +546,7 @@ ARCHBISHOPRIC_OF;Archbishopric of;;;;;;;;;;;;;x
 BABYLON;Babylon;;;;;;;;;;;;;x
 BAG_O_WIRE;Bag o' Wire;;;;;;;;;;;;;x
 BIG_BOSS;Big Boss;;;;;;;;;;;;;x
+BONDYE;Bondye;;;;;;;;;;;;;x
 BOSS;Boss;;;;;;;;;;;;;x
 BOSS_FOA;Boss;;;;;;;;;;;;;x
 CAPITAN_FOA;Capitán;;;;;;;;;;;;;x
@@ -604,6 +619,7 @@ GOD_IXCHEL;Ixchel;;;;;;;;;;;;;x
 GOD_JACAWITZ;Jacawitz;;;;;;;;;;;;;x
 GOD_JAH;Jah;;;;;;;;;;;;;x
 GOD_JEFFERSON;Jefferson;;;;;;;;;;;;;x
+GOD_JEHOVAH;Jehovah;;;;;;;;;;;;;x
 GOD_KAMI_SAMA;Kami-sama;;;;;;;;;;;;;x
 GOD_KUKULKAN;Kukulkan;;;;;;;;;;;;;x
 GOD_LADY_LIBERTY;Lady Liberty;;;;;;;;;;;;;x
@@ -644,6 +660,7 @@ GOD_THE_ELDER_GODS;The Elder Gods;;;;;;;;;;;;;x
 GOD_THE_ELEMENTS;The Elements;;;;;;;;;;;;;x
 GOD_THE_EMPEROR;The Emperor;;;;;;;;;;;;;x
 GOD_THE_EVIL_SPIRITS;The Evil Spirits;;;;;;;;;;;;;x
+GOD_THE_FALLEN_STAR;The Fallen Star;;;;;;;;;;;;;x
 GOD_THE_FLAG;The Flag;;;;;;;;;;;;;x
 GOD_THE_FOUNDERS;The Founders;;;;;;;;;;;;;x
 GOD_THE_FOUNDING_FATHERS;The Founding Fathers;;;;;;;;;;;;;x
@@ -671,6 +688,7 @@ GOD_THE_SUPREME;The Supreme;;;;;;;;;;;;;x
 GOD_THE_THREE_POWERS;The Three Powers;;;;;;;;;;;;;x
 GOD_THE_TZITZIMIMEH;The Tzitzimimeh;;;;;;;;;;;;;x
 GOD_THE_VOICE;The Voice;;;;;;;;;;;;;x
+GOD_THE_WHITE_LAMB;The White Lamb;;;;;;;;;;;;;x
 GOD_THE_WITNESSES;The Witnesses;;;;;;;;;;;;;x
 GOD_THE_YOKAI;The Yokai;;;;;;;;;;;;;x
 GOD_TIA;Tia;;;;;;;;;;;;;x
@@ -723,6 +741,7 @@ PRIEST_LOREKEEPER;Lorekeeper;;;;;;;;;;;;;x
 PRIEST_MEDIUM;Medium;;;;;;;;;;;;;x
 PRIME_MINISTER_FOA;Your Holiness;;;;;;;;;;;;;x
 PRIME_MINISTER;Prime Minister;;;;;;;;;;;;;x
+RANDALL_FLAGG;Flagg;;;;;;;;;;;;;x
 SECRETARY;Secretary;;;;;;;;;;;;;x
 SIR;Sir;;;;;;;;;;;;;x
 SIR_KNIGHT_FOA;Sir Knight;;;;;;;;;;;;;x
@@ -744,11 +763,13 @@ THE_CODE;The Code;;;;;;;;;;;;;x
 THE_CODEX;The Codex;;;;;;;;;;;;;x
 THE_CONFUSER;The Confuser;;;;;;;;;;;;;x
 THE_CONSUMING_TARNISH;The Consuming Tarnish;;;;;;;;;;;;;x
+THE_CRAWLING_CHAOS;The Crawling Chaos;;;;;;;;;;;;;x
 THE_DARK_VIRUS;The Dark Virus;;;;;;;;;;;;;x
 THE_DEMON_CORE;The Demon Core;;;;;;;;;;;;;x
 THE_DOUBTING_ONE;The Doubting One;;;;;;;;;;;;;x
 THE_DREAMSPELL;The Dreamspell;;;;;;;;;;;;;x
 THE_FALSE_VISION;The False Vision;;;;;;;;;;;;;x
+THE_FEDS;The Feds;;;;;;;;;;;;;x
 THE_FREEMASONS;The Freemasons;;;;;;;;;;;;;x
 THE_HANGMAN;The Hangman;;;;;;;;;;;;;x
 THE_LORD_OF_RUST;The Lord of Rust;;;;;;;;;;;;;x
