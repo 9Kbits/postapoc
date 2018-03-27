@@ -671,12 +671,12 @@ gracia_libertador = {
 
 ###SECRET RELIGION TRAITS###
 
-#xxxx
-secretly_xxxx = {
+#Rastafarian
+secretly_rastafarian = {
 
 	potential = {
 		NOT = {
-			religion = xxxx
+			religion = rastafarian
 		}
 	}
 	
@@ -687,10 +687,10 @@ secretly_xxxx = {
 	is_visible = {
 		OR = {
 			character = FROM
-			society_member_of = secret_religious_society_xxxx
+			society_member_of = secret_religious_society_rastafarian
 			AND = {
 				is_close_relative = FROM
-				trait = secretly_xxxx
+				trait = secretly_rastafarian
 			}
 		}
 	}

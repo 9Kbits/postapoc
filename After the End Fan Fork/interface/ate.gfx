@@ -1497,8 +1497,8 @@ spriteTypes = {
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_secret_religion_xxxx"
-		texturefile = "gfx/traits/secret_religion_xxxx.tga"
+		name = "GFX_secret_religion_rastafarian"
+		texturefile = "gfx/traits/secret_religion_rastafarian.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

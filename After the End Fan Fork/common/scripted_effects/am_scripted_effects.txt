@@ -119,36 +119,36 @@ add_secret_religion_trait_trigger_is_religion_or_old_religion_flag_clear_flag_af
     			AND = {
     				NOT = {
     					OR = {
-    						has_character_flag = character_was_xxxx
+    						has_character_flag = character_was_rastafarian
     					}
     				}
-    				religion = xxxx
+    				religion = rastafarian
     			}
-    			has_character_flag = character_was_xxxx
+    			has_character_flag = character_was_rastafarian
 			}
     	}
-    	set_secret_religion = xxxx
-    	clr_character_flag = character_was_xxxx
+    	set_secret_religion = rastafarian
+    	clr_character_flag = character_was_rastafarian
 		break = yes
     }
 }
 
 add_religion_char_flag_effect = {
 	if = {
-    	limit = { religion = xxxx }
-    	set_character_flag = character_was_xxxx
+    	limit = { religion = rastafarian }
+    	set_character_flag = character_was_rastafarian
     }
 }
 
 clr_religion_char_flag_effect = {
-    clr_character_flag = character_was_xxxx
+    clr_character_flag = character_was_rastafarian
 }
 
 event_target_old_religion_from_flag_effect = {
 	if = {
-    	limit = { has_character_flag = character_was_xxxx }
+    	limit = { has_character_flag = character_was_rastafarian }
     	random_character = {
-    		limit = { religion = xxxx }
+    		limit = { religion = rastafarian }
     		save_event_target_as = old_religion
     	}
     }
@@ -157,14 +157,14 @@ event_target_old_religion_from_flag_effect = {
 flip_secret_religious_community_provinces = {
 	trigger_switch = {
 		on_trigger = society_member_of
-		secret_religious_society_xxxx = {
+		secret_religious_society_rastafarian = {
 			ROOT = {
 				any_demesne_province = {
 					limit = {
-						has_province_modifier = secret_xxxx_community
+						has_province_modifier = secret_rastafarian_community
 					}
-					religion = xxxx
-					remove_province_modifier = secret_xxxx_community
+					religion = rastafarian
+					remove_province_modifier = secret_rastafarian_community
 				}
 			}
 		}
