@@ -668,3 +668,36 @@ gracia_libertador = {
 	ruler_designer_cost = 0
 	ai_ambition = 10
 }
+
+###SECRET RELIGION TRAITS###
+
+#xxxx
+secretly_xxxx = {
+
+	potential = {
+		NOT = {
+			religion = xxxx
+		}
+	}
+	
+	opposites = {
+		
+	}
+
+	is_visible = {
+		OR = {
+			character = FROM
+			society_member_of = secret_religious_society_xxxx
+			AND = {
+				is_close_relative = FROM
+				trait = secretly_xxxx
+			}
+		}
+	}
+
+	same_opinion = 15
+	
+	random = no
+	customizer = no
+	ai_zeal = -50
+}
