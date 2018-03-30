@@ -1,0 +1,787 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+###########Rules###########
+RULE_AMERICAN_LANDMARKS;American Landmarks;;;;;;;;;;;;;x
+RULE_LANDMARKS_ON_DESC;Incredible natural formations, legendary monuments, and other unique locations will be noted and described in certain provinces.;;;;;;;;;;;;;x
+RULE_LANDMARKS_OFF_DESC;Landmarks will not be described.;;;;;;;;;;;;;x
+RULE_REDCOAT_INVASION;Redcoat Invasion;;;;;;;;;;;;;x
+RULE_REDCOAT_INVASION_HISTORICAL_DESC;The Redcoat Dominion will invade between the years of 2815 and 2840.;;;;;;;;;;;;;x
+RULE_REDCOAT_INVASION_RANDOM_DESC;The Redcoat Dominion will invade at a random date, though at the earliest 50 years after the game is started.;;;;;;;;;;;;;x
+RULE_REDCOAT_INVASION_OFF_DESC;The Redcoat Dominion will not invade.;;;;;;;;;;;;;x
+RULE_BRAZIL_INVASION;Brazilian Invasion;;;;;;;;;;;;;x
+RULE_BRAZIL_INVASION_HISTORICAL_DESC;The Brazilian Empire will invade between the years of 2850 and 2875.;;;;;;;;;;;;;x
+RULE_BRAZIL_INVASION_RANDOM_DESC;The Brazilian Empire will invade at a random date, though at the earliest 50 years after the game is started.;;;;;;;;;;;;;x
+RULE_BRAZIL_INVASION_OFF_DESC;The Brazilian Empire will not invade.;;;;;;;;;;;;;x
+RULE_COLONISATION_INVASIONS;Colonisation Invasions;;;;;;;;;;;;;x
+RULE_COLONISATION_INVASIONS_HISTORICAL_DESC;The Edokko and Novorusskiy will attempt to colonise the Americas after 2740.;;;;;;;;;;;;;x
+RULE_COLONISATION_INVASIONS_OFF_DESC;The Edokko and Novorusskiy will not attempt to colonise the Americas.;;;;;;;;;;;;;x
+
+
+###########Bookmarks###########
+
+BM_FIAT_HOMO;Fiat Homo;;;;;;;;;;;;;x
+BM_FIAT_HOMO_DESC;The world suffered tremendously from the Event, but did not die out completely. Although scarred, the Earth still provides home for humanity. Now, in the midst of the 27th century, one part of the world is beginning to organize themselves, to rebuild and expand outward. Driven by greed, by righteousness, by bloodlust and by all the sins and virtues, rulers and adventurers will reshape the world. Let there be man!;;;;;;;;;;;;;x
+BM_FLORIDA_WAR;The Great Florida War;;;;;;;;;;;;;x
+BM_FLORIDA_WAR_DESC;After the death of Empress Portia, the unpopular Stepping Razor ascended the Caribbean throne. Seeking an enemy to unite the archipelago against, he embarked on an invasion of Confederate Florida in concert with their Tuskegean enemies. Meanwhile, a great army assembles in Quebec under the banner of St. Ursula, seeking to save the souls of New English from eternal damnation and perhaps gain worldly rewards in the process.;;;;;;;;;;;;;x
+BM_INDIAN_COUNTRY;Indian Country;;;;;;;;;;;;;x
+BM_INDIAN_COUNTRY_ERA;Indian Country;;;;;;;;;;;;;x
+BM_INDIAN_COUNTRY_DESC;The mass destruction of the Old World was, in many ways, a godsend for the Indians of Old America. With the governments that once oppressed them destroyed, the Native Americans were free of the reservation system, and began expanding outwards once more. Unlike the days before the Indian Wars however, these revitalized nations are now a minority in their own lands, and have had to compromise their rule with Anglo-American vassals and acknowledgement of the Papacy in New Rome. In such a state, can the Indians survive in this new world?;;;;;;;;;;;;;x
+BM_INDIAN_COUNTRY_ERA_INFO;The mass destruction of the Old World was, in many ways, a godsend for the Indians of Old America. With the governments that once oppressed them destroyed, the Native Americans were free of the reservation system, and began expanding outwards once more. Unlike the days before the Indian Wars however, these revitalized nations are now a minority in their own lands, and have had to compromise their rule with Anglo-American vassals and acknowledgement of the Papacy in New Rome. In such a state, can the Indians survive in this new world?;;;;;;;;;;;;;x
+BM_SOUTHERN_KNIGHTS;Southern Knights;;;;;;;;;;;;;x
+BM_SOUTHERN_KNIGHTS_ERA;Southern Knights;;;;;;;;;;;;;x
+BM_SOUTHERN_KNIGHTS_DESC;The American South has managed to reconstruct itself modestly enough. Core portions of what was once known as the 'Deep South' were reunited centuries ago, and this empire, being one of the strongest realms east of the Mississippi, has taken to styling itself as the legitimate successor to Old America. Can its wildest ambitions ever match up with reality? What of the Southern dukes and counts who refuse to bend knee?;;;;;;;;;;;;;x
+BM_SOUTHERN_KNIGHTS_ERA_INFO;The American South has managed to reconstruct itself modestly enough. Core portions of what was once known as the 'Deep South' were reunited centuries ago, and this empire, being one of the strongest realms east of the Mississippi, has taken to styling itself as the legitimate successor to Old America. Can its wildest ambitions ever match up with reality? What of the Southern dukes and counts who refuse to bend knee?;;;;;;;;;;;;;x
+BM_GHOSTS_OF_THE_NORTH;Ghosts of the North;;;;;;;;;;;;;x
+BM_GHOSTS_OF_THE_NORTH_ERA;Ghosts of the North;;;;;;;;;;;;;x
+BM_GHOSTS_OF_THE_NORTH_DESC;The northern regions of Old America and Canada are a hotbed of turmoil and conflict. Christian and pagan faiths alike vie for control of the region, with Quebecois schismatics and the descendants of the Pennsylvania Amish vying for control alongside New English practitioners of the occult and Rust Belt denizens who worship the long-abandoned auto factories and steel mills of the Old World.;;;;;;;;;;;;;x;;
+BM_GHOSTS_OF_THE_NORTH_ERA_INFO;The northern regions of Old America and Canada are a hotbed of turmoil and conflict. Christian and pagan faiths alike vie for control of the region, with Quebecois schismatics and the descendants of the Pennsylvania Amish vying for control alongside New English practitioners of the occult and Rust Belt denizens who worship the long-abandoned auto factories and steel mills of the Old World.;;;;;;;;;;;;;x;;
+BM_GODS_AND_KINGS;Gods and Kings;;;;;;;;;;;;;x
+BM_GODS_AND_KINGS_ERA;Gods and Kings;;;;;;;;;;;;;x
+BM_GODS_AND_KINGS_DESC;The lands west of the Rockies are said to be beacons of peace and prosperity, but life in the 27th century is no utopia. The mighty empire of California, which enjoyed centuries of stable rule over nearly all the west coast, has been thrown into chaos by six warring kingdoms, each desiring control over the Emperor and harboring their own ambitions, while the Cascadian kings struggle against Haida invasions, the Mormons of Deseret spread their faith northwards at swordpoint, and Arixan cowboys clash with Navajo, Hopi, and tinkers of the Atomicist faith. Can the peace so many sing about ever be restored to the region?;;;;;;;;;;;;;x
+BM_GODS_AND_KINGS_ERA_INFO;The lands west of the Rockies are said to be beacons of peace and prosperity, but life in the 27th century is no utopia. The mighty empire of California, which enjoyed centuries of stable rule over nearly all the west coast, has been thrown into chaos by six warring kingdoms, each desiring control over the Emperor and harboring their own ambitions, while the Cascadian kings struggle against Haida invasions, the Mormons of Deseret spread their faith northwards at swordpoint, and Arixan cowboys clash with Navajo, Hopi, and tinkers of the Atomicist faith. Can the peace so many sing about ever be restored to the region?;;;;;;;;;;;;;x
+BM_SOUTH_OF_THE_BORDER;South of the Border;;;;;;;;;;;;;x
+BM_SOUTH_OF_THE_BORDER_ERA;South of the Border;;;;;;;;;;;;;x
+BM_SOUTH_OF_THE_BORDER_DESC;Mixtecs, Nahuas, Purepechas, Chilangos, Nortenos, and Jarochos fight over the rich Valley of Mexico, while the merchants of Veracruz grow rich off the Interstate trade from California. The Atom-worshipping lords of Sonora and Tejano conquerors of Sierra Madre threaten the followers of El Santo, Our Lady of Guadalupe, and Santa Muerte in the north. The Kingdom of Yucatan is strong, but dissension between Yucatecs and Mayas threatens it from within as the growing Caribbean Empire threatens it from without.;;;;;;;;;;;;;x
+BM_SOUTH_OF_THE_BORDER_ERA_INFO;Mixtecs, Nahuas, Purepechas, Chilangos, Nortenos, and Jarochos fight over the rich Valley of Mexico, while the merchants of Veracruz grow rich off the Interstate trade from California. The Atom-worshipping lords of Sonora and Tejano conquerors of Sierra Madre threaten the followers of El Santo, Our Lady of Guadalupe, and Santa Muerte in the north. The Kingdom of Yucatan is strong, but dissension between Yucatecs and Mayas threatens it from within as the growing Caribbean Empire threatens it from without.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1910107;California has seen better days. The Emperor has become a mere figurehead, with his former governors acting as independent rulers in all but name. Can you reunite California under its divinely-ordained ruler, or will disharmony and strife continue to reign?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_2000011;Marchioness Portia of Jamaica has built a great empire through conquest and diplomacy. But as she grows old, earls and marquises plot to break away or gain the throne for themselves, united only in hatred for the vile Prince Barrington. Worshipers of the orishas, the loa, and Jah are in constant conflict. Can you hold the Caribbean together, or will the Empire survive only as a historical footnote?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1788001;Hudsonia's fortunes have declined somewhat, from its glory days under the Rodham kings. Although the realm is mostly united, the authority of the crown is weakened, and Baltus III Groot's reign is plagued by religious strife, disloyal vassals, Rodham claimants to the throne and the perpetual threat of Occultists to the east. Can you ride the storm and restore Hudsonia to its old strength, or are Baltus and his kingdom doomed to obscurity?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1861001;305 years after its founding, the Holy Columbian Confederacy is one of the most powerful and stable realms east of the Mississippi, a cornerstone of chivalric culture in the Americas, and self-proclaimed successor to Old America. As its newest emperor, Algernon III has a lot to live up to, and the reality of power isn't the stuff of songs. In an empire beset with the threat of rebellion, constant intrigue in the halls of power, and religious turmoil foreign and domestic, can you prove yourself worthy to wear the crown?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1620100;Centuries ago, the House of Mahonic ruled a mighty, prosperous kingdom that united almost all the Northeast, and became a name known - and feared - by every living thing east of the Mississippi. Now, though, those days are but memories, living only in tomes from the great Crimson Library or the tales your father lulled you to sleep with during your childhood, and you are the last. The road before you is treacherous, but not hopeless - play your cards right, and maybe you can return your family, and your people, to their former glory.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1788002;The Big Apple isn't anywhere near the grandeur of its pre-cataclysmic days, but it has survived and rebuilt, retaking its place as one of the Americas' economic and cultural capitals. Over the centuries, the Republic has braved war and calamity, even surrounded by the many factions of the tumultuous Northeast. You are the latest in a long line to guide the city that never sleeps, but beware: your fellow patricians are ambitious, Americanists have few friends among their neighbors, and war is almost more common in the region than trade. Will New York prosper under your rule, or is the great city doomed?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1867007;Long ago, before the cataclysm that engulfed the ancient world, Ontario was capital to the empire of Canada, which counted itself among Old America's closest friends. Canada is long gone, but under the House of Laurier, Ontario has built itself anew, braving the storms that have beset its fellow Canadian kingdoms as well as the Northeast in general. Not all is well, however, as the Rust Cultists of the Midwest are a constant threat, as are the conflicts between the High Church, Ursulines and Evangelicals, and the bloody, ever-changing politics of the eastern seaboard. Under By's reign, will Ontario continue its rise to greatness, or will the Canadian dream finally come to an end?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1967004;Detroit, land of opportunity and home of the divine machines. Blessed be the city of the Old Machines, and blessed be the name of Overseer Coleman the Liberator, hero to his people and hero to his faith. Now free of the influence of its old Quebecois overlords, the Factory of Detroit stands triumphant and ready to unite the Rustic peoples. In the East and West, both the Ursulines and Catholics stand ready to stop a united Michigan at all costs, but Coleman, too, is ready to stand against them. Long live Detroit, love live the Liberator!;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1933005;Life on the border of the largest empire in the new world can be a profitable one... if you're an Evangelical Christian. Unfortunately for the political future of the tribe of Tenesi, High Chief Ellis is a zealous Revelationist who would not think of compromising his mystical ideals to placate his neighbors. A magnetic personality and dashing good looks may have allowed him to bring Revelationist lands under his control, but will it take a miracle to keep hold of his conquests in the face of Confederate domination?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1836000;Old Count Abner has weathered great misfortune in his long life. His firstborn son Taddeo died in infancy. His younger brother wrangled his way into the service of Duke Denton of Metroplex and now stands to inherit a realm greater than Abner's own inheritance. Even God appears to have turned His back on Abner, for Voodoo mystics threaten his southern frontier as his fellow Catholics - true adherents of Christ - bicker amongst themselves and snap at one another's domains. But Abner still draws breath, and his sword as well...;;;;;;;;;;;;;x
+ERA_CHAR_INFO_3000000;The Latimer family of Tuskegee enjoy a place of privilege on the western frontier of the Holy Columbian Confederacy. Tasked with maintaining the security of the Magnolia Marches, Duke Huey faces threats on all sides: Papists to the northwest and devil-worshipping Occultists to the north, while Voodoo sorcerers revel in the remains of New Orleans. But youthful vigor, a just heart and God himself are on his side. The disparate communities to his west will surely soon fall under the yoke of the true successor to old America!;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1997018;Keenich Abram VII rules the Kingdom of Deitschrei, one of the oldest and most stable realms in all of Old America. Deitschrei has not seen war in over two hundred years, and it currently enjoys good relations with its fellow Anabaptists in the Kingdom of Hudsonia. However, Keenich Abram himself faces a rather serious problem. His wife, Keenichn Isidora, has not yet given him a child, and, at age 49, it seems certain that she never will. Will the Lengacher dynasty die with Keenich Abram, or will he find a way to keep his line alive, no matter the cost?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1830006;Ammaron Anthophile is the King of Deseret and the King of All Mormons, both of which are extremely prestigious titles for any man. However, titles mean nothing if they aren't backed up with force. The Mormon faith is secluded, surrounded on all sides by pagans, and ignored by the Christian world. Deseret, though large, is a weak kingdom with only one major city. Ammaron must overpower his enemies, stand fast in his faith, and find an heir, alone and against all odds. The North and South borders must be secured to defend against potential invasions from California or a united Plains. The fate of Mormonism and his young kingdom hang in the balance.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1845019;The Freeland family has ruled the region surrounding Portland for nearly 150 years, but Portlandia currently stands divided and weak in the face of the Haida conquests. Kaitlin Freeland rules Portland proper, her sister rules in the south, and her cousin rules the lands west of her. All three dynasty members have claims on one another, but Kaitlin is undeniably the strongest among them. If Portlandia can be united, the Gaian faith might finally be able to stand against the native invaders that threaten its very existence. Will Kaitlin be the savior Mother Earth needs, or will she be forgotten like many before her?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1875001;In the years since the apocalypse, the Comanche have been one of the more successful groups of reemerging natives and have carved a large kingdom out of Old World Texas and Oklahoma, carrying on the warrior tradition of their forefathers. However, the Comanche only make up a small portion of their own kingdom's population, and unlike many other native groups, they fight for the Church. King Pahayoko II is young, ambitious, and a great fighter. The pagans in the West and in the South offer great expansion opportunities, Greater Comancheria and Texas remain to be united, and the church presents itself as a great tool. The future of the Comanche seems brighter than ever.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1667024;Horselord August the Wise models himself after two men: Augustus, leader of ancient Rome and August's namesake, and Louis Riel, the man who won the Metis people their home in Manitoba. August has lived a nomadic life on the Plains since he was a little boy, and the last 35 years of his life have been filled with hardship after hardship. Now, though, he stands as the sole leader of the Metis in Saskatchewan, and surrounding him are weak leaders ripe for conquest. August's first goal should be to secure Manitoba and unite the rest of the Metis. His people will be oppressed no longer.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1200011;Beginning almost 150 years ago, the once small Haida realms began a series of conquests that would forever change the political landscape of the Pacific Northwest. Duke Skidegate Hlagi sits upon his throne as one of the successor states of the Haida Conquerors. To his South lay Gaian realms ready to be taken, and to his North lay the fractured Haidan realms that remain to be united. Will he be a great Conqueror like the Haida before him, or will he be the first to die to Gaian liberators?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1889001;Nearly two centuries ago, the area now known as Lakotah used to be home to a thriving Americanist empire centered at Rushmore. Times change, however, and the Sioux have now filled the previous power vacuum in the region. King Tasinagi Hokwoju is the first of these Sioux kings, having formed Lakotah 22 years ago. In the South, Catholics and the threat of holy war loom. In the East, the hostile Norsemen may soon unite and challenge Lakotah. But the Sioux are as resilient now as they were before the Event. They are warriors, and King Tasinagi won't let his young kingdom go gently.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1810083;House Iturbide claims direct descent from the pre-Event Emperors of Mexico, but they have fallen on hard times. The current head of the Iturbides, Wenceslao I, rules over a vestigial kingdom barely worthy of the name "Mexico". Surrounded by heathen Mesoamericans, rival kings, and squabbling principalities, it seems unlikely that the rulers of Mexico will ever be able to regain their former glory. Will Wenceslao defy the odds and start a new golden age for his dynasty, or will House Iturbide continue its slow fall into obscurity?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1875009;The Cherokee people were driven from their ancestral homeland centuries ago, and, unlike their Comanche neighbors, they have not yet reconquered it. The current leader of the Cherokee, Will-usdi, does not seem like the kind of ruler who will lead his people to glory - he is known for his complacent nature and his tendency to shy away from conflict. It looks like the Cherokee will stay in their neighbor's shadow for decades to come... unless Will-usdi can defy expectations and carry his tribe to new heights.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1810200;When he was a young man, King Louis embarked on a holy conquest of Mexico in the name of the Atom. He managed to carve out a realm for himself south of the Rio Grande, establishing a feudal kingdom in what was once a barren and desolate wasteland. However, King Louis is no longer a young man - he is now 73 years old, and it seems that he will soon become one with the Atom. Although his son Jesús seems like a worthy successor to his father, some still fear that the Kingdom of Sierra Madre will fall to the worshippers of the Sacred Heart.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1325022;Queen Pinopiaa Omactl is the newest ruler of the Kingdom of Mixteca. She is famous for her great beauty and kind nature. Both her father and grandfather are revered by Miclantecs as Incarnates - earthly incarnations of the gods themselves. However, it seems as if the legendary Omactl line is doomed to die out. Queen Pinopiaa has no male siblings, and she is married to King Zuangua of Michoacán. Their children are expected to unite their parents' realms into the most powerful Miclantec kingdom seen since the pre-Columbian age... under King Zuangua's dynasty of Iurhúri. Is this truly the end of House Omactl?;;;;;;;;;;;;;x
+ERA_CHAR_INFO_1810111;Gustavo Pistolas reformed his father's Kingdom of Colima into the Republic of Colima, with families drawn from both the Tapatio majority and the Aztec and Chilango minorities in Colima. Gustavo's new republic stands on the crossroads of the valuable Great Pacific trade route, and it has the potential to become the wealthiest realm this side of the Rio Grande. However, Gustavo faces competition from the Chino merchants in Baja, and his realm is within spitting distance of the mighty Kingdom of Michoacán. Can Gustavo make his fledgling republic last, or is this experiment in democracy doomed to fail?;;;;;;;;;;;;;x
+ERA_CHAR_NAME_PAHAYOKO;Pakayoko II Nokona;;;;;;;;;;;;;x
+ERA_CHAR_NAME_WILL_USDI;Will-usdi Boudinot;;;;;;;;;;;;;x
+ERA_CHAR_NAME_TASINAGI;Tasinagi Hokwoju;;;;;;;;;;;;;x
+ERA_CHAR_NAME_AUGUST;August Supernault;;;;;;;;;;;;;x
+ERA_CHAR_NAME_ALGERNON;Algernon III Littlepage;;;;;;;;;;;;;x
+ERA_CHAR_NAME_ELLIS;Ellis Crockoone;;;;;;;;;;;;;x
+ERA_CHAR_NAME_ABNER;Abner Hannegan;;;;;;;;;;;;;x
+ERA_CHAR_NAME_HUEY;Huey Latimer;;;;;;;;;;;;;x
+ERA_CHAR_NAME_ABRAM;Abram Lengacher;;;;;;;;;;;;;x
+ERA_CHAR_NAME_FLORELL;Florell Laggard;;;;;;;;;;;;;x
+ERA_CHAR_NAME_BALTUS;Baltus Groot;;;;;;;;;;;;;x
+ERA_CHAR_NAME_COLEMAN;Coleman Kirkpatrick;;;;;;;;;;;;;x
+ERA_CHAR_NAME_BY;By Laurier;;;;;;;;;;;;;x
+ERA_CHAR_NAME_ELTON;Elton IV Yudkow;;;;;;;;;;;;;x
+ERA_CHAR_NAME_KAITLIN;Kaitlin Freeland;;;;;;;;;;;;;x
+ERA_CHAR_NAME_SKIDEGATE;Skidegate Hlagi;;;;;;;;;;;;;x
+ERA_CHAR_NAME_AMMARON;Ammaron Anthophile;;;;;;;;;;;;;x
+ERA_CHAR_NAME_PORTIA;Portia Bustamante;;;;;;;;;;;;;x
+ERA_CHAR_NAME_WENECESLAO;Wenceslao Iturbide;;;;;;;;;;;;;x
+ERA_CHAR_NAME_PINOPIAA;Pinopiaa Omacatl;;;;;;;;;;;;;x
+ERA_CHAR_NAME_GUSTAVO;Gustavo Pistolas;;;;;;;;;;;;;x
+ERA_CHAR_NAME_LUIS;Luis de Armas;;;;;;;;;;;;;x
+ERA_CHAR_NAME_PAUL;Paul Mahonic;;;;;;;;;;;;;x
+CHARACTER_TOOLTIP_DELAYED;[GetStatusInfo]\nID: §Y[GetID]§!\nDynasty: §Y[GetOnlyDynastyName]§!\nReligion: §Y[Religion.GetName]§!\nCulture: §Y[Culture.GetName]\n;;;;[GetStatusInfo]\nID: §Y[GetID]§!\nDinastía: §Y[GetOnlyDynastyName]§!\nReligión: §Y[Religion.GetName]§!\nCultura: §Y[Culture.GetName]\n;;;;;;;;;x
+
+###########Cultures###########
+
+acadien;Acadien;;;;;;;;;;;;;x
+afroanglo;Afro-Anglo;;;;;;;;;;;;;x
+agraciado;Agraciado;;;;;;;;;;;;;x
+algonquin;Algonquin;;;;;;;;;;;;;x
+algonquian;Algonquian;;;;;;;;;;;;;x
+amerodeutsch;Amerodeutsch;;;;;;;;;;;;;x
+andean;Andean;;;;;;;;;;;;;x
+angeleno;Angeleno;;;;;;;;;;;;;x
+antillais;Antillais;;;;;;;;;;;;;x
+antilliaanse;Antilliaanse;;;;;;;;;;;;;x
+antioqueno;Antioqueño;;;;;;;;;;;;;x
+appalachian;Appalachian;;;;;;;;;;;;;x
+apache;Apache;;;;;;;;;;;;;x
+arawak;Arawak;;;;;;;;;;;;;x
+arixan;Arixan;;;;;;;;;;;;;x
+bayfolk;Bayfolk;;;;;;;;;;;;;x
+beltway;Beltway;;;;;;;;;;;;;x
+bermudian;Bermudian;;;;;;;;;;;;;x
+black;Black;;;;;;;;;;;;;x
+bolivariano;Bolivariano;;;;;;;;;;;;;x
+boricua;Boricua;;;;;;;;;;;;;x
+brazilian;Brazilian;;;;;;;;;;;;;x
+british;British;;;;;;;;;;;;;x
+brown;Brown;;;;;;;;;;;;;x
+cajun;Cajun;;;;;;;;;;;;;x
+calaotian;Calaotian;;;;;;;;;;;;;x
+californian;Californian;;;;;;;;;;;;;x
+californio;Californio;;;;;;;;;;;;;x
+calypsonian;Calypsonian;;;;;;;;;;;;;x
+canadian;Canadian;;;;;;;;;;;;;x
+canuck;Canuck;;;;;;;;;;;;;x
+caribbanglo;Caribbanglo;;;;;;;;;;;;;x
+caribbean;Caribbean;;;;;;;;;;;;;x
+caribeno;Caribeño;;;;;;;;;;;;;x
+cartagenero;Cartagenero;;;;;;;;;;;;;x
+cascadian;Cascadian;;;;;;;;;;;;;x
+cayennais;Cayennais;;;;;;;;;;;;;x
+centrolatino;Centrolatino;;;;;;;;;;;;;x
+chapin;Chapin;;;;;;;;;;;;;x
+cherokee;Cherokee;;;;;;;;;;;;;x
+chicagoan;Chicagoan;;;;;;;;;;;;;x
+chino;Chino;;;;;;;;;;;;;x
+chilango;Chilango;;;;;;;;;;;;;x
+chinese;Chinese;;;;;;;;;;;;;x
+choctaw;Choctaw;;;;;;;;;;;;;x
+colombiano;Colombiano;;;;;;;;;;;;;x
+coloradan;Coloradan;;;;;;;;;;;;;x
+comanche;Comanche;;;;;;;;;;;;;x
+cree;Cree;;;;;;;;;;;;;x
+creole;Creole;;;;;;;;;;;;;x
+cubano;Cubano;;;;;;;;;;;;;x
+deitsch;Deitsch;;;;;;;;;;;;;x
+delawarean;Delawarean;;;;;;;;;;;;;x
+dellsman;Dellsman;;;;;;;;;;;;;x
+dixie;Dixie;;;;;;;;;;;;;x
+dominicano;Dominicano;;;;;;;;;;;;;x
+eastern_woodlands;Eastern Woodlands;;;;;;;;;;;;;x
+edokko;Edokko;;;;;;;;;;;;;x
+filipino;Filipino;;;;;;;;;;;;;x
+first_nations;First Nations;;;;;;;;;;;;;x
+gallomerican;Gallomerican;;;;;;;;;;;;;x
+garinagu;Garinagu;;;;;;;;;;;;;x
+gocho;Gocho;;;;;;;;;;;;;x
+gothamite;Gothamite;;;;;;;;;;;;;x
+grangelander;Grangelander;;;;;;;;;;;;;x
+gulfard;Gulfard;;;;;;;;;;;;;x
+gullah;Gullah;;;;;;;;;;;;;x
+guyanese;Guyanese;;;;;;;;;;;;;x
+haida;Haida;;;;;;;;;;;;;x
+haitian;Haitian;;;;;;;;;;;;;x
+hawaiian;Hawaiian;;;;;;;;;;;;;x
+hispaniolan;Hispaniolan;;;;;;;;;;;;;x
+hopi;Hopi;;;;;;;;;;;;;x
+hudsonian;Hudsonian;;;;;;;;;;;;;x
+innu;Innu;;;;;;;;;;;;;x
+inuit;Inuit;;;;;;;;;;;;;x
+iroquois;Iroquois;;;;;;;;;;;;;x
+istmeno;Istmeño;;;;;;;;;;;;;x
+jarocho;Jarocho;;;;;;;;;;;;;x
+kinh;Kinh;;;;;;;;;;;;;x
+kriol;Kriol;;;;;;;;;;;;;x
+lacustrine;Lacustrine;;;;;;;;;;;;;x
+laurentian;Laurentian;;;;;;;;;;;;;x
+llanero;Llanero;;;;;;;;;;;;;x
+malay;Malay;;;;;;;;;;;;;x
+maritimer;Maritimer;;;;;;;;;;;;;x
+maya;Maya;;;;;;;;;;;;;x
+mayan;Mayan;;;;;;;;;;;;;x
+melungeon;Melungeon;;;;;;;;;;;;;x
+metis;Métis;;;;;;;;;;;;;x
+mexicano;Mexicano;;;;;;;;;;;;;x
+mikmaq;Mi'kmaq;;;;;;;;;;;;;x
+miskito;Miskito;;;;;;;;;;;;;x
+miwok;Miwok;;;;;;;;;;;;;x
+mixtec;Mixtec;;;;;;;;;;;;;x
+motowner;Motowner;;;;;;;;;;;;;x
+mountainer;Mountainer;;;;;;;;;;;;;x
+muisca;Muisca;;;;;;;;;;;;;x
+muscogee;Muscogee;;;;;;;;;;;;;x
+nahua;Nahua;;;;;;;;;;;;;x
+native_american;Native;;;;;;;;;;;;;x
+native;Native;;;;;;;;;;;;;x
+navajo;Navajo;;;;;;;;;;;;;x
+neoladino;Neoladino;;;;;;;;;;;;;x
+neomexicano;Neomexicano;;;;;;;;;;;;;x
+newfie;Newfie;;;;;;;;;;;;;x
+northwest_coast;Northwest Coast;;;;;;;;;;;;;x
+guinean;Guinean;;;;;;;;;;;;;x
+nigerian;Nigerian;;;;;;;;;;;;;x
+nihonjin;Nihonjin;;;;;;;;;;;;;x
+maghreb;Maghreb;;;;;;;;;;;;;x
+moroccan;Moroccan;;;;;;;;;;;;;x
+norteno;Norteño;;;;;;;;;;;;;x
+north_anglo;North Anglo;;;;;;;;;;;;;x
+north_atlantic;North Atlantic;;;;;;;;;;;;;x
+north_pacific;North Pacific;;;;;;;;;;;;;x
+northlander;Northlander;;;;;;;;;;;;;x
+novorusskiy;Novorusskiy;;;;;;;;;;;;;x
+nuyorican;Nuyorican;;;;;;;;;;;;;x
+ojibwe;Ojibwe;;;;;;;;;;;;;x
+old_world;Old World;;;;;;;;;;;;;x
+oldworld;Old World Cultist;;;;;;;;;;;;;x
+ontarian;Ontarian;;;;;;;;;;;;;x
+ozark;Ozark;;;;;;;;;;;;;x
+ozarkian;Ozarkian;;;;;;;;;;;;;x
+ozlander;Ozlander;;;;;;;;;;;;;x
+ozzi;Ozzi;;;;;;;;;;;;;x
+paisa;Paisa;;;;;;;;;;;;;x
+paiute;Paiute;;;;;;;;;;;;;x
+papiamen;Papiamen;;;;;;;;;;;;;x
+polynesian;Polynesian;;;;;;;;;;;;;x
+plains;Plains;;;;;;;;;;;;;x
+plateau;Plateau;;;;;;;;;;;;;x
+portlander;Portlander;;;;;;;;;;;;;x
+purepecha;Purépecha;;;;;;;;;;;;;x
+quebecois;Quebecois;;;;;;;;;;;;;x
+quechua;Quechua;;;;;;;;;;;;;x
+raizal;Raizal;;;;;;;;;;;;;x
+raramuri;Rarámuri;;;;;;;;;;;;;x
+reference_culture;Reference Culture (Shouldn't see this!);;;;;;;;;;;;;x
+riverlander;Riverlander;;;;;;;;;;;;;x
+rochela;Rochela;;;;;;;;;;;;;x
+rockland;Rockland;;;;;;;;;;;;;x
+amazonense;Amazonense;;;;;;;;;;;;;x
+rostmann;Rostmann;;;;;;;;;;;;;x
+rustonian;Rustonian;;;;;;;;;;;;;x
+salishan;Salishan;;;;;;;;;;;;;x
+shoshone;Shoshone;;;;;;;;;;;;;
+sibir;Sibir;;;;;;;;;;;;;x
+singaporean;Singaporean;;;;;;;;;;;;;x
+sioux;Sioux;;;;;;;;;;;;;x
+sonorense;Sonorense;;;;;;;;;;;;;x
+south_anglo;South Anglo;;;;;;;;;;;;;x
+southron;Southron;;;;;;;;;;;;;x
+subarctic;Subarctic;;;;;;;;;;;;;x
+sranan;Sranan;;;;;;;;;;;;;x
+tagalog;Tagalog;;;;;;;;;;;;;x
+tapatio;Tapatio;;;;;;;;;;;;;x
+tejano;Tejano;;;;;;;;;;;;;x
+texan;Texan;;;;;;;;;;;;;x
+truenonato;Truenonato;;;;;;;;;;;;;x
+tuskegean;Tuskegean;;;;;;;;;;;;;x
+utahn;Utahn;;;;;;;;;;;;;x
+valleyan;Valleyan;;;;;;;;;;;;;x
+venezolano;Venezolano;;;;;;;;;;;;;x
+venteux;Venteux;;;;;;;;;;;;;x
+viet;Viet;;;;;;;;;;;;;x
+wayuu;Wayuu;;;;;;;;;;;;;x
+west_anglo;West Anglo;;;;;;;;;;;;;x
+west_indian;West Indian;;;;;;;;;;;;;x
+white;White;;;;;;;;;;;;;x
+yankee;Yankee;;;;;;;;;;;;;x
+yooper;Yooper;;;;;;;;;;;;;x
+yucateco;Yucateco;;;;;;;;;;;;;x
+yiddish;Yiddish;;;;;;;;;;;;;x
+canton;Canton;;;;;;;;;;;;;x
+hong_konger;Hong Konger;;;;;;;;;;;;;x
+zapotec;Zapotec;;;;;;;;;;;;;x
+
+
+
+###########Religions###########
+
+pirate;Pirate;;;;;;;;;;;;;x
+candomble;Candomblé;;;;;;;;;;;;;x
+candomble_DESC;Candomblé literally means "dance in honor of the gods," and, as is to be expected from the name, many rituals involve music and dance. Practitioners worship a creator deity named Olodumaré, as well as numerous lesser spirits called Orishas, and often make ritual offerings to them. Candomblé is a syncretic faith that absorbed religious traditions from West Africans, Portuguese Catholics, and indigenous South Americans. \nDefining features in-game:;;;;;;;;;;;;;x
+thelemic;Thelema;;;;;;;;;;;;;x
+thelemic_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." Thelema is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. However, their highest deity is someone - or something - known only as "The Queen". \nDefining features in-game:;;;;;;;;;;;;;x
+neognostic;Neo-Gnostic;;;;;;;;;;;;;x
+neognostic_DESC;Neo-Gnostism (re)emerged in Colorado as a syncretic faith combining teachings coming from the the Cetic west and the Catholic east. Neo-Gnostics have amalgamated the belief in the Christian God with the rejection of the material world often found in Cetic schools of thought. They believe that Salvation can be found in worship of Christ and that they can find Enlightenment through his teachings. Gnostics see material processions and desires as secondary to Oneness with God. They reject the material world (matter, flesh) as being the work of Satan and seek to embrace the 'Gnosis' of God (knowledge, enlightenment, salvation). \nDefining features in-game:\n§Y*§! Are considered a Catholic heresy owing to their agreement with the Catholic understanding of God and the Saints, while dismissing the teachings of most Cetic Gurus.\n§Y*§! May have ambitions to remove vices.;;;;;;;;;;;;;x
+sedevacantist;Sedevacantist;;;;;;;;;;;;;x
+sedevacantist_DESC;The name Sedevancantist comes from the Latin term 'Sede Vacante', meaning 'the seat is vacant'. Sedevacantists reject the authority of the Pope of New Rome, denying his right to call himself successor of the Pope of Old Rome because it cannot be established if the Papacy of the Old World still exists. Even if it has ceased to exist, they reject the notion that the Bishop of New Rome (St. Louis) could or should have the same authority as the original Pope. They argue that the Primacy of Rome cannot be duplicated merely out of convenience, feel the Bishop of New Rome has no more right to be head of their faith than any other bishop in the land, and call his College of Cardinals a sham and cabal of co-conspirators. Instead, Sedevancantists believe the office of Pope should be considered 'vacant' until a true Pope returns, unless it can be confirmed the original Papacy is no more. \nDefining features in-game:;;;;;;;;;;;;;x
+ursuline;Ursuline;;;;;;;;;;;;;x
+ursuline_DESC;The Ursulines originated as an antediluvian religious order, patronized by Saint Ursula. Introduced to the Americas during the colonial era, their presence could be found wherever the French colonized. During and shortly after the great cataclysm, Quebecois Roman Catholics, unable to contact old Rome, turned to the Ursuline order for leadership. Since then the Ursulines have served as Quebec's continuation of antediluvian Catholicism, and their followers have steadfastly refused to recognize the American Pope in New Rome. \nDefining features in-game:\n§Y*§! The Abbess-General is elected via the same mechanics as the Pope.\n§Y*§! Women are the only ones who can become cardinals.;;;;;;;;;;;;;x
+angeline;Angeline;;;;;;;;;;;;;x
+angeline_DESC;Angelines live very different lives from their Ursuline counterparts. Whereas the Ursulines emphasize the monastic lifestyle and the primacy of the Church, Angelines more strongly emphasize cohabitation with the secular world. \nDefining features in-game:;;;;;;;;;;;;;x
+anabaptist;Anabaptist;;;;;;;;;;;;;x
+anabaptist_DESC;The Anabaptists are a branch of Christianity originating from 16th century Europe, and are the forebears of American groups such as the Amish, Hutterites and Mennonites, which banded together to survive the post-cataclysm world. Anabaptists believe Christians should remain separate from the rest of the world, refuse to hold office, and refrain from violence except when absolutely necessary. These tenets make life after the apocalypse difficult, and often quite short. \nDefining features in-game:\n§Y*§! Due to their avoidance of violence when possible, cannot use the Holy War CB.;;;;;;;;;;;;;x
+evangelical;Evangelical;;;;;;;;;;;;;x
+evangelical_DESC;The Evangelical Church is what remains of antediluvian Protestantism. In the face of post-deluge upheavals, the Protestant churches banded together, putting aside minor theological differences in favor of establishing an Evangelical Convention of Churches presided over by an ecumenical council of bishops. However, some Christians chafe against the doctrines and restrictions imposed by this Convention... \nDefining features in-game:;;;;;;;;;;;;;x
+high_church;Anglican;;;;;;;;;;;;;x
+high_church_DESC;Anglicanism describes itself as being a "via media", or middle way, between Evangelical Protestantism and the Catholic Church. Following the Event, the Anglican Church in Canada refused to participate in the Evangelical Convention called by the Holy Columbian Confederacy, and it has since become recognized as a separate faith unto itself. The highest authority in Anglicanism is the Archbishop of New Canterbury. \nDefining features in-game:;;;;;;;;;;;;;x
+antinomian;Antinomian;;;;;;;;;;;;;x
+antinomian_DESC;Antinomianism is a theological doctrine which predates the apocalypse and takes the Protestant notion of 'sola fide'- salvation by 'faith alone'- to its extreme, rejecting not just Old Testament ceremonial laws but all of the laws laid down by Moses. This rejection of Mosaic law- or 'moral law'- is universally condemned by mainstream Protestantism and has been a thorny issue since the days of Martin Luther. \nDefining features in-game:;;;;;;;;;;;;;x
+postadventist;Postadventist;;;;;;;;;;;;;x
+postadventist_DESC;Postadventists believe that the Second Coming has already happened, that Jesus came to judge the living and the dead... and was not pleased. \nDefining features in-game:;;;;;;;;;;;;;x
+charismatic;Charismatic;;;;;;;;;;;;;x
+charismatic_DESC;Charismatics are not known as such because of their charm, but rather their belief in 'charismata', gifts of the Holy Spirit manifested in miracles and signs that can be endowed simply by baptism and faith in the Holy Spirit. Such wonders include the ability to speak in tongues, miraculous healing of the cripples, gifts of prophecy and more events often considered 'supernatural'. Although the Evangelical Convention declared these beliefs heretical, the Charismatic faith continues to thrive outside the jurisdiction of the Holy Columbian Confederacy. \nDefining features in-game:;;;;;;;;;;;;;x
+dark_pagan_group;Dark Pagan;;;;;;;;;;;;;x
+occultist;Occultist;;;;;;;;;;;;;x
+occultist_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others. \nDefining features in-game:\n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
+occultist_reformed;Occultist;;;;;;;;;;;;;x
+occultist_reformed_DESC;Occultist followers believe that the universe is a vast mystery, with the dark corners of reality holding innumerable secrets and dangers. The fragments of ancient lore that survived the Fall have formed the core of a new polytheistic faith quite at odds with most others. The reformed Occultist church has a new hierarchy and more standardized set of texts. \nDefining features in-game: \n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
+atomicist;Atomicist;;;;;;;;;;;;;x
+atomicist_DESC;Atomicists worship elements of old world technology and hold sacred the places 'touched by the Almighty Atom'. Although atomic theory is practically forgotten, Atomicists understand that there is an invisible world out there which houses vast power. If they could but find a way to tap into this intangible world, they believe they would become gods themselves! The tumors and radiation sickness, though, they don't talk about as much. \nDefining features in-game:;;;;;;;;;;;;;x
+americanist;Americanist;;;;;;;;;;;;;x
+americanist_DESC;Americanists worship what must have been the true gods of the old world-- the statues of Father Washington, Lincoln, Jefferson and others clearly indicates who the ancient Americans worshiped. Those Americans built a great empire, so why not follow their beliefs and restore America to its former glory, gods and all? \nDefining features in-game:\n§Y*§! Are led by the President, who may be elected from any of their faith above the age of 35. \n§Y*§! May undertake pilgrimages to their holy sites.;;;;;;;;;;;;;x 
+hamiltonian;Hamiltonian;;;;;;;;;;;;;x
+hamiltonian_DESC;Hamiltonians differ from mainstream Americanism in that they take their faith in the gods of the Old World to a higher level. Legends outline the gods' abilities and deeds, but Hamiltonians believe the gods had more powers beyond those explicitly stated. They hold, furthermore, that it is within the capabilities of all believers to attain these 'implied powers' for themselves. \nDefining features in-game:;;;;;;;;;;;;;x
+jeffersonian;Jeffersonian;;;;;;;;;;;;;x
+jeffersonian_DESC;The old legends speak not of just Washington, Jefferson and Lincoln, but also of the farmers, the soldiers, and all the common men of the Old World. As widespread as the statues of the Founders are, are there not statues of the common infantryman in many old towns? What of the farmers and the grand grange halls they established? Jeffersonians hold that the Americanist gods of the old world were just a few of many, and that the entire nation of ancient America was home to gods. All the land was blessed by the gods, therefore, and thus all the land must be reclaimed by the true faith! \nDefining features in-game:;;;;;;;;;;;;;x
+libertarian;Libertarian;;;;;;;;;;;;;x
+libertarian_DESC;The devoted of Lady Liberty, the Mother of Old America and the Goddess of Freedom, the Libertarians were once a matriarchal Patriotic order of the Americanists dedicated to the defense and restoration of the Statues of Liberty who broke from Washington in protest against the 'overemphasis' of the Founders over Lady Liberty. In the centuries since the continued revelation and dedicated study of the First Lady and her Justices have lead the libertarians and the Americanists to opposite positions on a vast number of theological points, from the approved methods of establishing proof of presidential deification after death all the way to structure of the old world pantheon. \nDefining features in-game:\n§Y*§! There is always a First Lady in Nashville, even if the city falls\n§Y*§! Ability to enact Enatic Succession Laws\n§Y*§! Strict limitations on Consanguinity\n§Y*§! Libertarians follow a principle of non-aggression, so they cannot use the Holy War CB.;;;;;;;;;;;;;x
+rust_cultist;Rust Cultist;;;;;;;;;;;;;x
+rust_cultist_DESC;When the first of the Rust Cult stumbled upon an abandoned factory of the old world, what he saw seemed to be the handiwork of the gods. The cult quickly spread through the former Rust Belt, worshiping these houses of the divine and the technological marvels wrought within, which they are willing to defend with their lives. Rust Cultists dedicate much of their time to recovering and revering any old world technology they can find. Due to their age however, opportunities to find operational relics are few and far between. \nDefining features in-game:\n§Y*§! May undertake journeys to seek & salvage old world technology\n§Y*§! Must use Gavelkind succession;;;;;;;;;;;;;x
+rust_cultist_reformed;Rust Cultist;;;;;;;;;;;;;x
+rust_cultist_reformed_DESC; When the first of the Rust Cult stumbled upon an abandoned factory of the old world, what he saw seemed to be the handiwork of the gods. The cult quickly spread through the former Rust Belt, worshiping these houses of the divine and the technological marvels wrought within, which they are willing to defend with their lives. Rust Cultists dedicate much of their time to recovering and revering any old world technology they can find. Due to their age however, opportunities to find operational relics are few and far between. They have now structured their faith, allowing them full access to mainstream succession laws, as well as the option to wage grand holy wars. \nDefining features in-game:\n§Y*§! May undertake journeys to seek & salvage old world technology;;;;;;;;;;;;;x
+norse_pagan;Norse;;;;;;;;;;;;;x
+norse_pagan_DESC;The Norse believe the Christian God failed his followers when America was torn down, and in their anger have turned back to the Gods of their ancestors. If only the old Gods had the strength of their faith, they surely would have protected America. They also believe the American people became soft and complacent, which contributed to their destruction, and so have vowed to never allow themselves to become weaklings again. \nDefining features in-game:\n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli \n§Y*§! Must use Gavelkind succession;;;;;;;;;;;;;x
+norse_pagan_reformed;Norse;;;;;;;;;;;;;x
+norse_pagan_reformed_DESC;The Norse believe the Christian God failed his followers when America was torn down, and in their anger have turned back to the Gods of their ancestors. If only the old Gods had the strength of their faith, they surely would have protected America. They also believe the American people became soft and complacent, which contributed to their destruction, and so have vowed to never allow themselves to become weaklings again. They have now structured their faith, allowing them full access to mainstream succession laws, as well as the option to wage grand holy wars. \nDefining features in-game: \n§Y*§! Have access to the conquest Casus belli \n§Y*§! Have access to the subjugation Casus belli;;;;;;;;;;;;;x
+rastafarian;Rastafarian;;;;;;;;;;;;;x
+rastafarian_DESC;The Rastafari are a religious group originating in Jamaica, inspired by the teachings of Marcus Garvey. They believe in the divinity of Emperor Haile Selassie I of Ethiopia, known before his coronation as Ras Tafari. Although the Rastafarian faith promoted patriarchal gender roles prior to the Event, the stress of post-apocalyptic life has caused this doctrine to be abandoned in favor of a more egalitarian position. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs.;;;;;;;;;;;;;x
+voodoo;Voodoo;;;;;;;;;;;;;x
+voodoo_DESC;Descended from West African Vodun, Voodoo originated in 18th century Haiti, spreading later to Louisiana. Vodouists worship the creator god Bondye, but as he is unreachable by men, they pray to his servants, the Loa, who act as intermediaries in exchange for service. Each Loa is responsible for a different aspect of life, and vodouists develop a personal relationship with them through elaborate ceremonies that can include ritual offerings, song, dance, and allowing themselves to be possessed by the spirits so that Loa and vodouist may communicate. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs.\n§Y*§! May crush the mind of a prisoner with poison, turning them into a zombi.\n§Y*§! Possession by the Loa may grant various advantages and disadvantages.;;;;;;;;;;;;;x
+african_group;African;;;;;;;;;;;;;x
+afro_syncretic;Afro-Syncretic;;;;;;;;;;;;;x
+catholic_DESC;Catholicism is one of the oldest branches of Christianity, and survived the cataclysmic events of centuries past by the skin of its teeth. The Papacy is now located in old St. Louis, as contact with Rome was lost. The formal head of the religion is the Bishop of New Rome - the Pope. \nDefining features in-game:;;;;;;;;;;;;;x
+santeria;Santería;;;;;;;;;;;;;x
+santeria_DESC;Santería, translating roughly to "devotion to the saints", is an Afro-Cuban religion that can be traced back to the Yoruba people of West Africa. Believers worship three aspects of one god: Olodumaré the Creator, Olorun, who manifests as the Sun, and Olofi, who directly communicates with the Orichás - or "Saints" - and grants them spiritual energy to act as intermediaries between man and God, as well as to help mankind live moral, harmonious lives. \nDefining features in game:\n§Y*§! May go on vision quests with the aid of sacramental herbs. Defining features in-game:;;;;;;;;;;;;;x
+nick_the_prophet;the Prophet;;;;;;;;;;;;;x
+nick_the_kingmaker;the Kingmaker;;;;;;;;;;;;;x
+nick_the_bat;the Bat;;;;;;;;;;;;;x
+nick_the_speedy;the Speedy;;;;;;;;;;;;;x
+nick_the_peacemaker;the Peacemaker;;;;;;;;;;;;;x
+consumerist;Consumerist;;;;;;;;;;;;;x
+consumerist_DESC;Consumerists believe that the Almighty Dollar struck down Old America because they did not honor it enough. They seek to forestall a second apocalypse by spending as much as possible. \nDefining features in-game:;;;;;;;;;;;;;x
+revelationist;Revelationist;;;;;;;;;;;;;x
+revelationist_DESC;A syncretic belief system, Revelationism's origins are Christian in nature. The trauma of the apocalypse and centuries of isolation and turmoil have lead to great distortions in the faith, emphasizing the supernatural and miraculous while often forgetting the Holy Trinity altogether. \nDefining features in-game:;;;;;;;;;;;;;x
+revelationist_reformed;Revelationist;;;;;;;;;;;;;x
+revelationist_reformed_DESC;A syncretic belief system, Revelationism's origins are Christian in nature. The trauma of the apocalypse and centuries of isolation and turmoil have lead to great distortions in the faith, emphasizing the supernatural and miraculous while often forgetting the Holy Trinity altogether. They have now (re)structured their faith, allowing them full access to mainstream succession laws, as well as the option to wage grand holy wars. \nDefining features in-game:;;;;;;;;;;;;;x
+cult_of_saints;Cult of Saints;;;;;;;;;;;;;x
+sacred_heart;Sagrado Corazón;;;;;;;;;;;;;x
+sacred_heart_DESC;The followers of Sagrado Corazón- the Sacred Heart- follow a pantheon of quasi-deities derived from some Catholic traditions. Although the faith has Catholic origins, it has deviated far from the old theology, and the Catholic Church north of the border officially regards Sagrado Corazón as heretical. \nDefining features in-game:\n§Y*§! Adherents can become followers of one of three specific saint-patrons.\n§Y*§! May experience visions of the Blessed Virgin called Marian Apparitions.\n§Y*§! Followers of Our Lady of Guadalupe are more likely to experience Marian Apparitions.\n§Y*§! Followers of El Santo engage in masked, ritualized combat.\n§Y*§! Followers of Santa Muerte perform funeral rites and exact revenge.;;;;;;;;;;;;;x
+mesoamerican_gods;Mesoamerican;;;;;;;;;;;;;x
+mictlantec;Mictlantec;;;;;;;;;;;;;x
+mictlantec_DESC;Mictlantec is a revival of old Aztec traditions for the new Age of the Dead Sun. The previous cycle ended in apocalypse with the near destruction of the sun god Huitzilopochtli in his struggle against the darkness. Death god Mictlantecuhtli was largely responsible for saving humanity, and is now considered the sun god. \nDefining features in game:\n§Y*§! Sacrifice prisoners to their gods, either individually or in a major ceremony. \n§Y*§! Kings and emperors are expected to declare themselves Incarnates (living gods).\n§Y*§! May go on vision quests after a ceremony of human sacrifice.;;;;;;;;;;;;;x
+sol_invicta;Sol Invicta;;;;;;;;;;;;;x
+sol_invicta_DESC;Sol Invicta is a syncretic religion that emerged after the Event, blending both Catholic and Aztec influences. Like the Miclantecs, Sol Invictists believe that light and darkness are locked in perpetual conflict. However, unlike the Mictlantec faith, Sol Invicta is a monotheistic religion. Their supreme deity is the sun goddess known as Sol Invicta, the Unconquered Sun. Adherents believe that Sol Invicta is locked in an eternal war with the evil Dark Father, and that the Event was the result of a particularly destructive battle between the two deities. \nDefining features in-game:;;;;;;;;;;;;;x
+neomayan;Neomayan;;;;;;;;;;;;;x
+neomayan_DESC;Neomayanism originated shortly after the end times as a result of the blending of both Mayan traditions and New Age beliefs. The chief deity of Neomayanism is Hunab Ku, who represents the Christian God. However, the old Mayan gods have been reintroduced to form a polytheistic pantheon. There are three levels of the universe according to Neomayan belief: Space, which contains aliens, gods, and 'light demons', Earth, which is divided into both the natural (humans and animals) and unnatural (chupacabra and ghosts), and Xibalba, a realm below Earth that contains demons and lesser gods. It is believed that worshippers can reach Space through diligent worship or even become gods by performing various spirit rituals. \nDefining features in-game:;;;;;;;;;;;;;x
+uahomche;Uahomche;;;;;;;;;;;;;x
+uahomche_DESC;Uahomche blends aspects of both Christianity and the traditional Mayan faith. Uahomche gods are referred to as ‘angels’, however the pantheon is largely unchanged from what it was before Spanish colonization. Uahomches practice animal sacrifice and believe that the Event was the end of the 5th world cycle. \nDefining features in-game:;;;;;;;;;;;;;x
+celticist;Celticist;;;;;;;;;;;;;x
+thelemic_reformed;Thelema;;;;;;;;;;;;;x
+thelemic_reformed_DESC;Thelema is a British mystic religion/"spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." Thelema is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt. However, their highest deity is someone - or something - known only as "The Queen". Thelemites in the United States have rediscovered the writings of Aleister Crowley in the Crimson Library, and have used these works to codify their beliefs. \nDefining features in-game:;;;;;;;;;;;;;x
+gracia_divina;Gracia Divina;;;;;;;;;;;;;x
+gracia_divina_DESC;The adherents of Gracia Divina hold belief in the karma like system of 'divine grace'. They believe that the greater piety and devoutness shown in life, the more fortunate their lives will become, that they literally become graced by the divine. They believe especially that devotion to specific saints/deities (the terms have been interchangeable in Gracia Divina) will lead to that Saint becoming their patron, and directly influence their lives. This can lead to very zealous devotion as the worshipper takes on an extremely personal and intimate connection with their patron. \nDefining features in-game:;;;;;;;;;;;;;x
+espiritista;Espiritista;;;;;;;;;;;;;x
+espiritista_DESC;The Espiritista faithful believe that good and evil spirits inhabit our world, with the powers to affect health, luck, and other aspects of human life. These spirits can be contacted by trained mediums. There is a Supreme God, but under him are 'the three powers': mortals who have ascended to the level of deities: María Lionza, Negro Felipe, and Guaicaipuro. Beneath the three powers are the spirits: numerous powerful mortals who continue to influence the world after their deaths. These spirits are organized into roughly 21 courts, which believers can petition for aid through prayer. \nDefining features in-game:;;;;;;;;;;;;;x
+espiritista_reformed;Espiritista;;;;;;;;;;;;;x
+espiritista_reformed_DESC;The Espiritista faithful believe that good and evil spirits inhabit our world, with the powers to affect health, luck, and other aspects of human life. These spirits can be contacted by trained mediums. There is a Supreme God, but under him are 'the three powers': mortals who have ascended to the level of deities: María Lionza, Negro Felipe, and Guaicaipuro. Beneath the three powers are the spirits: numerous powerful mortals who continue to influence the world after their deaths. These spirits are organized into roughly 21 courts, which believers can petition for aid through prayer. \nDefining features in-game:;;;;;;;;;;;;;x
+falling_star;Falling Star;;;;;;;;;;;;;x
+falling_star_DESC;Sometime either during or just after the Apocalypse, the faith of the Falling Star believe a star fell from the heavens and onto Earth. This star was a fallen Angel, who had sacrificed themselves to save mankind from God's wrath, explaining humanity's survival. Practitioners of the Falling Star faith are generally viewed with suspicion by those with more traditional Christian beliefs, as the concept of Fallen Angels are generally thought of as evil, and associated with Satan. However, the Falling Star faith insist their angel has little in common with the fallen Angel Lucifer, and that their angel's compassion reawakened God's mercy in a moment of anger. Thus, members of the Fallen Star still fall under the Christian banner, albeit with a theology that features great devotion to their fallen 'star'. \nDefining features in-game:;;;;;;;;;;;;;x
+american_native;American Native;;;;;;;;;;;;;x
+ghost_dance;Nanissáanah;;;;;;;;;;;;;x
+ghost_dance_DESC;Nanissáanah, known as the 'Ghost Dance', is a syncretic, reformed form of more traditional Plains Indian beliefs. Although based upon the conventional circle dance, the Ghost Dance emphasizes the role of prophets in direct communication with God, the revelation of new dances and songs to these prophets, and a strict moral code derived from these new practices. \nDefining features in-game:;;;;;;;;;;;;;x
+raven_tales;Xhúuyee K'iigaang;;;;;;;;;;;;;x
+raven_tales_DESC;Followers of Xhúuyee K'iigaang revere supernatural beings described in the sacred tales, Raven (Xhúuyee) foremost among them. In some tales Raven is playful and benevolent, while others depict him as greedy, treacherous, and wanton. He is sometimes loved and sometimes feared. Raven indirectly made the world by stealing and transforming that which came before, and preserved the Haida though the Dark Times with cleverness and trickery. Other Xhúuyee K'iigaang gods include Ta'xet and Tia, who rule respectively over violent and peaceful death. \nDefining features in-game:;;;;;;;;;;;;;x
+latter_day_saints;Latter-Day Saints;;;;;;;;;;;;;x
+mormon;Mormon;;;;;;;;;;;;;x
+mormon_DESC;With roots in Ancient America's frontier, Mormonism has a solid hold on many parts of the Old West. Although based in Christian foundations, the Church of Latter-Day Saints has many additional books, customs and traditions which have caused it to be treated differently from some elements of mainstream Christianity. With the chaos of the apocalypse, these attitudes were exacerbated, and Mormonism is widely treated as a wholly distinct realm from the Christian world of New Rome and the Protestantism of the East. \nDefining features in-game:;;;;;;;;;;;;;x
+bickertonite;Bickertonite;;;;;;;;;;;;;x
+bickertonite_DESC;The Bickertonite faithful consider themselves the true continuation of the Mormon faith, following the events of the calamity. The Bickertonites believe that they have a sacred duty to share the gift of salvation with people of every race, and refuse to engage in plural marriage as practiced by other LDS sects. \nDefining features in-game:;;;;;;;;;;;;;x
+godbeite;Godbeite;;;;;;;;;;;;;x
+godbeite_DESC;The Godbeites have diverse mystical beliefs and practices considered heretical by the Mormon church. Though few Godbeite believers have existed since the calamity, from time to time their surviving writings in favor of reform and against plural marriage are discovered and spur a revival of the sect. \nDefining features in-game:;;;;;;;;;;;;;x
+strangite;Strangite;;;;;;;;;;;;;x
+strangite_DESC;The Strangites believe James Strang to be the lawful successor of Joseph Smith, and consider the historical leaders of the Mormon church to be heretics. Strangites allow the ordination of women into the priesthood and reject the notion of the trinity (believing that there is only one God, and that Jesus was born an ordinary mortal). Animal sacrifice is common, and devout farmers make an offering of the "Firstfruit" of the harvest. \nDefining features in-game:;;;;;;;;;;;;;x
+brethren;Brethren;;;;;;;;;;;;;x
+brethren_DESC;With a strong tradition of seafaring and a reputation for robbery and murder, most call the Brethren pirates. This assessment is not far from the truth. Though the Brethren follow a Code of the Sea, they are loosely organized and live mostly to plunder riches from the weak. All of their gods have some link to the ocean, which they consider the source of all life and all wealth. \nDefining features in-game:;;;;;;;;;;;;;x
+gaian;Gaian;;;;;;;;;;;;;x
+gaian_reformed;Gaian;;;;;;;;;;;;;x
+gaian_DESC;Gaians worship numerous spirits of nature, Gaia foremost among them. Also known as Earth Mother, the Goddess, or Primordia, the faithful believe Gaia is a divine spirit interconnected with all living things... the ancient soul of the Earth itself. Gaian theology encourages a society ruled by women rather than men, teaching that man neglected the world and that it was his disregard for the natural balance that led the Earth to ruin. \nDefining features in-game:;;;;;;;;;;;;;x
+pacific;Pacific;;;;;;;;;;;;;x
+cetic;Cetic;;;;;;;;;;;;;x
+cetic_DESC;The Cetic faith involves the study of philosophical writings by a number of Great Teachers (Gurus), including the Emperor, Buddha, Christ, and Hubbard. Adherents seek enlightenment through meditation and discussion of the writings. The first Emperor of California formally organized the faith with secular and religious power deeply intertwined within the imperial title, and the head of the faith is traditionally chosen from among his descendants. \nDefining features in game:\n§Y*§!Adherents follow one of four specific Ways (schools of Cetic thought).;;;;;;;;;;;;;x
+shinto;Shinto;;;;;;;;;;;;;x
+shinto_DESC;Shinto is an ancient religion that combines cultural rituals, animist spirit worship, and Buddhist traditions. In the centuries after the calamity, veneration of the Emperor grew into a demand for absolute obedience. Today the Divine Emperor is hidden from the people and believed to be in a perfect, eternal state of meditation, while his will is carried out by a sprawling clerical bureaucracy. \nDefining features in-game:;;;;;;;;;;;;;x
+jewish_group;Jewish;;;;;;;;;;;;;x
+jewish;Orthodox;;;;;;;;;;;;;x
+jewish_DESC;Judaism is one of the oldest religions on the planet, and it survived the Event like it did so many other catastrophes. Although Orthodox Judaism itself has changed relatively little over the last few centuries, the Jews of post-Event America now face discrimination and persecution on a scale unheard of since the Middle Ages of old. Despite this, or perhaps because of it, Orthodox Jews still patiently await the arrival of the Moshiach, who will, in due time, gather the Jews living in exile and return them to the land promised to their forefathers. \nDefining features in-game:;;;;;;;;;;;;;x
+reform;Reform;;;;;;;;;;;;;x
+reform_DESC;Reform Judaism first split from Orthodox Judaism in the 19th century, under the belief that in order for Judaism to survive in the modern age, it should reform to be more compatible with a modern, secular lifestyle. Reform Judaism regards Halacha (Jewish religious law) as non-binding, permits women to be ordained as rabbis, and is overall more open to external influences than Orthodox Judaism. Reform Jews actually outnumbered Orthodox Jews prior to the Event, but by 2666, Reform Judaism is the majority religion in only a single county - Palm Beach. \nDefining features in-game: \n§Y*§! Absolute Cognatic succession is allowed for all Reform rulers.;;;;;;;;;;;;;x
+anglo_papalist;Anglo-Catholics;;;;;;;;;;;;x
+anglo_papalist_DESC;As the Anglican Church was defined by its "Middle Path," many fringe groups existed within the Communion that were of varying degrees more Protestant or Catholic. One such trend is that of Anglo-Catholicism, which as the name implies is a strand of Anglicanism that is closer in practice to Rome without being in communion with the Holy See. Some use the Book of Common Prayer all other Anglicans use, some use the Catholic Mass, and some even use the Latin or medieval English mass. In the 27th century, such groups are persecuted as the Anglicans are surrounded on all sides by heathens and heretics, and the Anglo-Catholics are seeen as possible enemies from within. \nDefining features in-game:;;;;;;;;;;;;;x
+
+STAT_PIETY_PATRIOTISM;Patriotism;;;;;;;;;;;;;x
+STAT_PIETY_MENU_PATRIOTISM;Patriotism;;;;;;;;;;;;;x
+
+PREFERATI_URSULINE;Preferata;;;;;;;;;;;;;x
+PREFERATI_URSULINE_TOOLTIP;The Preferata is the next in line to become the Abbess-General.;;;;;;;;;;;;;x
+PREFERATI_MORMON;Quorum President;;;;;;;;;;;;;x
+PREFERATI_MORMON_TOOLTIP;The President of the Quorum of the Twelve Apostles is the apostle next in line to become President of the Church;;;;;;;;;;;;;x
+COLLEGE_OF_CARDINALS_MORMON;Quorum of the Twelve Apostles;;;;;;;;;;;;;x
+MONTHLY_PIETY_PATRIOTISM;Monthly Patriotism Increase;;;;;;;;;;;;;x
+STAT_PIETY_DESC_PATRIOTISM;Patriotism is respected by the clergy and especially the head of your Religion. It can be spent to petition the head of your Religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
+REL_PENTARCHS;Ecumenical Council Seats;;;;;;;;;;;;;x
+REL_PENTARCHS_DESC;'Evangelical' is a very broad term, and the faith is generally supported by a national council of bishops representing various doctrines. Five seats are traditionally reserved for specific bishops with a longstanding tradition of evangelism, but in these dark times not all seats are claimed at any certain time.;;;;;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX_DESC;The Ecumenical Council Seats were for the original five bishops of the Evangelical Convention. Their authority as Presiding Bishops over their respective ancient sees is still recognized within the $RELIGION$ church.;Les Pentarques étaient à l'origine les cinq Patriarches de l'Eglise Chrétienne. Leur autorité en tant que Patriarches Autocéphales sur leurs églises respectives est toujours reconnue par l'église $RELIGION$ church.;Die Pentarchie waren die fünf Patriarchate der frühchristlichen Kirche. Ihre Authorität innerhalb ihrer Stammsitze ist innerhalb der $RELIGION$en Kirche noch immer anerkannt.;;Los Pentarcas fueron los cinco Patriarcas originales del Cristianismo. Su autoridad como Patriarcas autocéfalos sobre sus antiguas sedes es todavía reconocida por la religión $RELIGION$.;;;;;;;;;x
+PENTARCH_DESC;There is currently no $RELIGION$ Bishop of §Y$TITLE$§!;Il n'y a pour l'instant aucun évêque $RELIGION$ de §Y$TITLE$§!;Derzeit gibt es keinen $RELIGION$en Bischof von §Y$TITLE$§!;;Actualmente no hay un obispo $RELIGION$ en §Y$TITLE$§!;;;;;;;;;x
+HEAD_NOT_PENTARCH_DESC;$REL_HEAD$ does not currently hold §Y$TITLE$§!;$REL_HEAD$ ne détient par pour l'instant §Y$TITLE$§!;$REL_HEAD$ regiert derzeit nicht §Y$TITLE$§!;;$REL_HEAD$ no posee actualmente §Y$TITLE$§!;;;;;;;;;x
+PATRIARCHATE_TITLE;Convention of $TITLE$;;;;;;;;;;;;;x
+AUTOCEPHALY_DRO;Apart from the original five members of the evangelical convention - the reserved seats of the Ecumenical Council - all other $RELIGION$ kingdoms or empires also have their own Presiding Bishops. The Court Chaplain of such a kingdom or empire is also considered the Presiding Bishop of that realm. He will always do what his liege asks of him, but only the $REL_HEAD_TITLE$ can grant the Invasion Casus Belli. Each autocephalous bishop controls Excommunication within their respective realm.;;;;;;;;;;;;;x
+AUTOCEPHALOUS_PATRIARCHS;Autocephalous Bishops;;;;;;;;;;;;;x
+AUTOCEPHALOUS_REL_HEAD_TITLE;Presiding Bishop;;Präsidierende Bischofschaft;;;;;;;;;;;x;;
+COUNCIL_PRESIDENT;Council President;;;;;;;;;;;;;x
+RETTYPE_GUNPOWDER;Blackpowder;;;;;;;;;;;;;x
+RETTYPE_CUL_LOUISIANA;Wildmen;;;;;;;;;;;;;x
+gunpowder;Gunpowder Infantry;;;;;;;;;;;;;x
+emperor_deitsch;Kaiser;;;;;;;;;;;;;x
+emperor_female_deitsch;Kaiserin;;;;;;;;;;;;;x
+king_deitsch;Keenich;;;;;;;;;;;;;x
+king_female_deitsch;Keenichn;;;;;;;;;;;;;x
+emperor_yiddish;Keyser;;;;;;;;;;;;;x
+emperor_female_yiddish;Keyserin;;;;;;;;;;;;;x
+king_yiddish;Melech;;;;;;;;;;;;;x
+king_female_yiddish;Malcah;;;;;;;;;;;;;x
+legendary;Legendary;;;;;;;;;;;;;x
+legendary_desc;This figure is only known through oral tradition, fragmentary Old World documentation or is simply surrounded by so much myth that no one can separate fact from fiction anymore.;;;;;;;;;;;;;x
+marian_el_santo;El Santo;;;;;;;;;;;;;x
+marian_el_santo_desc;This Sagrado Corazón adherent is a member of the cult of El Santo, a mystical figure from the late days of the antediluvian world. Although details are not known, legends speak of his great martial prowess.;;;;;;;;;;;;;x
+marian_santa_muerte;Santa Muerte;;;;;;;;;;;;;x
+marian_santa_muerte_desc;Followers of Santa Muerte are generally members of the Cult of Death, commonly known as 'Muertenos'.;;;;;;;;;;;;;x
+marian_guadalupe;Our Lady of Guadalupe;;;;Nuestra Señora de Guadalupe;;;;;;;;;x
+marian_guadalupe_desc;The Patroness of Lords and Protectress of the Pious, Our Lady of Guadelupe has been the most popular figure in the pantheon of el Sagrado Corazón since time immemorial.;;;;;;;;;;;;;x
+
+MAPMODE_DUCHIES_DESC;This map mode shows all the geographical and traditional ('de jure') duchies of the Americas.;Ce mode de carte affiche tous les duchés géographiques et traditionnels (de Jure) les Amériques.;Dieser Kartenmodus zeigt alle geografischen und traditionellen (rechtmäßigen) Herzogtümer Amerika.;;Este modo de mapa muestra todos los ducados geográficos y tradicionales (de iure) de las Américas.;;;;;;;;;x
+MAPMODE_KINGDOMS_DESC;This map mode shows all the geographical and traditional ('de jure') kingdoms of the Americas.;Ce mode de carte affiche tous les royaumes géographiques et traditionnels (de Jure) les Amériques.;Dieser Kartenmodus zeigt alle geografischen und traditionellen (rechtmäßigen) Königreiche Amerika.;;Este modo de mapa muestra todos los reinos geográficos y tradicionales (de iure) de las Américas.;;;;;;;;;x
+ARRANGE_MARRIAGE;Arrange Marriage;Arranger un mariage;Heirat arrangieren;;Concertar matrimonio;;;;;;;;;x
+ARRANGE_MARRIAGE_DESC;Arrange a marriage with one of the most eligible potential spouses in America.;Arrangez un mariage avec une des personnes les plus en vue d’Etats-unis.;Arrangiert eine Heirat mit einer der meistumworbenen unverheirateten Personen Vereinigte Staaten.;;Concierta un matrimonio con uno de los cónyuges más aptos de Estados Unidos.;;;;;;;;;x
+ARRANGE_BETROTHAL;Arrange Betrothal;Arranger des fiançailles;Verlöbnis arrangieren;;Concertar esponsales;;;;;;;;;x
+ARRANGE_BETROTHAL_DESC;Arrange a betrothal with one of the most eligible potential spouses in America.;Arrangez des fiançailles avec une des personnes les plus en vue d’Etats-unis.;Arrangiert ein Verlöbnis mit einer der meistumworbenen unverheirateten Personen Vereinigte Staaten.;;Concierta esponsales con uno de los cónyuges más aptos de Estados Unidos.;;;;;;;;;x
+scholar;Scholar;Érudit;Gelehrter;;Erudito;;;;;;;;;x
+scholar_desc;This character leads the life of a scholar, poring over books and corresponding with the finest minds of the Americas.;Ce personnage, passionné par l'Érudition, passe son temps à lire et à correspondre avec les plus grands esprits les Amériques.;Dieser Charakter lebt das Leben eines Gelehrten. Er grübelt über Büchern und korrespondiert mit den klügsten Köpfen Amerika.;;Este personaje lleva la vida de un erudito, estudiando libros y carteándose con las mejores mentes de las Américas.;;;;;;;;;x
+CAMPAIGN_FUND_MORMON;Tithing Donation;;;;;;;;;;;;;x
+CAMPAIGN_FUND_CARDINALS_DESC;Money given as a tithing donation will increase your influence with the church and make your candidate more likely to called as the next $RULER_TITLE$. You can freely adjust the amount until the next $RULER_TITLE$ is called, when the donation will be used.;;;;;;;;;;;;;x
+
+###########Traits###########
+
+sympathy_afro_syncretic;Sympathy for Afro-Syncretic;;;;;;;;;;;;;x
+sympathy_afro_syncretic_desc;This character, though not a follower of any of the Afro-Syncretic faiths, has a special sympathy and understanding for those faiths and their practitioners.;;;;;;;;;;;;;x
+sympathy_american_native;Sympathy for Native Religions;;;;;;;;;;;;;x
+sympathy_american_native_desc;This character, though not a follower of any of the Native American faiths, has a special sympathy and understanding for those faiths and their practitioners.;;;;;;;;;;;;;x
+sympathy_cult_of_saints;Sympathy for Sagrado Corazón;;;;;;;;;;;;;x
+sympathy_cult_of_saints_desc;This character, though not a follower of Sagrado Corazón, has a special sympathy and understanding for the Sagrado Corazón faith and its practitioners.;;;;;;;;;;;;;x
+sympathy_pacific;Sympathy for Pacific Religions;;;;;;;;;;;;;x
+sympathy_pacific_desc;This character, though not a follower of any of the Pacific faiths, has a special sympathy and understanding for those faiths and their practitioners.;;;;;;;;;;;;;x
+sympathy_latter_day_saints;Sympathy for Mormons;;;;;;;;;;;;;x
+sympathy_latter_day_saints_desc;This character, though not a Mormon, has a special sympathy and understanding for the Mormon faith and its practitioners.;;;;;;;;;;;;;x
+sympathy_mesoamerican_gods;Sympathy for Mesoamericans;;;;;;;;;;;;;x
+sympathy_mesoamerican_gods_desc;This character, though not a follower of any of the Mesoamerican faiths, has a special sympathy and understanding for those faiths and their practitioners.;;;;;;;;;;;;;x
+sympathy_oldworld;Sympathy for Old World;;;;;;;;;;;;;x
+sympathy_oldworld_desc;This character, though not a worshipper of the Old World, has a special sympathy and understanding for its worshippers.;;;;;;;;;;;;;x
+sympathy_pirate;Sympathy for Pirates;;;;;;;;;;;;;x
+sympathy_pirate_desc;This character, though not a pirate, has a special sympathy and understanding for the Brethren of the Coast.;;;;;;;;;;;;;x
+lore_old_ones;Lore of the Old Ones;;;;;;;;;;;;;x
+lore_old_ones_desc;This character is intrigued by the legends and myths surrounding the mysterious Old Ones. They must take care not to delve too deeply, as cautionary tales involving overconfident investigators make up the bulk of the mythos!;;;;;;;;;;;;;x
+lore_masons;Lore of the Masons;;;;;;;;;;;;;x
+lore_masons_desc;This character follows the obscured legacy of the ancient Masons. Words and symbols of power were used to rule the world of old, and perhaps they can again.;;;;;;;;;;;;;x
+lore_pact;Lore of the Pact;;;;;;;;;;;;;x
+lore_pact_desc;This character is a student of the Diabolic Pact. This ancient covenant is how humanity survived the cataclysmic destruction of the world.;;;;;;;;;;;;;x
+lore_old_ones_ref;Lore of the Old Ones;;;;;;;;;;;;;x
+lore_old_ones_ref_desc;This character is intrigued by the legends and myths surrounding the mysterious Old Ones. They must take care not to delve too deeply, as cautionary tales involving overconfident investigators make up the bulk of the mythos!;;;;;;;;;;;;;x
+lore_masons_ref;Lore of the Masons;;;;;;;;;;;;;x
+lore_masons_ref_desc;This character follows the obscured legacy of the ancient Masons. Words and symbols of power were used to rule the world of old, and perhaps they can again.;;;;;;;;;;;;;x
+lore_pact_ref;Lore of the Pact;;;;;;;;;;;;;x
+lore_pact_ref_desc;This character is a student of the Diabolic Pact. This ancient covenant is how humanity survived the cataclysmic destruction of the world.;;;;;;;;;;;;;x
+gracia_libertador;El Libertador;;;;;;;;;;;;;x
+gracia_libertador_desc;This character is a member of the cult of El Libertador, patron saint of battle and righteous conflict. His militant followers use their devotion to liberate their minds from fear.;;;;;;;;;;;;;x
+gracia_inmaculado;Inmaculado Corazón;;;;;;;;;;;;;x
+gracia_inmaculado_desc;The Immaculate Saints embody overwhelming love, divine grace, devotion, unity, and personal sacrifice.;;;;;;;;;;;;;x
+gracia_dorado;El Dorado;;;;;;;;;;;;;x
+gracia_dorado_desc;Adherents of the mystical cult of El Dorado associate gold with the creative power of the divine. Their rituals revolve around a figure referred to as 'the Golden King.';;;;;;;;;;;;;x
+
+###########Regions###########
+
+world_eastern_canada;Eastern Canada;;;;;;;;;;;;;x
+world_central_canada;Central Canada;;;;;;;;;;;;;x
+world_western_canada;Western Canada;;;;;;;;;;;;;x
+world_south_america;South America;;;;;;;;;;;;;x
+world_rustlands;The Rustlands;;;;;;;;;;;;;x
+world_norselands;The Norselands;;;;;;;;;;;;;x
+world_great_plains;Great Plains;;;;;;;;;;;;;x
+world_northeast;The Northeast;;;;;;;;;;;;;x
+world_southeast;The Southeast;;;;;;;;;;;;;x
+world_appalachia;Appalachia;;;;;;;;;;;;;x
+world_gulf_coast;The Gulf Coast;;;;;;;;;;;;;x
+world_caribbean;The Caribbean;;;;;;;;;;;;;x
+world_southwest;The Southwest;;;;;;;;;;;;;x
+world_eastern_mexico;Eastern Mexico;;;;;;;;;;;;;x
+world_western_mexico;Western Mexico;;;;;;;;;;;;;x
+world_california;California;;;;;;;;;;;;;x
+world_west_coast;The West Coast;;;;;;;;;;;;;x
+world_central_america_caribbean;Caribbean Central America;;;;;;;;;;;;;x
+world_central_america_pacific;Pacific Central America;;;;;;;;;;;;;x
+world_south_america_caribbean;Caribbean South America;;;;;;;;;;;;;x
+world_south_america_pacific;Pacific South America;;;;;;;;;;;;;x
+world_northern_prairie;The Far North;;;;;;;;;;;;;x
+world_rockies;The Rocky Mountains;;;;;;;;;;;;;x
+world_northwest;The Pacific Northwest;;;;;;;;;;;;;x
+custom_usa;The United States;;;;;;;;;;;;;x
+custom_atlantic;Atlantic Coast;;;;;;;;;;;;;x
+custom_pacific;Pacific Coast;;;;;;;;;;;;;x
+custom_great_lakes;Great Lakes;;;;;;;;;;;;;x
+custom_greater_southeast_usa;Greater Southeast;;;;;;;;;;;;;x
+custom_mountain_zone;Mountain Zone;;;;;;;;;;;;;x
+custom_central_america;Central America;;;;;;;;;;;;;x
+custom_neoladino;Neoladino Cultural Area;;;;;;;;;;;;;x
+
+
+###########Other###########
+
+atom_bless_death;of a wasting illness;;;;;;;;;;;;;x
+atom_curse_death;of cancerous tumors;;;;;;;;;;;;;x
+zombi_death;of brain rot;;;;;;;;;;;;;x
+ABBESS_GENERAL;Abbess-General;;;;;;;;;;;;;x
+ABBEY_OF;Abbey of;;;;;;;;;;;;;x
+ABBOT_GENERAL;Abbot-General;;;;;;;;;;;;;x
+AGENDA_TWENTYONE;Agenda 21;;;;;;;;;;;;;x
+AKADEMIK;Akademik;;;;;;;;;;;;;x
+AKADEMIK_FOA;Akademik;;;;;;;;;;;;;x
+ARCHBISHOP_OF_CANTERBURY;Archbishop of Canterbury;;;;;;;;;;;;;x
+ARCHBISHOP;Archbishop;;;;;;;;;;;;;x
+ARCHBISHOPRIC_OF;Archbishopric of;;;;;;;;;;;;;x
+BABYLON;Babylon;;;;;;;;;;;;;x
+BAG_O_WIRE;Bag o' Wire;;;;;;;;;;;;;x
+BIG_BOSS;Big Boss;;;;;;;;;;;;;x
+BONDYE;Bondye;;;;;;;;;;;;;x
+BOSS;Boss;;;;;;;;;;;;;x
+BOSS_FOA;Boss;;;;;;;;;;;;;x
+CAPITAN_FOA;Capitán;;;;;;;;;;;;;x
+CAPITAN;Capitán;;;;;;;;;;;;;x
+CHARTER_PRESIDENT;Charter-President;;;;;;;;;;;;;x
+CHIEF_FOA;Your Chieftaincy;;;;;;;;;;;;;x
+CHIEF_FOREMAN;Chief Foreman;;;;;;;;;;;;;x
+CHIEF;Chief;;;;;;;;;;;;;x
+COLONEL_FOA;Sir;;;;;;;;;;;;;x
+COLONEL;Colonel;;;;;;;;;;;;;x
+COMMISSIONER;Commissioner;;;;;;;;;;;;;x
+COMMUNISM;Communism;;;;;;;;;;;;;x
+DAVY_JONES;Davy Jones;;;;;;;;;;;;;x
+DEATH_HURRICANE;died in a hurricane;;;;;;;;;;;;;x
+DIRECTOR_FOA;Sir;;;;;;;;;;;;;x
+DIRECTOR;Director;;;;;;;;;;;;;x
+DISTRICT_OF;District of;;;;;;;;;;;;;x
+DON_FOA;Sir;;;;;;;;;;;;;x
+DON;Don;;;;;;;;;;;;;x
+DRUID;Druid;;;;;;;;;;;;;x
+FIRST_GENTLEMAN;First Gentleman;;;;;;;;;;;;;x
+FIRST_KNIGHT;First Knight;;;;;;;;;;;;;x
+FIRST_LADY;First Lady;;;;;;;;;;;;;x
+FLUORIDATION;Fluoridation;;;;;;;;;;;;;x
+FRATER_SUPERIOR_FOA;Frater Superior;;;;;;;;;;;;;x
+FRATER_SUPERIOR;Frater Superior;;;;;;;;;;;;;x
+FYLKIR_FOA;Your Holiness;Sa Sainteté;Eure Heiligkeit;;Su Santidad;;;;;;;;;x
+FYLKIR;Fylkir;Fylkir;Fylkir;;Fylkir;;;;;;;;;x
+FYLKJA;Fylkja;Fylkja;Fylkja;;Fylkja;;;;;;;;;x
+GENERAL;General;;;;;;;;;;;;;x
+GOD_ADAMS;Adams;;;;;;;;;;;;;x
+GOD_AGWE;Agwé;;;;;;;;;;;;;x
+GOD_AMATERASU;Amaterasu;;;;;;;;;;;;;x
+GOD_AQUARIUS;Aquarius;;;;;;;;;;;;;x
+GOD_ARES;Ares;;;;;;;;;;;;;x
+GOD_ATOMOS;Atomos;;;;;;;;;;;;;x
+GOD_BACHUE;Bachué;;;;;;;;;;;;;x
+GOD_BARON_SAMEDI;Baron Samedi;;;;;;;;;;;;;x
+GOD_BLIGHT;Blight;;;;;;;;;;;;;x
+GOD_BOCHICA;Bochica;;;;;;;;;;;;;x
+GOD_BOLIVAR;Bolívar;;;;;;;;;;;;;x
+GOD_BUDDHA;Buddha;;;;;;;;;;;;;x
+GOD_CELESTINE;Celestine;;;;;;;;;;;;;x
+GOD_CHALCHIUHTLICUE;Chalchiuhtlicue;;;;;;;;;;;;;x
+GOD_CHIA;Chía;;;;;;;;;;;;;x
+GOD_CHIBCHACHUM;Chibchachum;;;;;;;;;;;;;x
+GOD_CHIMINIGAGUA;Chiminigagua;;;;;;;;;;;;;x
+GOD_CHRIST;Christ;;;;;;;;;;;;;x
+GOD_CUZA;Cuza;;;;;;;;;;;;;x
+GOD_DANU;Danu;;;;;;;;;;;;;x
+GOD_EARTH_MOTHER;Earth Mother;;;;;;;;;;;;;x
+GOD_ERZULIE_FREDA;Erzulie Freda;;;;;;;;;;;;;x
+GOD_FAT_MAN;Fat Man;;;;;;;;;;;;;x
+GOD_FATHER_BESSEMER;Father Bessemer;;;;;;;;;;;;;x
+GOD_FATHER_FORD;Father Ford;;;;;;;;;;;;;x
+GOD_GAIA;Gaia;;;;;;;;;;;;;x
+GOD_GUAICAIPURO;Guaicaipuro;;;;;;;;;;;;;x
+GOD_GUATAVITA;Guatavita;;;;;;;;;;;;;x
+GOD_HADIT;Hadit;;;;;;;;;;;;;x
+GOD_HAILE_SELASSIE;Haile Selassie;;;;;;;;;;;;;x
+GOD_HAMILTON;Hamilton;;;;;;;;;;;;;x
+GOD_HUANANICOATEZ;Huananicoatez;;;;;;;;;;;;;x
+GOD_HUAZUAZCHIUZ;Huazuazchiuz;;;;;;;;;;;;;x
+GOD_HUBBARD;Hubbard;;;;;;;;;;;;;x
+GOD_HUMHAU;Humhau;;;;;;;;;;;;;x
+GOD_HUNAB_KU;Hunab Ku;;;;;;;;;;;;;x
+GOD_HURACAN;Huracan;;;;;;;;;;;;;x
+GOD_ITZPAPALOTL;Itzpapalotl;;;;;;;;;;;;;x
+GOD_IXCHEL;Ixchel;;;;;;;;;;;;;x
+GOD_JACAWITZ;Jacawitz;;;;;;;;;;;;;x
+GOD_JAH;Jah;;;;;;;;;;;;;x
+GOD_JEFFERSON;Jefferson;;;;;;;;;;;;;x
+GOD_JEHOVAH;Jehovah;;;;;;;;;;;;;x
+GOD_KAMI_SAMA;Kami-sama;;;;;;;;;;;;;x
+GOD_KUKULKAN;Kukulkan;;;;;;;;;;;;;x
+GOD_LADY_LIBERTY;Lady Liberty;;;;;;;;;;;;;x
+GOD_LITTLE_BOY;Little Boy;;;;;;;;;;;;;x
+GOD_MADISON;Madison;;;;;;;;;;;;;x
+GOD_MALINTZIN;Malintzin;;;;;;;;;;;;;x
+GOD_MANANNAN_MAC_LIR;Manannán mac Lir;;;;;;;;;;;;;x
+GOD_MARIA_LIONZA;María Lionza;;;;;;;;;;;;;x
+GOD_MISER;The Miser;;;;;;;;;;;;;x
+GOD_NEGRO_FELIPE;Negro Felipe;;;;;;;;;;;;;x
+GOD_NEM_CATACOA;Nem-catacoa;;;;;;;;;;;;;x
+GOD_NEPTUNE;Neptune;;;;;;;;;;;;;x
+GOD_NUIT;Nuit;;;;;;;;;;;;;x
+GOD_OLODUMARE;Olodumaré;;;;;;;;;;;;;x
+GOD_OLOFI;Olofi;;;;;;;;;;;;;x
+GOD_OLORUN;Olorun;;;;;;;;;;;;;x
+GOD_OMNISSIAH;Omnissiah;;;;;;;;;;;;;x
+GOD_OUR_LADY;Our Lady;;;;;;;;;;;;;x
+GOD_PAPA_LEGBA;Papa Legba;;;;;;;;;;;;;x
+GOD_PAUPER;The Pauper;;;;;;;;;;;;;x
+GOD_PRIMORDIA;Primordia;;;;;;;;;;;;;x
+GOD_RA_HOOR_KHUIT;Ra-Hoor-Khuit;;;;;;;;;;;;;x
+GOD_RASTAFARI;Ras Tafari;;;;;;;;;;;;;x
+GOD_SELASSIE;Haile Selassie I;;;;;;;;;;;;;x
+GOD_SOL_INVICTA;Sol Invicta;;;;;;;;;;;;;x
+GOD_SUA;Sua;;;;;;;;;;;;;x
+GOD_TAXET;Ta'xet;;;;;;;;;;;;;x
+GOD_THE_ANGEL_MORONI;The Angel Moroni;;;;;;;;;;;;;x
+GOD_THE_BURNING_BUSH;The Burning Bush;;;;;;;;;;;;;x
+GOD_THE_DAGDA;The Dagda;;;;;;;;;;;;;x
+GOD_THE_DARK_FATHER;The Dark Father;;;;;;;;;;;;;x
+GOD_THE_DARKNESS;The Darkness;;;;;;;;;;;;;x
+GOD_THE_DECEIVER;The Deceiver;;;;;;;;;;;;;x
+GOD_THE_DIVINE_BULL;The Divine Bull;;;;;;;;;;;;;x
+GOD_THE_DOLLAR;The Almighty Dollar;;;;;;;;;;;;;x
+GOD_THE_DOUBTER;The Doubter;;;;;;;;;;;;;x
+GOD_THE_ELDER_GODS;The Elder Gods;;;;;;;;;;;;;x
+GOD_THE_ELEMENTS;The Elements;;;;;;;;;;;;;x
+GOD_THE_EMPEROR;The Emperor;;;;;;;;;;;;;x
+GOD_THE_EVIL_SPIRITS;The Evil Spirits;;;;;;;;;;;;;x
+GOD_THE_FALLEN_STAR;The Fallen Star;;;;;;;;;;;;;x
+GOD_THE_FLAG;The Flag;;;;;;;;;;;;;x
+GOD_THE_FOUNDERS;The Founders;;;;;;;;;;;;;x
+GOD_THE_FOUNDING_FATHERS;The Founding Fathers;;;;;;;;;;;;;x
+GOD_THE_FREE_MARKET;The Free Market;;;;;;;;;;;;;x
+GOD_THE_GODDESS;The Goddess;;;;;;;;;;;;;x
+GOD_THE_HEAVENLY_FATHER;The Heavenly Father;;;;;;;;;;;;;x
+GOD_THE_HORNED_GOD;The Horned God;;;;;;;;;;;;;x
+GOD_THE_INVISIBLE_HAND;The Invisible Hand;;;;;;;;;;;;;x
+GOD_THE_LIGHT;The Light;;;;;;;;;;;;;x
+GOD_THE_LIGHTBRINGER;The Lightbringer;;;;;;;;;;;;;x
+GOD_THE_MACHINE_SPIRITS;The Machine Spirits;;;;;;;;;;;;;x
+GOD_THE_OLD_ONES;The Old Ones;;;;;;;;;;;;;x
+GOD_THE_ORICHAS;The Orichás;;;;;;;;;;;;;x
+GOD_THE_PRESIDENTS;The Presidents;;;;;;;;;;;;;x
+GOD_THE_PROPHET;The Prophet;;;;;;;;;;;;;x
+GOD_THE_QUEEN;The Queen;;;;;;;;;;;;;x
+GOD_THE_RAM_HEADED_SNAKE;The Ram-Headed Snake;;;;;;;;;;;;;x
+GOD_THE_SAINTS;The Saints;;;;;;;;;;;;;x
+GOD_THE_SEA_HAG;The Sea Hag;;;;;;;;;;;;;x
+GOD_THE_SERPENT;The Serpent;;;;;;;;;;;;;x
+GOD_THE_SERPENTINE_GOD;The Serpentine God;;;;;;;;;;;;;x
+GOD_THE_SMOKE_SERPENT;The Smoke Serpent;;;;;;;;;;;;;x
+GOD_THE_SPEAKING_GOD;The Speaking God;;;;;;;;;;;;;x
+GOD_THE_SUPREME;The Supreme;;;;;;;;;;;;;x
+GOD_THE_THREE_POWERS;The Three Powers;;;;;;;;;;;;;x
+GOD_THE_TZITZIMIMEH;The Tzitzimimeh;;;;;;;;;;;;;x
+GOD_THE_VOICE;The Voice;;;;;;;;;;;;;x
+GOD_THE_WHITE_LAMB;The White Lamb;;;;;;;;;;;;;x
+GOD_THE_WITNESSES;The Witnesses;;;;;;;;;;;;;x
+GOD_THE_YOKAI;The Yokai;;;;;;;;;;;;;x
+GOD_TIA;Tia;;;;;;;;;;;;;x
+GOD_TOLTEC;Toltec;;;;;;;;;;;;;x
+GOD_TSAR_BOMBA;Tsar Bomba;;;;;;;;;;;;;x
+GOD_TUATH_DE;Tuath Dé;;;;;;;;;;;;;x
+GOD_UNCLE_SAM;Uncle Sam;;;;;;;;;;;;;x
+GOD_VULCAN;Vulcan;;;;;;;;;;;;;x
+GOD_WASHINGTON;Washington;;;;;;;;;;;;;x
+GOD_XHUUYEE;Xhúuyee;;;;;;;;;;;;;x
+GOD_XIBALBA;Xibalba;;;;;;;;;;;;;x
+GRAND_COUNT;Grand Count;;;;;;;;;;;;;x
+GRAND_COUNTESS;Grand Countess;;;;;;;;;;;;;x
+GRAND_COUNTY_OF;Grand County of;;;;;;;;;;;;;x
+GRAND_DIVISION_OF;Grand Division of;;;;;;;;;;;;;x
+GRAND_MASTER_FOA;Sir;;;;;;;;;;;;;x
+GRAND_MASTER;Grand Master;;;;;;;;;;;;;x
+GROUP_CAPTAIN_FOA;Sir;;;;;;;;;;;;;x
+GROUP_CAPTAIN;Group Captain;;;;;;;;;;;;;x
+GURU;Guru;;;;;;;;;;;;;x
+HEAD_GRAND_REBBE;Grand Rebbe;;;;;;;;;;;;;x
+HE_WHO_RUSTS;He-Who-Rusts;;;;;;;;;;;;;x
+HIGH_FABRICATOR_FEMALE;High Fabricator;;;;;;;;;;;;;x
+HIGH_FABRICATOR_FOA;Your Holiness;;;;;;;;;;;;;x
+HIGH_FABRICATOR;High Fabricator;;;;;;;;;;;;;x
+HIGH_REGENT;High Regent;;;;;;;;;;;;;x
+IPSISSIMUS_FEMALE;Ipsissima;;;;;;;;;;;;;x
+IPSISSIMUS_FOA;Your Holiness;;;;;;;;;;;;;x
+IPSISSIMUS;Ipsissimus;;;;;;;;;;;;;x
+JUDGE;Judge;;;;;;;;;;;;;x
+LIBERATION_WAR;Liberation War;;;;;;;;;;;;;x
+LORD_ADMIRAL_FOA;Your Excellency;;;;;;;;;;;;;x
+LORD_ADMIRAL;Lord Admiral;;;;;;;;;;;;;x
+LORD_HIGH_CHAIRMAN_FEMALE;High Chairwoman;;;;;;;;;;;;;x
+LORD_HIGH_CHAIRMAN;High Chairman;;;;;;;;;;;;;x
+LORDSHIP_OF;Lordship of;;;;;;;;;;;;;x
+MADAM;Madam;;;;;;;;;;;;;x
+MARKETING_CAMPAIGN;Marketing Campaign;;;;;;;;;;;;;x
+MARX;Marx;;;;;;;;;;;;;x
+MAYORATE_OF;Mayorate of;;;;;;;;;;;;;x
+MISS;Miss;;;;;;;;;;;;;x
+MISTRESS;Mistress;;;;;;;;;;;;;x
+MOLOCH;Moloch;;;;;;;;;;;;;x
+PADRE;Padre;;;;;;;;;;;;;x
+PARISH_OF;Parish of;;;;;;;;;;;;;x
+PATRIOTISM;Patriotism;;;;;;;;;;;;;x
+PRESIDENT_FOA;Your Excellency;;;;;;;;;;;;;x
+PRESIDENT;President;;;;;;;;;;;;;x
+PRIEST_LOREKEEPER;Lorekeeper;;;;;;;;;;;;;x
+PRIEST_MEDIUM;Medium;;;;;;;;;;;;;x
+PRIME_MINISTER_FOA;Your Holiness;;;;;;;;;;;;;x
+PRIME_MINISTER;Prime Minister;;;;;;;;;;;;;x
+RANDALL_FLAGG;Flagg;;;;;;;;;;;;;x
+SECRETARY;Secretary;;;;;;;;;;;;;x
+SIR;Sir;;;;;;;;;;;;;x
+SIR_KNIGHT_FOA;Sir Knight;;;;;;;;;;;;;x
+SISTER_MILITANT_FOA;Your Martial Eminence;;;;;;;;;;;;;x
+SISTER_MILITANT;Sister-Militant;;;;;;;;;;;;;x
+SOCIALISM;Socialism;;;;;;;;;;;;;x
+SUPREME_GRAND_MASTER_FOA;Your Holiness;;;;;;;;;;;;;x
+SUPREME_GRAND_MASTER;Supreme Grand Master;;;;;;;;;;;;;x
+SUPREME_GRAND_MISTRESS;Supreme Grand Mistress;;;;;;;;;;;;;x
+SUPREME_KNIGHT;Supreme Knight;;;;;;;;;;;;;x
+TECHPRIEST;Tech-Priest;;;;;;;;;;;;;x
+THANE_FOA;Thane;;;;;;;;;;;;;x
+THANE;Thane;;;;;;;;;;;;;x
+THAUMATURGE;Thaumaturge;;;;;;;;;;;;;x
+THE_BOOK_OF_RUST;The Book of Rust;;;;;;;;;;;;;x
+THE_BOOK_OF_THE_LAW;The Book of the Law;;;;;;;;;;;;;x
+THE_CATALOG;The Catalog;;;;;;;;;;;;;x
+THE_CODE;The Code;;;;;;;;;;;;;x
+THE_CODEX;The Codex;;;;;;;;;;;;;x
+THE_CONFUSER;The Confuser;;;;;;;;;;;;;x
+THE_CONSUMING_TARNISH;The Consuming Tarnish;;;;;;;;;;;;;x
+THE_CRAWLING_CHAOS;The Crawling Chaos;;;;;;;;;;;;;x
+THE_DARK_VIRUS;The Dark Virus;;;;;;;;;;;;;x
+THE_DEMON_CORE;The Demon Core;;;;;;;;;;;;;x
+THE_DOUBTING_ONE;The Doubting One;;;;;;;;;;;;;x
+THE_DREAMSPELL;The Dreamspell;;;;;;;;;;;;;x
+THE_FALSE_VISION;The False Vision;;;;;;;;;;;;;x
+THE_FEDS;The Feds;;;;;;;;;;;;;x
+THE_FREEMASONS;The Freemasons;;;;;;;;;;;;;x
+THE_HANGMAN;The Hangman;;;;;;;;;;;;;x
+THE_LORD_OF_RUST;The Lord of Rust;;;;;;;;;;;;;x
+THE_PAPERS;The Founders' Papers;;;;;;;;;;;;;x
+THE_POPOL_VUH;The Popol Vuh;;;;;;;;;;;;;x
+THE_RITUAL_SCROLLS;The Ritual Scrolls;;;;;;;;;;;;;x
+THE_SACRED_SCROLLS;The Ritual Scrolls;;;;;;;;;;;;;x
+THE_TALES;The Tales;;;;;;;;;;;;;x
+THE_UNENLIGHTENED;The Unenlightened;;;;;;;;;;;;;x
+THE_VISIONS;The Visions;;;;;;;;;;;;;x
+THE_VOID;The Void;;;;;;;;;;;;;x
+THE_WRITINGS;The Writings;;;;;;;;;;;;;x
+UNIGOV_OF;Unigov of;;;;;;;;;;;;;x
+VICE_PRESIDENT;Vice President;;;;;;;;;;;;;x
+VICEREINE;Vicereine;;;;;;;;;;;;;x
+VICEROY;Viceroy;;;;;;;;;;;;;x
+WARDEN;Warden;;;;;;;;;;;;;x
+
+atomicist_opinion;Atomicist Opinion;;;;;;;;;;;;;x
+consumerist_opinion;Consumerist Opinion;;;;;;;;;;;;;x
+gracia_divina_opinion;Gracia Divina Opinion;;;;;;;;;;;;;x
