@@ -681,7 +681,7 @@ secretly_rastafarian = {
 	}
 	
 	opposites = {
-		
+		secretly_voodoo
 	}
 
 	is_visible = {
@@ -691,6 +691,36 @@ secretly_rastafarian = {
 			AND = {
 				is_close_relative = FROM
 				trait = secretly_rastafarian
+			}
+		}
+	}
+
+	same_opinion = 15
+	
+	random = no
+	customizer = no
+	ai_zeal = -50
+}
+#Voodoo
+secretly_voodoo = {
+
+	potential = {
+		NOT = {
+			religion = voodoo
+		}
+	}
+	
+	opposites = {
+		secretly_rastafarian
+	}
+
+	is_visible = {
+		OR = {
+			character = FROM
+			society_member_of = secret_religious_society_voodoo
+			AND = {
+				is_close_relative = FROM
+				trait = secretly_voodoo
 			}
 		}
 	}

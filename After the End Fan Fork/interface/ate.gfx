@@ -1519,4 +1519,11 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	spriteType = {
+		name = "GFX_secret_religion_voodoo"
+		texturefile = "gfx/traits/secret_religion_voodoo.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 }
