@@ -668,7 +668,7 @@ d_nauvoo_legion_composition = {
 	levy_size = 1
 	pikemen = 600
 	heavy_infantry = 600
-	light_cavalry = 200
+	light_cavalry = 300
 }
 
 #Ship mercenary companies

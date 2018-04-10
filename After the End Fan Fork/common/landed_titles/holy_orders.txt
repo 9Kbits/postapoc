@@ -428,7 +428,7 @@ d_nauvoo_legion = {
 	primary = yes
 	
 	# Extra income due to donations, etc
-	monthly_income = 4 # (Must be an integer between 1 and 512)
+	monthly_income = 6 # (Must be an integer between 1 and 512)
 	
 	strength_growth_per_century = 1.0
 
