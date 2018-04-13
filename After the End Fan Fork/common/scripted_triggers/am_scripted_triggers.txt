@@ -68,6 +68,19 @@ true_religion_rastafarian_trigger = {
 true_religion_voodoo_trigger = {
 	true_religion = voodoo
 }
+true_religion_santeria_trigger = {
+	true_religion = santeria
+}
+true_religion_candomble_trigger = {
+	true_religion = candomble
+}
+true_religion_espiritista_trigger = {
+	true_religion = espiritista
+}
+true_religion_espiritista_reformed_trigger = {
+	true_religion = espiritista_reformed
+}
+
 true_religion_group_oldworld_trigger = {
 	true_religion_group = oldworld
 }
@@ -103,6 +116,22 @@ is_in_prevs_interesting_society_trigger = {
 			society_member_of = secret_religious_society_voodoo
 			PREV = { interested_in_society = secret_religious_society_voodoo }
 		}
+		AND = {
+			society_member_of = secret_religious_society_santeria
+			PREV = { interested_in_society = secret_religious_society_santeria }
+		}
+		AND = {
+			society_member_of = secret_religious_society_candomble
+			PREV = { interested_in_society = secret_religious_society_candomble }
+		}
+		AND = {
+			society_member_of = secret_religious_society_espiritista
+			PREV = { interested_in_society = secret_religious_society_espiritista }
+		}
+		AND = {
+			society_member_of = secret_religious_society_espiritista_reformed
+			PREV = { interested_in_society = secret_religious_society_espiritista_reformed }
+		}
 }
 
 has_any_char_old_religion = {
@@ -117,6 +146,30 @@ has_any_char_old_religion = {
 			has_character_flag = character_was_voodoo
 	    	any_character = {
 	    		religion = voodoo
+	    	}
+	    }
+		AND = {
+			has_character_flag = character_was_santeria
+	    	any_character = {
+	    		religion = santeria
+	    	}
+	    }
+		AND = {
+			has_character_flag = character_was_candomble
+	    	any_character = {
+	    		religion = candomble
+	    	}
+	    }
+		AND = {
+			has_character_flag = character_was_espiritista
+	    	any_character = {
+	    		religion = espiritista
+	    	}
+	    }
+		AND = {
+			has_character_flag = character_was_espiritista_reformed
+	    	any_character = {
+	    		religion = espiritista_reformed
 	    	}
 	    }
 	}
@@ -140,6 +193,34 @@ looting_artifact_event_religious_artifacts_trigger = {
 				has_artifact_flag = looted_artifact_tooltip_1
 				has_artifact_flag = voodoo
 				ROOT = { religion = voodoo }
+			}
+		}
+		NAND = {
+			any_artifact = {
+				has_artifact_flag = looted_artifact_tooltip_1
+				has_artifact_flag = santeria
+				ROOT = { religion = santeria }
+			}
+		}
+		NAND = {
+			any_artifact = {
+				has_artifact_flag = looted_artifact_tooltip_1
+				has_artifact_flag = candomble
+				ROOT = { religion = candomble }
+			}
+		}
+		NAND = {
+			any_artifact = {
+				has_artifact_flag = looted_artifact_tooltip_1
+				has_artifact_flag = espiritista
+				ROOT = { religion = espiritista }
+			}
+		}
+		NAND = {
+			any_artifact = {
+				has_artifact_flag = looted_artifact_tooltip_1
+				has_artifact_flag = espiritista_reformed
+				ROOT = { religion = espiritista_reformed }
 			}
 		}
 	}

@@ -121,6 +121,10 @@ add_secret_religion_trait_trigger_is_religion_or_old_religion_flag_clear_flag_af
     					OR = {
     						has_character_flag = character_was_rastafarian
 							has_character_flag = character_was_voodoo
+							has_character_flag = character_was_santeria
+							has_character_flag = character_was_candomble
+							has_character_flag = character_was_espiritista
+							has_character_flag = character_was_espiritista_reformed
     					}
     				}
     				religion = rastafarian
@@ -138,7 +142,12 @@ add_secret_religion_trait_trigger_is_religion_or_old_religion_flag_clear_flag_af
     			AND = {
     				NOT = {
     					OR = {
+							has_character_flag = character_was_rastafarian
     						has_character_flag = character_was_voodoo
+							has_character_flag = character_was_santeria
+							has_character_flag = character_was_candomble
+							has_character_flag = character_was_espiritista
+							has_character_flag = character_was_espiritista_reformed
     					}
     				}
     				religion = voodoo
@@ -148,6 +157,98 @@ add_secret_religion_trait_trigger_is_religion_or_old_religion_flag_clear_flag_af
     	}
     	set_secret_religion = voodoo
     	clr_character_flag = character_was_voodoo
+		break = yes
+    }
+	if = {
+    	limit = {
+    		OR = {
+    			AND = {
+    				NOT = {
+    					OR = {
+							has_character_flag = character_was_rastafarian
+    						has_character_flag = character_was_voodoo
+							has_character_flag = character_was_santeria
+							has_character_flag = character_was_candomble
+							has_character_flag = character_was_espiritista
+							has_character_flag = character_was_espiritista_reformed
+    					}
+    				}
+    				religion = santeria
+    			}
+    			has_character_flag = character_was_santeria
+			}
+    	}
+    	set_secret_religion = santeria
+    	clr_character_flag = character_was_santeria
+		break = yes
+    }
+	if = {
+    	limit = {
+    		OR = {
+    			AND = {
+    				NOT = {
+    					OR = {
+							has_character_flag = character_was_rastafarian
+    						has_character_flag = character_was_voodoo
+							has_character_flag = character_was_santeria
+							has_character_flag = character_was_candomble
+							has_character_flag = character_was_espiritista
+							has_character_flag = character_was_espiritista_reformed
+    					}
+    				}
+    				religion = candomble
+    			}
+    			has_character_flag = character_was_candomble
+			}
+    	}
+    	set_secret_religion = candomble
+    	clr_character_flag = character_was_candomble
+		break = yes
+    }
+	if = {
+    	limit = {
+    		OR = {
+    			AND = {
+    				NOT = {
+    					OR = {
+							has_character_flag = character_was_rastafarian
+    						has_character_flag = character_was_voodoo
+							has_character_flag = character_was_santeria
+							has_character_flag = character_was_candomble
+							has_character_flag = character_was_espiritista
+							has_character_flag = character_was_espiritista_reformed
+    					}
+    				}
+    				religion = espiritista
+    			}
+    			has_character_flag = character_was_espiritista
+			}
+    	}
+    	set_secret_religion = espiritista
+    	clr_character_flag = character_was_espiritista
+		break = yes
+    }
+	if = {
+    	limit = {
+    		OR = {
+    			AND = {
+    				NOT = {
+    					OR = {
+							has_character_flag = character_was_rastafarian
+    						has_character_flag = character_was_voodoo
+							has_character_flag = character_was_santeria
+							has_character_flag = character_was_candomble
+							has_character_flag = character_was_espiritista
+							has_character_flag = character_was_espiritista_reformed
+    					}
+    				}
+    				religion = espiritista_reformed
+    			}
+    			has_character_flag = character_was_espiritista_reformed
+			}
+    	}
+    	set_secret_religion = espiritista_reformed
+    	clr_character_flag = character_was_espiritista_reformed
 		break = yes
     }
 }
@@ -161,11 +262,31 @@ add_religion_char_flag_effect = {
     	limit = { religion = voodoo }
     	set_character_flag = character_was_voodoo
     }
+	if = {
+    	limit = { religion = santeria }
+    	set_character_flag = character_was_santeria
+    }
+	if = {
+    	limit = { religion = candomble }
+    	set_character_flag = character_was_candomble
+    }
+	if = {
+    	limit = { religion = espiritista }
+    	set_character_flag = character_was_espiritista
+    }
+	if = {
+    	limit = { religion = espiritista_reformed }
+    	set_character_flag = character_was_espiritista_reformed
+    }
 }
 
 clr_religion_char_flag_effect = {
     clr_character_flag = character_was_rastafarian
 	clr_character_flag = character_was_voodoo
+	clr_character_flag = character_was_santeria
+	clr_character_flag = character_was_candomble
+	clr_character_flag = character_was_espiritista
+	clr_character_flag = character_was_espiritista_reformed
 }
 
 event_target_old_religion_from_flag_effect = {
@@ -180,6 +301,34 @@ event_target_old_religion_from_flag_effect = {
     	limit = { has_character_flag = character_was_voodoo }
     	random_character = {
     		limit = { religion = voodoo }
+    		save_event_target_as = old_religion
+    	}
+    }
+	if = {
+    	limit = { has_character_flag = character_was_santeria }
+    	random_character = {
+    		limit = { religion = santeria }
+    		save_event_target_as = old_religion
+    	}
+    }
+	if = {
+    	limit = { has_character_flag = character_was_candomble }
+    	random_character = {
+    		limit = { religion = candomble }
+    		save_event_target_as = old_religion
+    	}
+    }
+	if = {
+    	limit = { has_character_flag = character_was_espiritista }
+    	random_character = {
+    		limit = { religion = espiritista }
+    		save_event_target_as = old_religion
+    	}
+    }
+	if = {
+    	limit = { has_character_flag = character_was_espiritista_reformed }
+    	random_character = {
+    		limit = { religion = espiritista_reformed }
     		save_event_target_as = old_religion
     	}
     }
@@ -207,6 +356,50 @@ flip_secret_religious_community_provinces = {
 					}
 					religion = voodoo
 					remove_province_modifier = secret_voodoo_community
+				}
+			}
+		}
+		secret_religious_society_santeria = {
+			ROOT = {
+				any_demesne_province = {
+					limit = {
+						has_province_modifier = secret_santeria_community
+					}
+					religion = santeria
+					remove_province_modifier = secret_santeria_community
+				}
+			}
+		}
+		secret_religious_society_candomble = {
+			ROOT = {
+				any_demesne_province = {
+					limit = {
+						has_province_modifier = secret_candomble_community
+					}
+					religion = candomble
+					remove_province_modifier = secret_candomble_community
+				}
+			}
+		}
+		secret_religious_society_espiritista = {
+			ROOT = {
+				any_demesne_province = {
+					limit = {
+						has_province_modifier = secret_espiritista_community
+					}
+					religion = espiritista
+					remove_province_modifier = secret_espiritista_community
+				}
+			}
+		}
+		secret_religious_society_espiritista_reformed = {
+			ROOT = {
+				any_demesne_province = {
+					limit = {
+						has_province_modifier = secret_espiritista_reformed_community
+					}
+					religion = espiritista_reformed
+					remove_province_modifier = secret_espiritista_reformed_community
 				}
 			}
 		}

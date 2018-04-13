@@ -1526,4 +1526,32 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	spriteType = {
+		name = "GFX_secret_religion_santeria"
+		texturefile = "gfx/traits/secret_religion_santeria.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_secret_religion_candomble"
+		texturefile = "gfx/traits/secret_religion_candomble.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_secret_religion_espiritista"
+		texturefile = "gfx/traits/secret_religion_espiritista.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_secret_religion_espiritista_reformed"
+		texturefile = "gfx/traits/secret_religion_espiritista_reformed.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 }
