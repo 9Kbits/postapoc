@@ -112,3 +112,9 @@
 # 2005 Yiddish
 # 2006 Neoladino
 # 2007 Iroquois
+# 2008 Carpetbagger
+# 2009 New English
+# 2010 Wastelander
+# 2011 Yanquito
+# 2012 Gaucho
+# 2013 Baiano
