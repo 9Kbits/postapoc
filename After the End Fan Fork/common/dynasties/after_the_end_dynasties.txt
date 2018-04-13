@@ -3118,7 +3118,8 @@
 1819140 = { name="Thaabita" culture=singaporean }
 1819141 = { name="Thuy" culture=singaporean }
 1819142 = { name="Pranoto" culture=singaporean }
-1819143 = { name="Tien" culture=singaporean }
+1819143 = { name="Tien" culture=singaporean }
+1819144 = { name="Wang" culture=singaporean }
 1821000 = { name= "Carbajal" culture=chapin }
 1821001 = { name= "Delgadillo" culture=chapin }
 1821002 = { name= "Dimayuga" culture=chapin }
@@ -4299,7 +4300,7 @@
 
 1962000 = { name="Rodrigues" culture=amazonense }
 1962001 = { name="Lourenço" culture=amazonense }
-1962002 = { name="Hernandes" culture=amazonense }
+1962002 = { name="Santos" culture=amazonense }
 1962003 = { name="Nogueira" culture=amazonense }
 1962004 = { name="Caetano" culture=amazonense }
 1962005 = { name="Reis" culture=amazonense }
@@ -4313,14 +4314,14 @@
 1962013 = { name="Maciel" culture=amazonense }
 1962014 = { name="Saraiva" culture=amazonense }
 1962015 = { name="Correia" culture=amazonense }
-1962016 = { name="Maldonado" culture=amazonense }
+1962016 = { name="Nascimento" culture=amazonense }
 1962017 = { name="Soares" culture=amazonense }
 1962018 = { name="Fraga" culture=amazonense }
 1962019 = { name="Carvalho" culture=amazonense }
 1962020 = { name="Leão" culture=amazonense }
 1962021 = { name="Coutinho" culture=amazonense }
 1962022 = { name="Nazário" culture=amazonense }
-1962023 = { name="Vargas" culture=amazonense }
+1962023 = { name="Neves" culture=amazonense }
 1962024 = { name="Braga" culture=amazonense }
 1962025 = { name="Madruga" culture=amazonense }
 1962026 = { name="Prestes" culture=amazonense }
@@ -4338,7 +4339,7 @@
 1962038 = { name="Medeiras" culture=amazonense }
 1962039 = { name="Quintana" culture=amazonense }
 1962040 = { name="Quadros" culture=amazonense }
-1962041 = { name="Neves" culture=amazonense }
+1962041 = { name="Santana" culture=amazonense }
 
 1967001 = { name="Rustin" culture=motowner }1967002 = { name="Kirkpatrick" culture=motowner
 	coat_of_arms = {
@@ -4582,7 +4583,7 @@
 2000066 = { name="Chatoyer" culture=west_indian }
 2000067 = { name="Carmichael" culture=west_indian }
 2000068 = { name="Braithwaite" culture=west_indian }
-2000069 = { name="Mowatt" culture=west_indian }
+2000069 = { name="Mowatt" culture=west_indian }2000070 = { name="Sparrow" culture=west_indian }
 
 2001000 = { name="Duvalier" culture=haitian }
 2001001 = { name="Loverture" culture=haitian }
@@ -4830,3 +4831,176 @@
 2007052 = { name="Tetosweken" culture=iroquois }
 2007053 = { name="Yoroonwago" culture=iroquois }
 2007054 = { name="Hearst" culture=bayfolk }
+
+#All names taken from the Wikipedia article for carpetbagger. (These include Southerners from non-Confederate states and black Americans.)
+2008001 = { name="Ames" culture=carpetbagger }
+2008002 = { name="Eggleston" culture=carpetbagger }
+2008003 = { name="Barry" culture=carpetbagger }
+2008004 = { name="Gibbs" culture=carpetbagger }
+2008005 = { name="Cunningham" culture=carpetbagger }
+2008006 = { name="Castello" culture=carpetbagger }
+2008007 = { name="Morgan" culture=carpetbagger }
+2008008 = { name="Grant" culture=carpetbagger }
+2008009 = { name="Jeffords" culture=carpetbagger }
+2008010 = { name="Littlefield" culture=carpetbagger }
+2008011 = { name="Tourgée" culture=carpetbagger }
+2008012 = { name="Chamberlain" culture=carpetbagger }
+2008013 = { name="Cardozo" culture=carpetbagger }
+2008014 = { name="Warmouth" culture=carpetbagger }
+2008015 = { name="Badger" culture=carpetbagger }
+2008016 = { name="Smith" culture=carpetbagger }
+2008017 = { name="Spencer" culture=carpetbagger }
+2008018 = { name="Campbell" culture=carpetbagger }
+2008019 = { name="Baxter" culture=carpetbagger }
+2008020 = { name="Furbush" culture=carpetbagger }
+2008021 = { name="Ruby" culture=carpetbagger }
+
+#Names taken from the British namelist, with appropriate alterations
+2009001 = { name="Gresley" culture=new_english }
+2009002 = { name="Durnford" culture=new_english }
+2009003 = { name="Twining" culture=new_english }
+2009004 = { name="Chapman" culture=new_english }
+2009005 = { name="Idle" culture=new_english }
+2009006 = { name="Palin" culture=new_english }
+2009007 = { name="Waterhouse" culture=new_english }
+2009008 = { name="Hoxton" culture=new_english }
+2009009 = { name="Anglesey" culture=new_english }
+2009010 = { name="Teach" culture=new_english }
+2009011 = { name="Kingsmore" culture=new_english }
+2009012 = { name="Clarkson" culture=new_english }
+2009013 = { name="May" culture=new_english }
+2009014 = { name="Hammond" culture=new_english }
+2009015 = { name="Blackholme" culture=new_english }
+2009016 = { name="Ebenezing" culture=new_english }
+2009017 = { name="Eastwind" culture=new_english }
+2009018 = { name="Norton" culture=new_english }
+2009019 = { name="Corrigan" culture=new_english }
+2009020 = { name="Horrigan" culture=new_english }
+2009021 = { name="Finnegan" culture=new_english }
+2009022 = { name="King" culture=new_english }
+2009023 = { name="Mather" culture=new_english }
+2009024 = { name="Winthrop" culture=new_english }
+2009025 = { name="Spencer" culture=new_english }
+2009026 = { name="Tyndal" culture=new_english }
+2009027 = { name="Greenhill" culture=new_english }
+2009028 = { name="Armitage" culture=new_english }
+2009029 = { name="Black" culture=new_english }
+
+2010001 = { name="Smith" culture=wastelander }
+2010002 = { name="Jones" culture=wastelander }
+2010003 = { name="Williams" culture=wastelander }
+2010004 = { name="Brown" culture=wastelander }
+2010005 = { name="Wilson" culture=wastelander }
+2010006 = { name="Taylor" culture=wastelander }
+2010007 = { name="Johnson" culture=wastelander }
+2010008 = { name="White" culture=wastelander }
+2010009 = { name="Martin" culture=wastelander }
+2010010 = { name="Anderson" culture=wastelander }
+2010011 = { name="Thompson" culture=wastelander }
+2010012 = { name="Nguyen" culture=wastelander }
+2010013 = { name="Turner" culture=wastelander }
+2010014 = { name="Walker" culture=wastelander }
+2010015 = { name="Harris" culture=wastelander }
+2010016 = { name="Lee" culture=wastelander }
+2010017 = { name="Ryan" culture=wastelander }
+2010018 = { name="Robinson" culture=wastelander }
+2010019 = { name="Kelly" culture=wastelander }
+2010020 = { name="King" culture=wastelander }
+2010021 = { name="Chen" culture=wastelander }
+
+2011001 = { name="Barnuevo" culture=yanquito }
+2011002 = { name="Rangel" culture=yanquito }
+2011003 = { name="Xelder" culture=yanquito }
+2011004 = { name="Calleja" culture=yanquito }
+2011005 = { name="Jovellar" culture=yanquito }
+2011006 = { name="Villate" culture=yanquito }
+2011007 = { name="Ibar" culture=yanquito }
+2011008 = { name="Pestano" culture=yanquito }
+2011009 = { name="Veritas" culture=yanquito }
+2011010 = { name="Urquiola" culture=yanquito }
+2011011 = { name="Dacosta" culture=yanquito }
+2011012 = { name="Claiborne" culture=yanquito }
+2011013 = { name="Tazewell" culture=yanquito }
+2011014 = { name="Leftwich" culture=yanquito }
+2011015 = { name="Hairston" culture=yanquito }
+2011016 = { name="Graves" culture=yanquito }
+2011017 = { name="Faulcon" culture=yanquito }
+2011018 = { name="Ruffin" culture=yanquito }
+2011019 = { name="Pelham" culture=yanquito }
+2011020 = { name="Spratt" culture=yanquito }
+2011021 = { name="Dobbs" culture=yanquito }
+2011022 = { name="Johnston" culture=yanquito }
+2011023 = { name="Harllee" culture=yanquito }
+2011024 = { name="Winyah" culture=yanquito }
+2011025 = { name="Somers" culture=yanquito }
+2011026 = { name="Hammond" culture=yanquito }
+
+2012001 = { name="Pereira" culture=gaucho }
+2012002 = { name="Dimer" culture=gaucho }
+2012003 = { name="Timer" culture=gaucho }
+2012004 = { name="Emerin" culture=gaucho }
+2012005 = { name="França" culture=gaucho }
+2012006 = { name="Goettems" culture=gaucho }
+2012007 = { name="Krais" culture=gaucho }
+2012008 = { name="Hánn" culture=gaucho }
+2012009 = { name="Heizeriter" culture=gaucho }
+2012010 = { name="Aizenrita" culture=gaucho }
+2012011 = { name="Junckes" culture=gaucho }
+2012012 = { name="Junkes" culture=gaucho }
+2012013 = { name="Justo" culture=gaucho }
+2012014 = { name="Justino" culture=gaucho }
+2012015 = { name="Koerich" culture=gaucho }
+2012016 = { name="Cunha" culture=gaucho }
+2012017 = { name="Lamberty" culture=gaucho }
+2012018 = { name="Lamberti" culture=gaucho }
+2012019 = { name="Leffa" culture=gaucho }
+2012020 = { name="Lefa" culture=gaucho }
+2012021 = { name="Leva" culture=gaucho }
+2012022 = { name="Leão" culture=gaucho }
+2012023 = { name="Mengue" culture=gaucho }
+2012024 = { name="Maia" culture=gaucho }
+2012025 = { name="Hóstia" culture=gaucho }
+2012026 = { name="Paulos" culture=gaucho }
+2012027 = { name="Paulo" culture=gaucho }
+2012028 = { name="Schefer" culture=gaucho }
+2012029 = { name="Silistre" culture=gaucho }
+2012030 = { name="Webber" culture=gaucho }
+2012031 = { name="Veber" culture=gaucho }
+2012032 = { name="Vaingärtner" culture=gaucho }
+2012033 = { name="Vicente" culture=gaucho }
+2012034 = { name="Müller" culture=gaucho }
+2012035 = { name="Miller" culture=gaucho }
+2012036 = { name="Muller" culture=gaucho }
+2012037 = { name="Simão" culture=gaucho }
+2012038 = { name="Lins" culture=gaucho }
+
+2013001 = { name="Batista" culture=baiano }
+2013002 = { name="Evangelista" culture=baiano }
+2013003 = { name="Pádua" culture=baiano }
+2013004 = { name="Nepomuceno" culture=baiano }
+2013005 = { name="Assis" culture=baiano }
+2013006 = { name="de Paula" culture=baiano }
+2013007 = { name="Sales" culture=baiano }
+2013008 = { name="Loiola" culture=baiano }
+2013009 = { name="Aquino" culture=baiano }
+2013010 = { name="Calanzans" culture=baiano }
+2013011 = { name="Cupertino" culture=baiano }
+2013012 = { name="Bonfim" culture=baiano }
+2013013 = { name="Santos" culture=baiano }
+2013014 = { name="Sante" culture=baiano }
+2013015 = { name="Paz" culture=baiano }
+2013016 = { name="Neves" culture=baiano }
+2013017 = { name="Graça" culture=baiano }
+2013018 = { name="Santana" culture=baiano }
+2013019 = { name="Trindade" culture=baiano }
+2013020 = { name="Ramos" culture=baiano }
+2013021 = { name="Nascimento" culture=baiano }
+2013022 = { name="Luz" culture=baiano }
+2013023 = { name="Visitação" culture=baiano }
+2013024 = { name="Chagas" culture=baiano }
+2013025 = { name="Patrocínio" culture=baiano }
+2013026 = { name="Conceição" culture=baiano }
+2013027 = { name="Reis" culture=baiano }
+2013028 = { name="Pascoal" culture=baiano }
+2013029 = { name="Anjos" culture=baiano }
+2013030 = { name="Dores" culture=baiano }

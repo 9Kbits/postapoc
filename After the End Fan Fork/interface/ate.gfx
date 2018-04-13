@@ -336,6 +336,34 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 	spriteType = {
+		name = "GFX_trait_fords_striker"
+		texturefile = "gfx/traits/fords_striker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_sword_of_the_lamb"
+		texturefile = "gfx/traits/sword_of_the_lamb.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_knight_templar"
+		texturefile = "gfx/traits/knight_templar.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_order_of_the_garter"
+		texturefile = "gfx/traits/order_of_the_garter.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
 		name = "GFX_oregon_pilgrimage"
 		texturefile = "gfx/interface/oregon.tga"
 	}
@@ -448,8 +476,24 @@ spriteTypes = {
 		texturefile = "gfx/interface/decision_icon_adopt_chinese_imperialism.dds"
 	}
 	spriteType = {
+		name = "GFX_form_the_empire_state"
+		texturefile = "gfx/interface/form_the_empire_state.dds"
+	}
+	spriteType = {
+		name = "GFX_vassalize_knights_of_columbus"
+		texturefile = "gfx/interface/decision_icon_vassalize_holy_order.dds"
+	}
+	spriteType = {
 		name = "GFX_form_the_usa"
 		texturefile = "gfx/interface/form_the_usa.dds"
+	}
+	spriteType = {
+		name = "GFX_form_the_commonwealth"
+		texturefile = "gfx/interface/form_the_commonwealth.dds"
+	}
+	spriteType = {
+		name = "GFX_vassalize_lebanon_brethren"
+		texturefile = "gfx/interface/decision_icon_vassalize_holy_order.dds"
 	}
 	spriteType = {
 		name = "GFX_vassalize_mib"
@@ -458,6 +502,26 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_restore_presidency"
 		texturefile = "gfx/interface/restore_presidency.dds"
+	}
+	spriteType= {
+		name = "GFX_restore_abbess_in_quebec"
+		texturefile = "gfx\\interface\\decision_icon_create_fraticelli_papacy.dds"
+	}
+	spriteType= {
+		name = "GFX_restore_archbishop_in_canterbury"
+		texturefile = "gfx\\interface\\decision_icon_create_fraticelli_papacy.dds"
+	}
+	spriteType= {
+		name = "GFX_restore_quorum_in_salt_lake"
+		texturefile = "gfx\\interface\\decision_icon_create_fraticelli_papacy.dds"
+	}
+	spriteType = {
+		name = "GFX_form_new_france"
+		texturefile = "gfx\\interface\\form_new_france.dds"
+	}
+	spriteType = {
+		name = "GFX_vassalize_palace_guard"
+		texturefile = "gfx/interface/decision_icon_vassalize_holy_order.dds"
 	}
 	
 	##
@@ -1511,47 +1575,5 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\placeholder_castle_snow.tga"
 		noOfFrames = 1
 		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_secret_religion_rastafarian"
-		texturefile = "gfx/traits/secret_religion_rastafarian.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_secret_religion_voodoo"
-		texturefile = "gfx/traits/secret_religion_voodoo.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_secret_religion_santeria"
-		texturefile = "gfx/traits/secret_religion_santeria.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_secret_religion_candomble"
-		texturefile = "gfx/traits/secret_religion_candomble.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_secret_religion_espiritista"
-		texturefile = "gfx/traits/secret_religion_espiritista.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_secret_religion_espiritista_reformed"
-		texturefile = "gfx/traits/secret_religion_espiritista_reformed.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
 	}
 }
