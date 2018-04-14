@@ -382,6 +382,7 @@ the_patriarchy = {
 	sound = monastic_orders_interface
 	society_ranks_gfx = monk_ranks
 	indestructible = yes
+	devil_worshipper = yes
 	is_secret = yes
 	active = {
 		has_dlc = "Mystics"
