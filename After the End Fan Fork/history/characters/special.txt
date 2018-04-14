@@ -1,4 +1,4 @@
-###ÄNSI
+###Ã„NSI
 666000={
 	name="Petrus Romanus" #
 	culture="riverlander"
@@ -486,6 +486,8 @@
 		effect = {
 			set_character_flag = do_not_disturb
 			set_character_flag = diplomatic_immunity
+			join_society = the_men_in_black
+			set_society_grandmaster = yes
 		}
 	}
 }
