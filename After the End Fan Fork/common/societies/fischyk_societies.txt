@@ -386,6 +386,12 @@ the_patriarchy = {
 	is_secret = yes
 	active = {
 		has_dlc = "Mystics"
+		NOT = {
+			has_game_rule = {
+				name = devil_worshipers
+				value = none
+			}
+		}
 	}
 	indestructible = yes
 	can_join_society = {
