@@ -197,7 +197,7 @@ rockland = {
 	prairielander = {
 		graphical_cultures = { canadiangfx }
 		
-		color = { 0 0.9 0.17 }
+		color = { 0.42 0.71 0.71 }
 		
 		male_names = {
 			Abram_Abraham Albert_Albert Alex_Alexander Anders_Andrew Anton_Anthony
