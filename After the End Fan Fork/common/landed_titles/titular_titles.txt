@@ -3156,6 +3156,32 @@ e_prairielander = {
 	creation_requires_capital = no	
 }
 
+e_choctaw = {
+	color={ 170 55 3 }
+	color2={ 220 5 15 }
+	capital = 329 # Bryan
+	
+	culture = choctaw
+	allow = {
+		NOT = {
+			has_game_rule = {
+				name = cultural_empires
+				value = off
+			}
+		}
+		war = no
+		NOT = { tier = emperor }
+		culture = choctaw
+		OR = {
+			realm_size = 150
+			e_cuba = { OR = { is_titular = no has_holder = yes } }
+		}
+	}
+	short_name = yes
+	
+	creation_requires_capital = no	
+}
+
 ### titular kingdoms
 
 k_dinetah = {
@@ -3228,7 +3254,7 @@ k_tuskegee = {
 	color={ 90 50 90 }
 	color2= { 255 255 255 }
 	
-	capital = 1033 #Tuskegee
+	capital = 149 #Atlanta
 	
 	allow = {
 		war = no
