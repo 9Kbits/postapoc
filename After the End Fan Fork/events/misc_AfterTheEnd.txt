@@ -666,6 +666,10 @@ character_event = {
 				factor = 10
 				culture = prairielander
 			}
+			modifier = {
+				factor = 0
+				culture = choctaw
+			}
 		}
 		set_graphical_culture = white
 	}
@@ -1200,6 +1204,10 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = prairielander
+			}
+				modifier = {
+				factor = 15
+				culture = choctaw
 			}
 		}
 		set_graphical_culture = black
@@ -1736,6 +1744,10 @@ character_event = {
 				factor = 0
 				culture = prairielander
 			}
+				modifier = {
+				factor = 10
+				culture = choctaw
+			}
 		}
 		set_graphical_culture = brown
 	}
@@ -2270,7 +2282,12 @@ character_event = {
 			modifier = {
 				factor = 4
 				culture = prairielander
+			}	
+			modifier = {
+				factor = 72
+				culture = choctaw
 			}
+			
 		}
 		set_graphical_culture = native
 	}
@@ -2806,6 +2823,10 @@ character_event = {
 				factor = 5
 				culture = prairielander
 			}
+			modifier = {
+				factor = 0
+				culture = choctaw
+			}
 		}
 		set_graphical_culture = chinese
 	}
@@ -3339,6 +3360,11 @@ character_event = {
 			}
 			modifier = {
 				factor = 10
+				culture = prairielander
+			}
+			modifier = {
+				factor = 0
+				culture = choctaw
 			}
 		}
 		set_graphical_culture = norse
@@ -3875,6 +3901,10 @@ character_event = {
 				factor = 5
 				culture = prairielander
 			}
+			modifier = {
+				factor = 0
+				culture = choctaw
+			}
 		}
 		set_graphical_culture = celtic
 	}
@@ -4410,6 +4440,10 @@ character_event = {
 				factor = 0
 				culture = prairielander
 			}
+			modifier = {
+				factor = 0
+				culture = choctaw
+			}
 		}
 		set_graphical_culture = ugric
 	}
@@ -4944,7 +4978,12 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = prairielander
+			}	
+			modifier = {
+				factor = 0
+				culture = choctaw
 			}
+			
 		}
 		set_graphical_culture = mediterranean
 	}
@@ -5479,6 +5518,10 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = prairielander
+			}
+			modifier = {
+				factor = 0
+				culture = choctaw
 			}
 		}
 		set_graphical_culture = indian
@@ -6015,6 +6058,10 @@ character_event = {
 				factor = 18
 				culture = prairielander
 			}
+			modifier = {
+				factor = 0
+				culture = choctaw
+			}
 		}
 		set_graphical_culture = slavic
 	}
@@ -6538,6 +6585,10 @@ character_event = {
 				factor = 29
 				culture = prairielander
 			}
+		    modifier = {
+				factor = 0
+				culture = choctaw
+			}	
 		}
 		set_graphical_culture = german
 	}
@@ -7068,6 +7119,10 @@ character_event = {
 			modifier = {
 				factor = 19
 				culture = prairielander
+			}
+			modifier = {
+				factor = 0
+				culture = choctaw
 			}
 		}
 		set_graphical_culture = english
@@ -7603,6 +7658,10 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = prairielander
+			}
+			modifier = {
+				factor = 0
+				culture = choctaw
 			}
 		}
 		set_graphical_culture = persian
