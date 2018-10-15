@@ -1,0 +1,1051 @@
+###ÄNSI
+1788001={
+	name="Baltus" # Baltus III of Hudsonia
+	dynasty=1776000 # Groot
+	dna="jwlvdfxkckn"
+	properties="ad0bib000000"
+	martial=9
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	learning=6
+	culture=hudsonian
+	religion=anabaptist
+	father=1788003
+	trait=ambitious
+	trait=cynical
+	trait=thrifty_clerk
+	2631.2.8={birth=yes}
+	2649.7.19={add_spouse=1763062}
+	2695.1.1={death=yes}
+}
+
+1788002={
+	name="Florell"
+	dynasty=1777009 # Laggard
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	learning=6
+	culture=gothamite #tuskegean
+	religion=americanist
+	trait=gregarious
+	trait=cynical
+	trait=grey_eminence
+	2628.1.1={birth=yes}
+	2695.1.1={death=yes}
+}
+
+1788003={
+	name="Baltus" # Baltus II
+	dynasty=1776000 # Groot
+	mother=1788004
+	father=1788005
+	culture=hudsonian
+	religion=anabaptist
+	2602.1.1={birth=yes}
+	2660.7.4={death=yes}
+}
+
+1788004={
+	name="Tiaogeara" # Tiaogeara I
+	dynasty=1776013 # Rodham
+	father=1788006
+	female=yes
+	culture=hudsonian
+	religion=sedevacantist
+	2581.1.1={birth=yes}
+	2657.1.1={death=yes}
+}
+
+1788005={
+	name="Baltus" # Baltus, consort of Tiaogeara
+	dynasty=1776000 # Groot
+	culture=hudsonian
+	religion=anabaptist
+	2575.1.1={birth=yes}
+	2597.1.1={add_spouse=1788004}
+	2624.1.1={death=yes}
+}
+
+1788006={
+	name="Ichabod" # Ichabod II
+	dynasty=1776013 # Rodham
+	father=1788007
+	culture=hudsonian
+	religion=sedevacantist
+	2555.1.1={birth=yes}
+	2609.1.1={death=yes}
+}
+
+1788007={
+	name="Baltus" # Baltus I
+	dynasty=1776013 # Rodham
+	father=1788008
+	culture=hudsonian
+	religion=sedevacantist
+	2528.1.1={birth=yes}
+	2569.1.1={death=yes}
+}
+
+1788008={
+	name="Ichabod" # Ichabod I
+	dynasty=1776013 # Rodham
+	culture=hudsonian
+	religion=sedevacantist
+	father=1788109
+	2490.1.1={birth=yes}
+	2552.1.1={death=yes}
+}
+
+1788009={
+	name="Rip" 
+	dynasty=1776020 # Ranvincle
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	learning=6
+	culture=hudsonian
+	religion=anabaptist
+	trait=honest
+	trait=craven
+	trait=naive_appeaser
+	2619.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788010={
+	name="Cashunyon"
+	dynasty=1776021 # Herkimer
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=6
+	culture=hudsonian
+	religion=high_church
+	trait=craven
+	trait=envious
+	trait=flamboyant_schemer
+	2624.1.1={birth=yes}
+	2647.10.2={add_spouse=1899013}
+	2695.1.1={death=yes}
+}
+
+1788011={
+	name="Jacobbe"
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=6
+	culture="gothamite"
+	religion=anabaptist
+	trait=wroth
+	trait=kind
+	trait=tough_soldier
+	2615.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788012={
+	name="Patricis"
+	dynasty=1777017
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=6
+	culture=tuskegean #"gothamite"
+	religion=charismatic #"catholic"
+	trait=wroth
+	trait=kind
+	trait=tough_soldier
+	2622.1.1={birth=yes
+		culture=gothamite}
+	2700.1.1={death=yes}
+}
+
+1788013={
+	name="Adriaen" # Duke Adriaen Huishoop of Connecticut
+	dynasty=1787050 # Huishoop
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=6
+	culture="gothamite"
+	religion=anabaptist #"catholic"
+	trait=zealous
+	trait=paranoid
+	trait=detached_priest
+	2626.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788014={
+	name="Levi" # Count of Monmouth
+	dynasty=2005015
+	martial=9
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	learning=5
+	culture=yiddish
+	religion=jewish
+	trait=brilliant_strategist
+	trait=genius
+	trait=peasant_leader
+	trait=just
+	trait=brave
+	trait=kind
+	trait=humble
+	2644.11.5={birth=yes}
+	2664.4.4={
+		give_nickname = nick_the_liberator
+		prestige = 250
+		wealth = 100
+		effect = {
+			spawn_unit = {
+				province = 24 # Monmouth/Lakewood
+				owner = ROOT
+				troops = {
+					heavy_infantry = { 250 250 }
+					light_infantry = { 750 750 }
+				}
+				attrition = 1.0
+			}
+		}
+	}
+	2700.1.1={death=yes}
+}
+
+1788015={
+	name="Willem" # Count of Long Island
+	dynasty=1777021 # Stedvor
+	martial=3
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	learning=3
+	culture="gothamite"
+	religion=anabaptist #"catholic"
+	2629.11.23={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788016={
+	name="Geoffrey" # Duke of Hudson Valley
+	dynasty=1776022 # Allen
+	martial=8
+	diplomacy=1
+	intrigue=1
+	stewardship=6
+	learning=1
+	culture=hudsonian
+	religion=anabaptist
+	2633.12.4={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788017={
+	name="Hiawatha" # Duke of Cayuga
+	dynasty=2007014 # Onondaga
+	martial=1
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	learning=9
+	trait=grey_eminence
+	culture=iroquois
+	religion=anabaptist
+	2642.3.8={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788018={
+	name="Raymond" # Count of Tripolis
+	dynasty=1776024 # Bedhamton
+	martial=9
+	diplomacy=8
+	intrigue=2
+	stewardship=5
+	learning=3
+	culture=hudsonian
+	religion=anabaptist
+	2639.7.29={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788019={
+	name="Nicholas" # Duke of Finger Lakes
+	dynasty=1776025 # Elran
+	martial=6
+	diplomacy=0
+	intrigue=4
+	stewardship=5
+	learning=8
+	culture=hudsonian
+	religion=evangelical
+	2640.3.30={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788020={
+	name="Charles" # Duke of West Susquehanna
+	dynasty=1776026 # Adder
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	learning=7
+	culture=hudsonian
+	religion=anabaptist
+	2633.10.24={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788021={
+	name="Abraham" # Duke of Champlain
+	dynasty=1776027 # Adder
+	martial=6
+	diplomacy=3
+	intrigue=4
+	stewardship=8
+	learning=4
+	culture=hudsonian
+	religion=ursuline
+	2625.4.7={birth=yes}
+	2646.5.5={add_spouse=1899012 }
+	2700.1.1={death=yes}
+}
+
+1788022={
+	name="Thom"
+	dynasty=1777000
+	martial=4
+	diplomacy=5
+	intrigue=3
+	stewardship=6
+	learning=6
+	culture=hudsonian #"gothamite"
+	religion=hamiltonian
+	trait=kind
+	trait=charitable
+	trait="martial_cleric"
+	2625.1.1={birth=yes
+		culture=gothamite}
+	2647.1.1={
+		add_spouse=1788023
+		effect = {
+			set_character_flag = is_person_of_interest
+		}
+	}
+	2695.1.1={death=yes}
+}
+
+1788023={
+	name="Martha"
+	female=yes
+	martial=3
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	learning=6
+	culture=hudsonian #"gothamite"
+	religion=hamiltonian
+	trait=gregarious
+	trait=underhanded_rogue
+	2626.1.1={birth=yes
+		culture=gothamite}
+	2695.1.1={death=yes}
+}
+
+1788000={
+	name="Bruce"
+	dynasty=1777000
+	martial=7
+	diplomacy=3
+	intrigue=7
+	stewardship=3
+	learning=5
+	health=8
+	culture=gothamite
+	religion=hamiltonian
+	father=1788022
+	mother=1788023
+	2653.1.1={birth=yes}
+	2655.1.1={
+		effect = {
+			set_character_flag = is_person_of_interest_son
+		}
+	}
+	2720.1.1={death=yes}
+}
+
+1788024={
+	name="Ottavis"
+	dynasty=1777006 # Falcone
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	learning=3
+	culture="gothamite"
+	religion=jeffersonian
+	trait=deceitful
+	trait=diligent
+	trait=intricate_webweaver
+	2622.1.1={birth=yes}
+	2695.1.1={death=yes}
+}
+
+1788025={
+	name="Lazar"
+	dynasty=2005026 # Rothschild
+	martial=5
+	diplomacy=6
+	intrigue=2
+	stewardship=6
+	learning=4
+	culture=yiddish
+	religion=jewish
+	trait=ambitious
+	trait=brave
+	trait=zealous
+	trait=deceitful
+	trait=paranoid
+	trait=grey_eminence
+	2624.1.1={birth=yes}
+	2654.5.5={add_spouse=1788026}
+	2695.1.1={death=yes}
+}
+
+1788026={
+	name="Courtney"
+	female=yes
+	#dynasty=1777010
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	learning=4
+	culture=yiddish
+	religion=jewish
+	trait=gluttonous
+	trait=arbitrary
+	trait=stubborn
+	trait=intricate_webweaver
+	2638.1.1={birth=yes}
+	2654.5.5={add_spouse=1788025}
+	2695.1.1={death=yes}
+}
+
+1788027={
+	name="Chelsea"
+	female=yes
+	#dynasty=1788000
+	dna="ifjignkgfmk"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=6
+	diplomacy=4
+	stewardship=3
+	intrigue=0
+	learning=3
+	trait=underhanded_rogue
+	trait=gluttonous
+	trait=ambitious
+	trait=proud
+	2603.1.1={birth=yes}
+	2623.5.5={add_spouse=1788028}
+	2662.8.20={death=yes}
+}
+
+1788028={
+	name="Lorne"
+	dynasty=1788001
+	dna="ggbpllcffac"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=3
+	diplomacy=5
+	stewardship=1
+	intrigue=6
+	learning=2
+	trait=misguided_warrior
+	trait=temperate
+	trait=cruel
+	trait=envious
+	trait=content
+	trait=chaste
+	2605.1.17={birth=yes}
+	2623.5.5={add_spouse=1788027}
+	2656.8.31={death=yes}
+}
+
+1788029={
+	name="Isabelle"
+	female=yes
+	dynasty=1788001
+	dna="iclpldkgfac"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=4
+	diplomacy=6
+	stewardship=4
+	intrigue=5
+	learning=2
+	trait=midas_touched
+	trait=scholar
+	trait=ambitious
+	trait=zealous
+	trait=charitable
+	trait=kind
+	father=1788028
+	mother=1788027
+	2628.7.4={birth=yes}
+	2646.7.2={add_spouse=1788030}
+	2692.4.20={death=yes}
+}
+
+1788030={
+	name="Paul"
+	dynasty=1788002
+	dna="paedpcbmhea"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=7
+	diplomacy=4
+	stewardship=8
+	intrigue=5
+	learning=4
+	trait=intricate_webweaver
+	trait=trusting
+	trait=zealous
+	trait=just
+	trait=gregarious
+	2630.1.9={birth=yes}
+	2646.7.2={add_spouse=1788029}
+	2666.11.16={death=yes}
+}
+
+1788031={
+	name="Barbara"
+	female=yes
+	dynasty=1788002
+	dna="ialdpcmghac"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=0
+	diplomacy=7
+	stewardship=4
+	intrigue=1
+	learning=4
+	trait=intricate_webweaver
+	trait=celibate
+	trait=slothful
+	trait=deceitful
+	trait=craven
+	trait=trusting
+	father=1788030
+	mother=1788029
+	2651.12.11={birth=yes}
+	2715.12.6={death=yes}
+}
+
+1788032={
+	name="George"
+	dynasty=1788001
+	dna="ifjiglkgfac"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=2
+	diplomacy=2
+	stewardship=4
+	intrigue=4
+	learning=6
+	trait=thrifty_clerk
+	trait=proud
+	trait=arbitrary
+	trait=just
+	trait=wounded
+	father=1788028
+	mother=1788027
+	2634.6.18={birth=yes}
+	2691.9.5={death=yes}
+}
+
+1788033={
+	name="Lorne"
+	dynasty=1788001
+	dna="igbpglcgfac"
+	culture=ontarian #lacustrine
+	religion=rust_cultist
+	martial=7
+	diplomacy=4
+	stewardship=2
+	intrigue=4
+	learning=4
+	trait=brilliant_strategist
+	trait=envious
+	trait=temperate
+	trait=cruel
+	trait=gregarious
+	father=1788028
+	mother=1788027
+	2635.11.6={birth=yes}
+	2692.3.11={death=yes}
+}
+
+1788034={
+	name="Francelin"
+	dynasty=1777022 # Theovelt
+	martial=4
+	diplomacy=6
+	intrigue=3
+	stewardship=5
+	learning=5
+	culture=hudsonian #"gothamite"
+	religion=americanist #"catholic"
+	trait=ambitious
+	trait="weak"
+	trait=brave
+	trait=gregarious
+	trait=trusting
+	trait=grey_eminence
+	2624.1.1={birth=yes
+		culture=gothamite}
+	2695.1.1={death=yes}
+}
+
+1788035={
+	name=Kel
+	dynasty=1776029 # Tregart
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	learning=8
+	culture=hudsonian
+	religion=anabaptist
+	trait=ambitious
+	trait=cynical
+	trait=skilled_tactician
+	trait=strong
+	trait=wroth
+	trait=diligent
+	trait=envious
+	trait=duelist
+	trait=just
+	trait=kind
+	father=1788038
+	2644.1.17={birth=yes}
+	2663.3.11={effect = {add_lover=1788201}}
+	2663.12.25={add_spouse=1788201}
+	2719.1.1={death=yes}
+}
+
+1788036={
+	name=Artur
+	dynasty=1776000 # Groot
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=9
+	learning=7
+	culture=hudsonian
+	religion=anabaptist
+	father=1788001
+	mother=1763062
+	trait=ambitious
+	trait=zealous
+	trait=midas_touched
+	trait=patient
+	trait=just
+	2650.4.19={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1788037={
+	name="Morris" # Morris
+	dynasty=1776013 # Rodham
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=5
+	father=1788006
+	culture=hudsonian
+	religion=sedevacantist
+	2585.3.1={birth=yes}
+	2653.1.11={death=yes}
+}
+
+
+1788038={
+	name=Kel
+	dynasty=1776029 # Tregart
+	martial=5
+	diplomacy=3
+	intrigue=5
+	stewardship=4
+	learning=3
+	culture=hudsonian
+	religion=anabaptist
+	trait=skilled_tactician
+	trait=duelist
+	trait=just
+	trait=kind
+	mother=1788206
+	2616.1.17={birth=yes}
+	2652.6.11={death=yes}
+}
+
+1788104={
+	name="Ellis" # Ellis I
+	dynasty=1776013 # Rodham
+	martial=10
+	diplomacy=8
+	intrigue=9
+	stewardship=9
+	learning=10
+	trait=ambitious
+	trait=quick
+	trait=brilliant_strategist
+	trait=patient
+	trait=strong
+	trait=just
+	trait=brave
+	trait=organizer
+	trait=inspiring_leader
+	culture=hudsonian
+	religion=sedevacantist
+	2360.5.12={birth=yes}
+	2430.12.26={death=yes}
+}
+
+1788105={
+	name=Artur # Artur I
+	dynasty=1776013 # Rodham
+	martial=7
+	diplomacy=9
+	intrigue=7
+	stewardship=10
+	learning=8
+	trait=fortune_builder
+	trait=content
+	trait=quick
+	trait=gardener
+	trait=patient
+	trait=strong
+	trait=just
+	trait=charitable
+	trait=kind
+	trait=diligent
+	culture=hudsonian
+	religion=sedevacantist
+	father=1788104
+	2385.7.4={birth=yes}
+	2444.11.30 = { add_trait=pneumonic }
+	2444.12.26= {
+		death = { death_reason = death_trait }
+	} # pneumonia
+}
+
+1788106={
+	name=Jervis
+	dynasty=1776013 # Rodham
+	culture=hudsonian
+	religion=sedevacantist
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=8
+	trait=fortune_builder
+	trait=content
+	trait=quick
+	trait=gardener
+	trait=patient
+	trait=strong
+	trait=just
+	trait=charitable
+	trait=kind
+	trait=diligent
+	father=1788105
+	2402.2.14={birth=yes}
+	2451.1.19={add_trait=ill}
+	2451.5.30= {
+		death = { death_reason = death_trait }
+	} # ill
+}
+
+1788107={
+	name="Holbrook"
+	dynasty=1776013 # Rodham
+	culture=hudsonian
+	religion=sedevacantist
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=2
+	learning=8
+	trait=skilled_tactician
+	trait=patient
+	trait=brave
+	father=1788106
+	2432.1.22={birth=yes}
+	2451.5.30={death=yes}
+}
+
+1788108={
+	name="Tiaogeara"
+	dynasty=1776013 # Rodham
+	female=yes
+	culture=hudsonian
+	religion=sedevacantist
+	martial=7
+	diplomacy=6
+	intrigue=2
+	stewardship=7
+	learning=6
+	trait=charismatic_negotiator
+	trait=proud
+	trait=diligent
+	father=1788106
+	2441.9.25={birth=yes}
+	2479.8.12={death=yes}
+}
+
+1788109={
+	name="Holbrook"
+	dynasty=1776013 # Rodham
+	culture=hudsonian
+	religion=sedevacantist
+	martial=6
+	diplomacy=3
+	intrigue=6
+	stewardship=2
+	learning=2
+	trait=charismatic_negotiator
+	trait=proud
+	trait=envious
+	mother=1788108
+	2469.11.25={birth=yes}
+	2519.8.20={death=yes}
+}
+
+1788200={
+	name=Darius
+	dynasty=1776029 # Tregart
+	culture=hudsonian
+	religion=anabaptist
+	martial=9
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	learning=8
+	trait=skilled_tactician
+	trait=diligent
+	trait=brave
+	trait=duelist
+	trait=patient
+	trait=robust
+	trait=just
+	trait=temperate
+	trait=trusting
+	trait=charitable
+	trait=organizer
+	trait=unyielding_leader
+	2439.1.31={birth=yes}
+	2505.10.26={death=yes}
+}
+
+1788201 = {
+	name=Jocelyn
+	female=yes
+	culture=gothamite
+	religion=evangelical
+	trait=charismatic_negotiator
+	trait=fair
+	trait=gamer
+	trait=lustful
+	trait=shy
+	trait=shrewd
+	trait=trusting
+	trait=kind
+	trait=just
+	2646.9.19={birth=yes}
+	2663.3.11={effect = {add_lover=1788035}}
+	2663.12.25={add_spouse=1788035}
+	2721.8.31={death=yes}
+}
+
+1788202={
+	name=Hendrick
+	dynasty=1776029 # Tregart
+	culture=hudsonian
+	religion=anabaptist
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	learning=4
+	trait=skilled_tactician
+	trait=duelist
+	trait=patient
+	father=1788200
+	2473.6.4={birth=yes}
+	2536.2.8={death=yes}
+}
+
+1788203={
+	name=Erastus
+	dynasty=1776029 # Tregart
+	culture=hudsonian
+	religion=anabaptist
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	learning=2
+	trait=skilled_tactician
+	trait=proud
+	father=1788202
+	2501.2.24={birth=yes}
+	2555.9.28={death=yes}
+}
+
+1788204={
+	name=Amelia
+	dynasty=1776029 # Tregart
+	female=yes
+	culture=hudsonian
+	religion=anabaptist
+	martial=5
+	diplomacy=2
+	intrigue=7
+	stewardship=5
+	learning=4
+	trait=fortune_builder
+	trait=envious
+	father=1788203
+	2538.12.5={birth=yes}
+	2577.5.18={death=yes}
+}
+
+1788205={
+	name=Emma
+	dynasty=1776029 # Tregart
+	female=yes
+	culture=hudsonian
+	religion=anabaptist
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	learning=4
+	trait=fortune_builder
+	trait=diligent
+	mother=1788204
+	2567.3.25={birth=yes}
+	2609.1.16={death=yes}
+}
+
+1788206={
+	name=Amelia
+	dynasty=1776029 # Tregart
+	female=yes
+	culture=hudsonian
+	religion=anabaptist
+	martial=5
+	diplomacy=6
+	intrigue=2
+	stewardship=2
+	learning=7
+	trait=tough_soldier
+	trait=diligent
+	trait=shy
+	mother=1788205
+	2592.8.12={birth=yes}
+	2647.11.19={death=yes}
+}
+
+1788207={
+	name="Roger"
+	dynasty=0
+	martial=4
+	diplomacy=5
+	intrigue=2
+	stewardship=6
+	learning=6
+	culture=tuskegean #"gothamite"
+	religion=charismatic #"catholic"
+	trait=zealous
+	trait=kind
+	trait=charitable
+	trait=tough_soldier
+	2634.5.1={birth=yes
+		culture=gothamite}
+	2692.5.1={death=yes}
+}
+
+1788208={
+	name="David"
+	dynasty=2005035 #Twersky
+	culture=yiddish
+	religion=jewish
+	trait=mastermind_theologian
+	learning=8
+	trait=zealous
+	2640.10.28={birth=yes}
+	2658.1.1={add_spouse=1788211}
+}
+
+1788209={
+	name="Joel"
+	dynasty=2005036
+	culture=yiddish
+	religion=jewish
+	trait=zealous
+	2637.1.13={birth=yes}
+}
+
+1788210={
+	name="Caterina"
+	female=yes
+	dynasty=1777024
+	dna=bhhihpcccah
+	properties=cj0djv000000000000
+	culture=agraciado
+	religion=catholic
+	martial=3
+	diplomacy=6
+	stewardship=6
+	intrigue=3
+	learning=8
+	trait=mastermind_theologian
+	trait=scholar
+	trait=zealous
+	trait=kind
+	trait=erudite
+	trait=humble
+	2648.1.1={birth=yes
+		culture=gothamite
+		effect={set_character_flag=diversity}
+	}
+	2660.1.1={
+		employer=1788002
+	}
+}
+
+1788211={
+	name="Chana"
+	female=yes
+	culture=yiddish
+	religion=jewish
+	2642.9.12={birth=yes}
+}

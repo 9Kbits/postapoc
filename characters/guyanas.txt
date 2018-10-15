@@ -1,0 +1,535 @@
+###ÄNSI
+
+1800000={
+	name="Simóneta"
+	female=yes
+	dynasty=1901048
+	culture=bolivariano
+	religion=espiritista
+	martial=8
+	diplomacy=4
+	stewardship=3
+	intrigue=4
+	learning=6
+	trait=fortune_builder
+	trait=greedy
+	trait=lustful
+	trait=diligent
+	trait=cruel
+	father=1800001
+	2640.5.4={birth=yes}
+	2681.2.6={death=yes}
+}
+
+1800001={
+	name="Jeffrén"
+	dynasty=1901048
+	culture=bolivariano
+	religion=espiritista
+	martial=5
+	diplomacy=6
+	stewardship=3
+	intrigue=2
+	learning=3
+	trait=midas_touched
+	trait=charitable
+	trait=patient
+	trait=cynical
+	trait=humble
+	2613.2.1={birth=yes}
+	2661.11.26={death=yes}
+}
+
+1800002={
+	name="Ubaldo"
+	dynasty=1901048
+	culture=bolivariano
+	religion=espiritista
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=2
+	learning=5
+	trait=flamboyant_schemer
+	trait=cruel
+	trait=patient
+	trait=diligent
+	trait=wroth
+	father=1800001
+	2649.11.16={birth=yes}
+	2741.5.30={death=yes}
+}
+
+1800005={
+	name="Edorta"
+	dynasty=1901031
+	culture=bolivariano
+	religion=espiritista
+	2639.2.16={birth=yes}
+	2711.5.30={death=yes}
+}
+
+1800006={
+	name="Stalin"
+	dynasty=1901032
+	culture=bolivariano
+	religion=espiritista
+	trait=cruel
+	trait=greedy
+	trait=envious
+	trait=wroth
+	2642.1.26={birth=yes}
+	2701.6.10={death=yes}
+}
+
+1800010={
+	name="Stokely"
+	dynasty=1627004
+	culture=calypsonian
+	religion=rastafarian
+	trait=fortune_builder
+	trait=bobo_ashanti
+	trait=hedonist
+	trait=ambitious
+	trait=diligent
+	trait=paranoid
+	trait=shrewd
+	trait=zealous
+	father=1800042
+	give_nickname=nick_the_conqueror
+	2641.11.16={birth=yes}
+	2711.5.30={death=yes}
+}
+
+1800011={
+	name="Stokely"
+	dynasty=1627004
+	culture=calypsonian
+	religion=rastafarian
+	trait=legit_bastard
+	father=1800010
+	2663.11.16={birth=yes}
+	2721.5.30={death=yes}
+}
+
+1800014={
+	name="Alvino"
+	dynasty=1901017
+	culture=bolivariano
+	religion=rastafarian
+	trait=twelve_tribes
+	2631.11.16={birth=yes}
+	2701.5.30={death=yes}
+}
+
+1800015={
+	name="Teodoro"
+	dynasty=1901033
+	culture=guyanese
+	religion=hindu
+	trait=depressed
+	2620.5.4={birth=yes}
+	2640.3.1={add_spouse=1800016}
+	2658.2.6={death=yes}
+}
+
+1800016={
+	name="Rosa"
+	female=yes
+	culture=guyanese
+	religion=hindu
+	2620.5.4={birth=yes}
+	2640.3.1={add_spouse=1800015}
+	2642.2.6={death=yes}
+}
+
+1800017={
+	name="Bonita"
+	dynasty=1901033
+	female=yes
+	culture=guyanese
+	religion=hindu
+	trait=thrifty_clerk
+	trait=cynical
+	trait=humble
+	trait=just
+	trait=twin
+	father=1800015
+	mother=1800016
+	2641.5.4={birth=yes}
+	2688.2.6={death=yes}
+}
+
+1800018={
+	name="Mariam"
+	dynasty=1901033
+	female=yes
+	culture=guyanese
+	religion=rastafarian
+	trait=flamboyant_schemer
+	trait=bobo_ashanti
+	trait=cynical
+	trait=humble
+	trait=just
+	trait=twin
+	father=1800015
+	mother=1800016
+	2641.5.4={birth=yes}
+	2698.2.6={death=yes}
+}
+
+1800020={
+	name="Cheddi"
+	dynasty=1667052
+	culture=guyanese
+	religion=jewish
+	trait=ambitious
+	trait=sympathy_indian
+	2620.5.4={birth=yes}
+	2620.5.5={
+		effect = { add_weak_claim = k_guyana }
+	}
+	2688.2.6={death=yes}
+}
+
+1800025={
+	name="Geert-Jan"
+	dynasty=1603003
+	culture=sranan
+	religion=hindu
+	trait=midas_touched
+	trait=ugly
+	trait=scarred
+	trait=duelist
+	trait=proud
+	trait=wroth
+	trait=shy
+	trait=charitable
+	2620.5.4={birth=yes}
+	2640.3.1={add_spouse=1800026}
+	2688.2.6={death=yes}
+}
+
+1800026={
+	name="Martine"
+	female=yes
+	culture=sranan
+	religion=hindu
+	trait=proud
+	trait=wroth
+	trait=charitable
+	trait=chaste
+	2622.5.4={birth=yes}
+	2640.3.1={add_spouse=1800025}
+	2678.2.6={death=yes}
+}
+
+1800027={
+	name="Nelli"
+	female=yes
+	dynasty=1603003
+	culture=sranan
+	religion=hindu
+	father=1800025
+	mother=1800026
+	2645.5.4={birth=yes}
+	2708.2.6={death=yes}
+}
+
+1800028={
+	name="Guillano"
+	dynasty=1603003
+	culture=sranan
+	religion=hindu
+	father=1800025
+	mother=1800026
+	2649.5.4={birth=yes}
+	2708.2.6={death=yes}
+}
+
+1800029={
+	name="Jasmina"
+	female=yes
+	dynasty=1603003
+	culture=sranan
+	religion=hindu
+	father=1800025
+	mother=1800026
+	2652.5.4={birth=yes}
+	2718.2.6={death=yes}
+}
+
+1800030={
+	name="Jules"
+	dynasty=1603004
+	culture=sranan
+	religion=hindu
+	trait=brave
+	trait=ambitious
+	2642.5.4={birth=yes}
+	2690.2.6={death=yes}
+}
+
+1800031={
+	name="Lucien"
+	dynasty=1603005
+	culture=sranan
+	religion=hindu
+	trait=shrewd
+	trait=content
+	2638.5.4={birth=yes}
+	2690.2.6={death=yes}
+}
+
+1800035={
+	name="Lyrical"
+	dynasty=1604006
+	culture=cayennais
+	religion=voodoo
+	trait=grey_eminence
+	trait=poet
+	trait=lustful
+	trait=envious
+	trait=gregarious
+	trait=deceitful
+	trait=paranoid
+	2638.5.4={birth=yes}
+	2658.3.1={add_spouse=1800036}
+	2690.2.6={death=yes}
+}
+
+1800036={
+	name="Claire"
+	female=yes
+	culture=cayennais
+	religion=voodoo
+	trait=elusive_shadow 
+	trait=poet
+	trait=lustful
+	trait=deceitful
+	trait=envious
+	2638.5.4={birth=yes}
+	2658.3.1={add_spouse=1800035}
+	2690.2.6={death=yes}
+}
+
+1800037={
+	name="Lyrical"
+	dynasty=1604006
+	culture=cayennais
+	religion=voodoo
+	father=1800035
+	mother=1800036
+	2659.5.4={birth=yes}
+	2699.2.6={death=yes}
+}
+
+1800038={
+	name="Marc-Antoine"
+	dynasty=1604006
+	culture=cayennais
+	religion=voodoo
+	father=1800035
+	mother=1800036
+	2660.5.4={birth=yes}
+	2699.2.6={death=yes}
+}
+
+1800039={
+	name="Virginie"
+	female=yes
+	dynasty=1604006
+	culture=cayennais
+	religion=voodoo
+	father=1800035
+	mother=1800036
+	2662.5.4={birth=yes}
+	2699.2.6={death=yes}
+}
+
+1800040={
+	name="Gabriel"
+	dynasty=1604006
+	culture=cayennais
+	religion=voodoo
+	father=1800035
+	mother=1800036
+	2663.5.4={birth=yes}
+	2699.2.6={death=yes}
+}
+
+1800041={
+	name="Wendy"
+	female=yes
+	dynasty=1604006
+	culture=cayennais
+	religion=voodoo
+	father=1800035
+	mother=1800036
+	2665.5.4={birth=yes}
+	2699.2.6={death=yes}
+}
+
+1800042={
+	name="Stokely"
+	dynasty=1627004
+	culture=calypsonian
+	religion=rastafarian
+	trait=proud
+	trait=legit_bastard
+	mother=2000026
+	2615.6.16={birth=yes}
+	2661.2.2={death=yes}
+}
+
+1800043={
+	name="Marcos"
+	dynasty=1962001
+	culture=brown
+	religion=candomble
+	martial=5
+	diplomacy=5
+	stewardship=3
+	intrigue=4
+	learning=5
+	trait=fortune_builder
+	trait=proud
+	trait=patient
+	trait=charitable
+	trait=chaste
+	2627.5.4={birth=yes
+		culture=amazonense
+		effect={set_character_flag=diversity}}
+	2660.5.5={add_spouse=1800044}
+	2688.12.6={death=yes}
+}
+
+1800044={
+	name="Maria"
+	dynasty=1962002
+	female=yes
+	culture=amazonense
+	religion=candomble
+	martial=4
+	diplomacy=6
+	stewardship=7
+	intrigue=4
+	learning=4
+	trait=charismatic_negotiator
+	trait=shy
+	trait=cruel
+	trait=chaste
+	2629.2.4={birth=yes}
+	2688.12.6={death=yes}
+}
+
+1800045={
+	name="Luciano"
+	dynasty=1962003
+	culture=native
+	religion=candomble
+	martial=4
+	diplomacy=6
+	stewardship=4
+	intrigue=6
+	learning=3
+	trait=flamboyant_schemer
+	trait=kind
+	trait=patient
+	trait=lustful
+	2624.5.4={birth=yes
+		culture=amazonense
+		effect={set_character_flag=diversity}}
+	2655.5.5={add_spouse=1800046}
+	2688.12.6={death=yes}
+}
+
+1800046={
+	name="Sofia"
+	dynasty=1962004
+	female=yes
+	culture=black
+	religion=candomble
+	martial=3
+	diplomacy=5
+	stewardship=3
+	intrigue=7
+	learning=4
+	trait=fortune_builder
+	trait=envious
+	trait=greedy
+	trait=lustful
+	2636.2.4={birth=yes
+		culture=amazonense
+		effect={set_character_flag=diversity}}
+	2688.12.6={death=yes}
+}
+
+1800047={
+	name="Samuel"
+	dynasty=1962000
+	culture=brown
+	religion=espiritista
+	martial=6
+	diplomacy=4
+	stewardship=3
+	intrigue=6
+	learning=3
+	trait=elusive_shadow 
+	trait=brave
+	trait=patient
+	trait=proud
+	2631.2.4={birth=yes
+		culture=amazonense
+		effect={set_character_flag=diversity}
+	}
+	2688.12.6={death=yes}
+}
+
+1800048={
+	name="Suraj"
+	dynasty=1667053 #Biswas
+	dna=bfghfxgcbab
+	properties=ac0b0c000000000000
+	culture=guyanese
+	religion=hindu
+	martial=4
+	diplomacy=6
+	stewardship=5
+	intrigue=4
+	learning=6
+	trait=charismatic_negotiator
+	trait=poet
+	trait=gregarious
+	trait=kind
+	trait=erudite
+	trait=ambitious
+	trait=trusting
+	2648.1.1={
+		birth=yes
+		effect={set_character_flag=diversity}
+	}
+	2660.1.1={
+		employer=1800025
+	}
+	2666.7.4={effect={add_friend=1763107}}
+}
+
+1800049={
+	name="Vicent"
+	dynasty=1604047 #inside joke
+	culture=cayennais
+	religion=candomble
+	2649.4.20={birth=yes}
+}
+
+1800050={
+	name="Manoel"
+	culture=baiano
+	religion=candomble
+	martial=7
+	trait=skilled_tactician
+	trait=zealous
+	trait=brave
+	2635.1.7={birth=yes}
+}
