@@ -1,0 +1,622 @@
+###ÄNSI
+# start with 1811, year of Venezuelan independence from Spain
+
+1811000={
+	name="Santiago"
+	female=no
+	dynasty=1825011
+	culture=llanero
+	religion=espiritista
+	martial=2
+	diplomacy=3
+	stewardship=3
+	intrigue=1
+	learning=9
+	trait=fortune_builder
+	trait=scholar
+	trait=erudite
+	trait=arbitrary
+	trait=paranoid
+	trait=content
+	trait=chaste
+	trait=stressed
+	give_nickname=nick_the_unready
+	2648.12.16={birth=yes}
+	2679.12.1={death=yes}
+}
+
+1811001={
+	name="Raul"
+	female=no
+	dynasty=1825005
+	culture=llanero
+	religion=espiritista
+	martial=10
+	trait=skilled_tactician
+	trait=strategist
+	trait=scarred
+	trait=brave
+	trait=ambitious
+	trait=wroth
+	trait=lustful
+	2638.12.16={birth=yes}
+	2658.3.1={add_spouse=1811002}
+	2699.12.1={death=yes}
+}
+
+1811002={
+	name="Catalina"
+	female=yes
+	culture=llanero
+	religion=espiritista
+	trait=fortune_builder
+	trait=drunkard
+	trait=lustful
+	2638.12.16={birth=yes}
+	2658.3.1={add_spouse=1811001}
+	2699.12.1={death=yes}
+}
+
+1811003={
+	name="Maribel"
+	female=yes
+	dynasty=1825005
+	culture=llanero
+	religion=espiritista
+	father=1811001
+	mother=1811002
+	2658.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811004={
+	name="Raul"
+	female=no
+	dynasty=1825005
+	culture=llanero
+	religion=espiritista
+	father=1811001
+	mother=1811002
+	2663.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811005={
+	name="Orlondo"
+	female=no
+	dynasty=1825007
+	culture=llanero
+	religion=espiritista
+	intrigue=8
+	trait=elusive_shadow 
+	trait=impaler
+	trait=lunatic
+	trait=deceitful
+	trait=envious
+	trait=patient
+	trait=gregarious
+	2631.12.16={birth=yes}
+	2649.3.1={add_spouse=1811006}
+	2679.12.1={death=yes}
+}
+
+1811006={
+	name="Carmen"
+	female=yes
+	culture=llanero
+	religion=espiritista
+	trait=elusive_shadow
+	trait=impaler
+	trait=lunatic
+	2631.12.16={birth=yes}
+	2649.3.1={add_spouse=1811005}
+	2699.12.1={death=yes}
+}
+
+1811007={
+	name="Buena"
+	female=yes
+	dynasty=1825007
+	culture=llanero
+	religion=espiritista
+	father=1811005
+	mother=1811006
+	2658.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811008={
+	name="Jerico"
+	female=no
+	dynasty=1825007
+	culture=llanero
+	religion=espiritista
+	father=1811005
+	mother=1811006
+	2662.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811009={
+	name="Gabriella"
+	female=yes
+	dynasty=1825007
+	culture=llanero
+	religion=espiritista
+	father=1811005
+	mother=1811006
+	2665.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811015={
+	name="Eleazar"
+	dynasty=1560004
+	culture=agraciado
+	religion=espiritista
+	trait=brilliant_strategist
+	trait=proud
+	trait=brave
+	trait=envious
+	trait=kind
+	2605.12.16={birth=yes}
+	2629.3.1={add_spouse=1811016}
+	2654.12.1={death=yes}
+}
+
+1811016={
+	name="Dayana"
+	female=yes
+	culture=agraciado
+	religion=espiritista
+	2609.12.16={birth=yes}
+	2629.3.1={add_spouse=1811015}
+	2664.12.1={death=yes}
+}
+
+1811017={
+	name="Rodolfo"
+	dynasty=1560004
+	culture=agraciado
+	religion=espiritista
+	trait=indulgent_wastrel
+	trait=content
+	trait=kind
+	trait=humble
+	trait=chaste
+	trait=craven
+	father=1811015
+	mother=1811016
+	2632.12.16={birth=yes}
+	2684.12.1={death=yes}
+}
+
+1811018={
+	name="Chantal"
+	female=yes
+	dynasty=1560004
+	culture=agraciado
+	religion=espiritista
+	trait=intricate_webweaver
+	trait=envious
+	trait=proud
+	trait=brave
+	trait=ambitious
+	trait=just
+	father=1811015
+	mother=1811016
+	2636.12.16={birth=yes}
+	2653.1.1={add_spouse = 1811019}
+	2670.12.1={death=yes}
+}
+
+1811019={
+	name="Saul"
+	dynasty=1560003
+	culture=agraciado
+	religion=espiritista
+	2619.12.16={birth=yes}
+	2653.1.1 = {
+		effect = {
+			set_character_flag = recieved_royal_marriage_aid_duty
+			spouse = {
+				set_character_flag = recieved_royal_marriage_aid_duty
+				remove_spouse = spouse
+				add_spouse_matrilineal = ROOT
+				clr_character_flag = recieved_royal_marriage_aid_duty
+			}
+			clr_character_flag = recieved_royal_marriage_aid_duty
+		}
+	}
+	2672.12.1={death=yes}
+}
+
+1811020={
+	name="Karina"
+	female=yes
+	dynasty=1560004
+	culture=agraciado
+	religion=espiritista
+	father=1811019
+	mother=1811018
+	2662.12.16={birth=yes}
+	2710.12.1={death=yes}
+}
+
+1811021={
+	name="Vicente"
+	dynasty=1560004
+	culture=agraciado
+	religion=espiritista
+	father=1811019
+	mother=1811018
+	2665.12.16={birth=yes}
+	2690.12.1={death=yes}
+}
+
+1811025={
+	name="Vidal"
+	dynasty=1560005
+	culture=agraciado
+	religion=espiritista
+	2625.12.16={birth=yes}
+	2674.12.1={death=yes}
+}
+
+1811026={
+	name="Jeronimo"
+	dynasty=1560006
+	culture=agraciado
+	religion=espiritista
+	2645.12.16={birth=yes}
+	2694.12.1={death=yes}
+}
+
+1811027={
+	name="Elvis"
+	dynasty=1560007
+	culture=agraciado
+	religion=espiritista
+	trait=poet
+	trait=gregarious
+	trait=lustful
+	2635.12.16={birth=yes}
+	2684.12.1={death=yes}
+}
+
+1811030={
+	name="Espartaco"
+	dynasty=1560008
+	culture=agraciado
+	religion=espiritista
+	trait=brilliant_strategist
+	trait=gamer
+	trait=cruel
+	trait=patient
+	trait=zealous
+	trait=paranoid
+	2639.12.16={birth=yes}
+	2664.1.1={add_spouse = 1811031}
+	2689.12.1={death=yes}
+}
+
+1811031={
+	name="Anabelle"
+	female=yes
+	culture=agraciado
+	religion=espiritista
+	trait=genius
+	trait=dwarf
+	2644.12.16={birth=yes}
+	2664.1.1={add_spouse = 1811030}
+	2689.12.1={death=yes}
+}
+
+1811035={
+	name="Liborio"
+	dynasty=1901038
+	culture=bolivariano
+	religion=espiritista
+	trait=skilled_tactician
+	trait=gardener
+	trait=peasant_leader
+	trait=just
+	trait=gregarious
+	trait=diligent
+	2648.12.16={birth=yes}
+	2689.12.1={death=yes}
+}
+
+1811040={
+	name="Nuelson"
+	dynasty=1499001
+	culture=papiamen
+	religion=brethren
+	trait=skilled_tactician
+	trait=cruel
+	trait=hedonist
+	trait=lustful
+	trait=wroth
+	2618.12.16={birth=yes}
+	2664.1.1={
+		death = {
+			death_reason = death_murder
+			killer = 1811041
+		}
+	}
+}
+
+1811041={
+	name="Frensel"
+	dynasty=1499001
+	culture=papiamen
+	religion=brethren
+	trait=tough_soldier
+	trait=impaler
+	trait=cruel
+	trait=wroth
+	trait=cynical
+	trait=kinslayer
+	trait=bastard
+	give_nickname=nick_the_lash_of_evilgod
+	father=1811040
+	2638.12.16={birth=yes}
+	2664.1.1 = {
+		effect = {
+			prestige = 500
+			add_character_modifier = { name=known_murderer duration = -1 }
+		}
+	}
+	2689.12.1={death=yes}
+}
+
+1811042={
+	name="Theric"
+	dynasty=1499002
+	culture=papiamen
+	religion=brethren
+	trait=skilled_tactician
+	trait=strong
+	trait=hunter
+	2618.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811043={
+	name="Papito"
+	dynasty=1499003
+	culture=papiamen
+	religion=brethren
+	trait=cruel
+	trait=ambitious
+	2643.12.16={birth=yes}
+	2699.12.1={death=yes}
+}
+
+1811044={
+	name="Niguel"
+	dynasty=1825008
+	martial=4
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=2
+	culture=llanero
+	religion=espiritista
+	trait=skilled_tactician
+	trait=kind
+	trait=ambitious
+	trait=just
+	2632.2.19={birth=yes}
+	2675.5.13={death=yes}
+}
+
+1811045={
+	name="Montes"
+	dynasty=1825009
+	martial=6
+	diplomacy=5
+	stewardship=2
+	intrigue=4
+	learning=7
+	culture=llanero
+	religion=espiritista
+	trait=tough_soldier
+	trait=wroth
+	trait=greedy
+	trait=cruel
+	2624.5.22={birth=yes}
+	2682.5.13={death=yes}
+}
+
+1811046={
+	name="Ezequiel"
+	dynasty=1825010
+	martial=4
+	diplomacy=3
+	stewardship=7
+	intrigue=5
+	learning=2
+	culture=llanero
+	religion=espiritista
+	trait=intricate_webweaver
+	trait=brave
+	trait=proud
+	trait=patient
+	2621.1.25={birth=yes}
+	2672.3.3={death=yes}
+}
+
+1811047={
+	name="Milagro"
+	dynasty=1825013
+	martial=6
+	diplomacy=4
+	stewardship=2
+	intrigue=7
+	learning=3
+	culture=llanero
+	religion=espiritista
+	trait=fortune_builder
+	trait=strong
+	trait=proud
+	trait=mystic
+	2642.10.12={birth=yes}
+	2692.9.13={death=yes}
+}
+
+1811048={
+	name="Aquila"
+	dynasty=1825012
+	martial=3
+	diplomacy=5
+	stewardship=4
+	intrigue=2
+	learning=9
+	culture=llanero
+	religion=espiritista
+	trait=intricate_webweaver
+	trait=gardener
+	trait=patient
+	trait=charitable
+	trait=proud
+	2634.12.22={birth=yes}
+	2691.2.23={death=yes}
+}
+
+1811049={
+	name="Yaxeni"
+	dynasty=1901039
+	female=yes
+	martial=7
+	diplomacy=3
+	stewardship=6
+	intrigue=4
+	learning=4
+	culture=bolivariano
+	religion=espiritista
+	trait=tough_soldier
+	trait=duelist
+	trait=wroth
+	trait=charitable
+	trait=proud
+	2645.8.23={birth=yes}
+	2690.6.2={death=yes}
+}
+
+1811050={
+	name="Senalda"
+	dynasty=1899010
+	female=yes
+	martial=5
+	diplomacy=4
+	stewardship=7
+	intrigue=3
+	learning=2
+	culture=gocho
+	religion=espiritista
+	trait=fortune_builder
+	trait=mystic
+	trait=slothful
+	trait=kind
+	2640.1.6={birth=yes}
+	2680.9.12={death=yes}
+}
+
+1811051={
+	name="Lara"
+	dynasty=1901040
+	female=yes
+	martial=5
+	diplomacy=5
+	stewardship=2
+	intrigue=2
+	learning=5
+	culture=bolivariano
+	religion=espiritista
+	trait=elusive_shadow
+	trait=gardener
+	trait=wroth
+	trait=greedy
+	trait=ambitious
+	2643.4.21={birth=yes}
+	2694.11.12={death=yes}
+}
+
+1811052={
+	name="Ninibeth"
+	dynasty=1901041
+	female=yes
+	martial=5
+	diplomacy=4
+	stewardship=5
+	intrigue=3
+	learning=6
+	culture=agraciado
+	religion=espiritista
+	trait=fortune_builder
+	trait=patient
+	trait=greedy
+	trait=cruel
+	trait=content
+	2640.6.6={birth=yes}
+	2692.1.2={death=yes}
+}
+
+1811053={
+	name="Juan"
+	dynasty=1560044
+	martial=6
+	diplomacy=4
+	stewardship=4
+	intrigue=4
+	learning=3
+	culture=agraciado
+	religion=espiritista
+	trait=tough_soldier
+	trait=wroth
+	trait=lustful
+	trait=brave
+	trait=content
+	2649.10.5={birth=yes}
+	2695.10.2={death=yes}
+}
+
+1811054={
+	name="Carmencita"
+	dynasty=1560054
+	female=yes
+	martial=5
+	diplomacy=4
+	stewardship=5
+	intrigue=3
+	learning=6
+	culture=agraciado
+	religion=espiritista
+	trait=skilled_tactician
+	trait=patient
+	trait=brave
+	trait=ambitious
+	2649.5.25={birth=yes}
+	2717.10.21={death=yes}
+}
+
+1811055={
+	name="Isabella"
+	dynasty=1560055
+	female=yes
+	martial=5
+	diplomacy=3
+	stewardship=4
+	intrigue=3
+	learning=3
+	culture=agraciado
+	religion=espiritista
+	trait=tough_soldier
+	trait=wroth
+	trait=lustful
+	trait=brave
+	trait=envious
+	2649.8.12={birth=yes}
+	2674.10.11={death=yes}
+}
