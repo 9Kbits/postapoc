@@ -97,7 +97,7 @@ eastern_woodlands = {
 		graphical_cultures = { northernnativegfx }
 		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.39 0.24 0.61 }
+		color = { 0.40 0.39 0.70 }
 		
 		male_names = {
 			Theyanoguin Teiorhenhsere Thayendanega Oronhyatekha Onogwendahonji Touighnatogon Oheadanghton 
@@ -139,7 +139,7 @@ eastern_woodlands = {
 		choctaw = {
 		graphical_cultures = { nativeamericangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.40 0.39 0.70 }
+		color = { 0.66 0.75 0.83 }
 		
 		
  		#Choctaw & Chickasaw names
