@@ -10,5 +10,5 @@ b_hendersonville_NC = castle
 b_saluda_NC = temple
 
 # Misc
-culture = cherokee
+culture = appalachian
 religion = charismatic
