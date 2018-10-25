@@ -170,7 +170,7 @@ e_grand_virginia = {
 			title_prefix = "GRAND_DIVISION_OF"
 			
 			appalachian = "The Smokies"
-		    riverlander = "Frankland"
+		        riverlander = "Frankland"
 			cherokee = "Tanasi"
 
 			c_chattanooga = {
@@ -801,7 +801,7 @@ e_grand_virginia = {
 			capital = 1019
 
 			appalachian = "The Highland Rim"
-		    riverlander = "Nashville"
+		        riverlander = "Nashville"
 			
 			
 			c_nashville = {
