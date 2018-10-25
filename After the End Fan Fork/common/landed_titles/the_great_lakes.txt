@@ -723,6 +723,8 @@ e_great_lakes = {
 		northlander = "Vindgarðr"
 		dellsman = "Vindgarðr"
 		yooper = "Vindgarðr"
+		deitsch = "Tschikagoland"
+		rostmann = "Schikagoland
 		yiddish = "Eretz Tshikago"
 
 		# Crusade target weight
@@ -745,6 +747,8 @@ e_great_lakes = {
 
 			capital = 170
 			
+			deitsch = "Tschikago"
+		    rostmann = "Schikago"
 			yiddish = "Tshikago"
 
 			culture = chicagoan
@@ -756,6 +760,8 @@ e_great_lakes = {
 				dellsman = "Vindgarðr"
 				yooper = "Vindgarðr"
 				yiddish = "Tshikago"
+				deitsch = "Tschikago"
+		        rostmann = "Schikago"
 				holy_site = atomicist
 				holy_site = rust_cultist
 				holy_site = rust_cultist_reformed
@@ -765,11 +771,13 @@ e_great_lakes = {
 				holy_site = catholic
 				holy_site = consumerist
 
-				b_chicago_IL = { #Added Norse-like as well as Yiddish name to this county
+				b_chicago_IL = { #Added Norse-like as well as Yiddish/German name to this county
 					northlander = "Vindgarðr"
 					dellsman = "Vindgarðr"
 					yooper = "Vindgarðr"
 					yiddish = "Tshikago"
+					deitsch = "Tschikago"
+		            rostmann = "Schikago"
 					pentarchy = yes
 				}
 				b_cicero_IL = {}
@@ -2050,8 +2058,10 @@ e_great_lakes = {
 
 			capital = 88
 			
+			appalachian = "Pennsyltucky"
 			deitsch = "Westsylvanien"
 			yiddish = "Meyrevsylvanya"
+			rostmann = "Yinzerland"
 			
 			c_moshannon = {
 				color={ 175 145 30 }
@@ -2084,6 +2094,8 @@ e_great_lakes = {
 				b_pittsburgh_PA = {
 					deitsch = "Pittsbarig"
 					yiddish = "Pitsberg"
+					rostmann = "Da Burgh"
+					
 				}
 				b_wexford_PA = {}
 				b_wilkinsburg_PA = {}

@@ -8,7 +8,7 @@ e_grand_virginia = {
 		color={ 160 167 78 }
 		color2={ 220 220 0 }
 
-		capital = 100 # ASheville
+		capital = 100 # Asheville
 		culture = appalachian
 
 		# Crusade target weight
@@ -117,6 +117,9 @@ e_grand_virginia = {
 
 			capital = 1028
 
+			cherokee = "Ani-Kusati-yi"
+			
+			
 			c_guntersville = {
 				color={ 99 166 50 }
 				color2={ 220 220 0 }
@@ -165,6 +168,10 @@ e_grand_virginia = {
 
 			culture = appalachian
 			title_prefix = "GRAND_DIVISION_OF"
+			
+			appalachian = "The Smokies"
+		    riverlander = "Frankland"
+			cherokee = "Tanasi"
 
 			c_chattanooga = {
 				color={ 73 147 30 }
@@ -321,6 +328,8 @@ e_grand_virginia = {
 
 			capital = 100 # Asheville, County of Land-of-Sky
 			culture = appalachian
+			
+			cherokee = "The Qualla"
 
 			c_unifour = {
 				color={ 85 130 215 }
@@ -791,6 +800,10 @@ e_grand_virginia = {
 
 			capital = 1019
 
+			appalachian = "The Highland Rim"
+		    riverlander = "Nashville"
+			
+			
 			c_nashville = {
 				color={ 215 180 225 }
 				color2={ 220 220 0 }
@@ -868,6 +881,10 @@ e_grand_virginia = {
 
 			capital = 1024
 
+			riverlander = "Mid-South" 
+			tuskegean = "Memphis"
+			
+			
 			c_reelfoot = {
 				color={ 199 204 70 }
 				color2={ 220 220 0 }
