@@ -3182,6 +3182,33 @@ e_choctaw = {
 	creation_requires_capital = no	
 }
 
+e_okie = {
+	color={ 130 15 30 }
+	color2={ 190 71 55 }
+	capital = 325 # Oklahoma
+	
+	culture = okie
+	allow = {
+		NOT = {
+			has_game_rule = {
+				name = cultural_empires
+				value = off
+			}
+		}
+		war = no
+		NOT = { tier = emperor }
+		culture = okie
+		OR = {
+			realm_size = 150
+			e_cuba = { OR = { is_titular = no has_holder = yes } }
+		}
+	}
+	short_name = yes
+	
+	creation_requires_capital = no	
+}
+
+
 ### titular kingdoms
 
 k_dinetah = {
