@@ -545,7 +545,7 @@ south_anglo = {
 		mother_name_chance = 20
 	}
 	butternut = {
-		graphical_cultures = { dixiegfx }
+		graphical_cultures = { dixiegfx bluegrassgfx }
 
 		color = { 0.94 0.87 0.8 }
 
