@@ -1,4 +1,4 @@
-###ÄNSI
+###Ã„NSI
 west_anglo = {
 	graphical_cultures = { cowboygfx westerngfx }
 
@@ -81,7 +81,8 @@ west_anglo = {
 		male_names = {
 			Abner Ashbel Almaron Allan_Alan Andy_Andrew Amos Asa Alex_Alexander Avery Austin_Augustus
 			Buck Branch Bobby_Robert Ben_Benjamin Bill_William Byrd Bryce Brooks Bennet_Benedict Buckaroo Bud
-			Cotton Clay Chandler Chris_Christopher Clint Cage Colton Craig Clovis Carson Cyril Charton Chance Cody Clyde Cliff
+			Cotton Clay Chandler Chris_Christopher Clint Cage Colton Craig Clovis Carson Cyril Charton Chance Cody Clyde  
+			Cliff
 			Cash Cord Cooper Chase Cassidy Curly
 			Dan_Daniel Dolphin Dalton Dale Dustin Dallas Dwight Dave_David
 			Earl Eliel Ezra Emory Eldon Eloy Emmett Eddy_Edward
@@ -144,7 +145,8 @@ west_anglo = {
 
 		male_names = {
 			Armstrong Angel_Angel Allen_Alan Art_Arthur Abel Abaco Ariocarp Areol Alex_Alexander Andres_Andrew
-			Behan Ben_Benjamin Burton Buckey Billy_William Beaty Bob_Robert Boyd Baca Bat Boone Buford Brumby Bennet_Benedict Batamote
+			Behan Ben_Benjamin Burton Buckey Billy_William Beaty Bob_Robert Boyd Baca Bat Boone Buford Brumby 
+			Bennet_Benedict Batamote
 			Custer Carlos_Charles Chato Cain Camarillo Coville Coquimban Chinle Cayento Cesar_Caesar
 			Dodge Diehl Dayton Dowell Dave_David Diego
 			Earp Ed_Edward Elliot_Elijah Eugene_Eugene Elfego Elzy Enos Enoch Emory Evelle Eric_Erik
@@ -154,7 +156,8 @@ west_anglo = {
 			Ike_Isaac Isom
 			Jeremiah Jojo_Joseph John_John Justin_Justin Julio_Julius Jose_Joseph Javier_Xavier Josh_Joshua
 			Lauro_Lawrence Lowell Lew_Louis Leonard_Leonard Lansford Leget Lay Lee Laban
-			Mitchell Morgan Mordecai Malachi Marion Marston Massey Manuelito_Immanuel Mimico Montford Mullen Mingus Marco_Mark Martin_Martin
+			Mitchell Morgan Mordecai Malachi Marion Marston Massey Manuelito_Immanuel Mimico Montford Mullen Mingus 
+			Marco_Mark Martin_Martin
 			Newman Neal_Neil Nelson_Neil Nat_Nathan Naco
 			Oscar_Oscar Owen Oljato
 			Pete_Peter Peludo Pollard Pat_Patrick Pajarito
@@ -278,7 +281,7 @@ west_anglo = {
 	okie = {
 		graphical_cultures = { texangfx cowboygfx }
 
-		color = { 0.7 0.6 0.2 }
+		color = { 0.72 0.55 0.30 }
 
 		#dust bowler immigrants + 'Mid-west farmer' names
 		male_names = {
@@ -290,7 +293,7 @@ west_anglo = {
 		Rickey 
 		Cassidy_Cassidy
 		Jerauld Jonathan_Jonathan Jackson Jacob_Jacob Joshua_Joshua
-	    Wilson_William Woodrow 
+	        Wilson_William Woodrow 
 		}
 
 		female_names = {
