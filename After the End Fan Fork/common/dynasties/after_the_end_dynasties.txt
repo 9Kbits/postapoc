@@ -7998,5 +7998,38 @@
 2018025 = { name="Hobeckentopa" culture=choctaw }
 2018026 = { name="Pontotoc" culture=choctaw }
 2018027 = { name="Okla Hannali" culture=choctaw }
-2018028 = { name="Okla Falayaa" culture=choctaw }
+2018028 = { name="Okla Falayaa" culture=choctaw } 
 2018029 = { name="Conehatta" culture=choctaw }
+2018030 = { name="Anoatubby" culture=choctaw }
+
+2019001 = { name="Dunbar" culture=okie }
+2019002 = { name="Guthrie" culture=okie }
+2019003 = { name="Haggard" culture=okie }
+2019004 = { name="Haslam" culture=okie }
+2019005 = { name="Thompson" culture=okie }
+2019006 = { name="Christie" culture=okie }
+2019007 = { name="Cobb" culture=okie }
+2019008 = { name="Akman" culture=okie }
+2019009 = { name="Owens" culture=okie }
+2019010 = { name="Bartlett" culture=okie }
+2019011 = { name="Rogers" culture=okie }
+2019012 = { name="Kinkaid" culture=okie }
+2019013 = { name="Featherston" culture=okie }
+2019014 = { name="Huravitch" culture=okie }
+2019015 = { name="May" culture=okie }
+2019016 = { name="Fiedls" culture=okie }
+2019017 = { name="Ainsworth" culture=okie }
+2019018 = { name="Anderson" culture=okie }
+2019019 = { name="Howard" culture=okie }
+2019020 = { name="Nash" culture=okie }
+2019021 = { name="Pickett" culture=okie }
+2019022 = { name="Albert" culture=okie }
+2019023 = { name="McIntosh" culture=okie }
+2019024 = { name="Oakerhater" culture=okie }
+2019025 = { name="Spybuck" culture=okie }
+2019026 = { name="Gentry" culture=okie }
+2019027 = { name="Gritts" culture=okie }
+2019028 = { name="Starr" culture=okie }
+2019029 = { name="Tinker" culture=okie }
+2019030 = { name="Childers" culture=okie }
+2019031 = { name="Billingsley" culture=okie }
