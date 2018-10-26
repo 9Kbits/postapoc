@@ -720,9 +720,9 @@ e_great_lakes = {
 
 		has_top_de_jure_capital = yes
 		
-		northlander = "VindgarÃ°r"
-		dellsman = "VindgarÃ°r"
-		yooper = "VindgarÃ°r"
+		northlander = "Vindgarðr"
+		dellsman = "Vindgarðr"
+		yooper = "Vindgarðr"
 		deitsch = "Tschikagoland"
 		rostmann = "Schikagoland
 		yiddish = "Eretz Tshikago"
@@ -748,7 +748,7 @@ e_great_lakes = {
 			capital = 170
 			
 			deitsch = "Tschikago"
-		        rostmann = "Schikago"
+		    rostmann = "Schikago"
 			yiddish = "Tshikago"
 
 			culture = chicagoan
@@ -756,12 +756,12 @@ e_great_lakes = {
 			c_chicago = {
 				color={ 105 170 70 }
 				color2={ 220 220 0 }
-				northlander = "VindgarÃ°r"
-				dellsman = "VindgarÃ°r"
-				yooper = "VindgarÃ°r"
+				northlander = "Vindgarðr"
+				dellsman = "Vindgarðr"
+				yooper = "Vindgarðr"
 				yiddish = "Tshikago"
 				deitsch = "Tschikago"
-		                rostmann = "Schikago"
+		        rostmann = "Schikago"
 				holy_site = atomicist
 				holy_site = rust_cultist
 				holy_site = rust_cultist_reformed
@@ -772,12 +772,12 @@ e_great_lakes = {
 				holy_site = consumerist
 
 				b_chicago_IL = { #Added Norse-like as well as Yiddish/German name to this county
-					northlander = "VindgarÃ°r"
-					dellsman = "VindgarÃ°r"
-					yooper = "VindgarÃ°r"
+					northlander = "Vindgarðr"
+					dellsman = "Vindgarðr"
+					yooper = "Vindgarðr"
 					yiddish = "Tshikago"
 					deitsch = "Tschikago"
-		                        rostmann = "Schikago"
+		            rostmann = "Schikago"
 					pentarchy = yes
 				}
 				b_cicero_IL = {}
