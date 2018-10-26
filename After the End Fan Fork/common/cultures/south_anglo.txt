@@ -544,4 +544,36 @@ south_anglo = {
 		mat_grm_name_chance = 20
 		mother_name_chance = 20
 	}
+	butternut = {
+		graphical_cultures = { dixiegfx }
+
+		color = { 0.94 0.87 0.8 }
+
+		#
+		male_names = {
+		
+		}
+
+		female_names = {
+			
+		}
+
+		from_dynasty_prefix = ""
+
+		male_patronym = "Fil"
+		#female_patronym = ""
+		prefix = yes # The patronym is added as a suffix
+
+		modifier = default_culture_modifier
+
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
 }
