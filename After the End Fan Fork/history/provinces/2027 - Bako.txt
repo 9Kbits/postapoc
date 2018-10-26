@@ -13,7 +13,7 @@ b_arvin_CA = temple
 #b_lamont_CA = city
 
 # Misc
-culture = okie
+culture = texan
 religion = cetic
 terrain = hills
 
