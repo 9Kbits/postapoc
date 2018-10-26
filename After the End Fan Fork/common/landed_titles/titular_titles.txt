@@ -3183,8 +3183,8 @@ e_choctaw = {
 }
 
 e_okie = {
-	color={ 130 15 30 }
-	color2={ 190 71 55 }
+	color={ 250 128 114 }
+	color2={ 160 82 45 }
 	capital = 325 # Oklahoma
 	
 	culture = okie
