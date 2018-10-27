@@ -670,11 +670,6 @@ character_event = {
 				factor = 0
 				culture = choctaw
 			}
-			modifier = {
-				factor = 80
-				culture = okie
-			}
-			
 		}
 		set_graphical_culture = white
 	}
@@ -1214,10 +1209,7 @@ character_event = {
 				factor = 15
 				culture = choctaw
 			}
-			modifier = {
-				factor = 5
-				culture = okie
-			}
+	
 		}
 		set_graphical_culture = black
 	}
@@ -1756,10 +1748,6 @@ character_event = {
 			modifier = {
 				factor = 10
 				culture = choctaw
-			}
-			modifier = {
-				factor = 4
-				culture = okie
 			}
 		}
 		set_graphical_culture = brown
@@ -2300,10 +2288,6 @@ character_event = {
 				factor = 72
 				culture = choctaw
 			}
-			modifier = {
-				factor = 6
-				culture = okie
-			}
 		}
 		set_graphical_culture = native
 	}
@@ -2842,10 +2826,6 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = choctaw
-			}
-			modifier = {
-				factor = 0
-				culture = okie
 			}
 		}
 		set_graphical_culture = chinese
@@ -3386,10 +3366,6 @@ character_event = {
 				factor = 0
 				culture = choctaw
 			}
-			modifier = {
-				factor = 0
-				culture = okie
-			}
 		}
 		set_graphical_culture = norse
 	}
@@ -3928,10 +3904,6 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = choctaw
-			}
-			modifier = {
-				factor = 0
-				culture = okie
 			}
 		}
 		set_graphical_culture = celtic
@@ -4472,10 +4444,6 @@ character_event = {
 				factor = 0
 				culture = choctaw
 			}
-			modifier = {
-				factor = 0
-				culture = okie
-			}
 		}
 		set_graphical_culture = ugric
 	}
@@ -5014,10 +4982,6 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = choctaw
-			}
-			modifier = {
-				factor = 0
-				culture = okie
 			}
 			
 		}
@@ -5560,10 +5524,6 @@ character_event = {
 				culture = choctaw
 			}
 			modifier = {
-				factor = 0
-				culture = okie
-			}
-			
 		}
 		set_graphical_culture = indian
 	}
@@ -6103,10 +6063,6 @@ character_event = {
 				factor = 0
 				culture = choctaw
 			}
-			modifier = {
-				factor = 0
-				culture = okie
-			}
 		}
 		set_graphical_culture = slavic
 	}
@@ -6633,10 +6589,6 @@ character_event = {
 		        modifier = {
 				factor = 0
 				culture = choctaw
-			}
-			modifier = {
-				factor = 80
-				culture = okie
 			}
 		}
 		set_graphical_culture = german
@@ -7715,10 +7667,6 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = choctaw
-			}
-			modifier = {
-				factor = 0
-				culture = okie
 			}
 		}
 		set_graphical_culture = persian
