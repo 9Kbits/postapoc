@@ -10,5 +10,5 @@ b_paris_ID = tribal
 
 # Misc
 culture = utahn
-religion = mormon
+religion = woolleyite
 terrain = mountain

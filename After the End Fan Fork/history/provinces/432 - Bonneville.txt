@@ -10,4 +10,4 @@ b_grantsville_UT = city
 
 # Misc
 culture = utahn
-religion = mormon
+religion = woolleyite

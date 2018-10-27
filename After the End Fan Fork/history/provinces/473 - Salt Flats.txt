@@ -9,5 +9,5 @@ b_wendover_NV = castle
 
 # Misc
 culture = utahn
-religion = mormon
+religion = woolleyite
 terrain = desert

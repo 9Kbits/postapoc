@@ -13,5 +13,5 @@ b_sandy_UT = castle
 
 # Misc
 culture = utahn
-religion = mormon
+religion = woolleyite
 terrain = hills
