@@ -3515,8 +3515,8 @@
 1861121 = { #Count of Kosciusko
 	name="Tadeusz"
 	dynasty=1789017 #Kosciusko
-	culture=chicagoan
-	religion=catholic
+	culture=choctaw
+	religion=evangelical
 	martial=7
 	diplomacy=4
 	stewardship=6
