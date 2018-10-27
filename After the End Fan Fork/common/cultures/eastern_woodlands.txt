@@ -147,15 +147,15 @@ eastern_woodlands = {
 		  Nashoba Koi Minco Miko Talako Hushushi Nakni Okshakla Hotti Chukma Kana Onafa Kostini Piominko Itawamba
 		  Chula Tishominko Itanale Akocha Talako  Shikoba Chochokpi Chochmo Chito Hattak Koi Tuskalusa Franchimastabe 
 		  Taboca Apuckshunubbee Amoshuli-Tabi Apushmataha Pushmataha Tapenahomma Nitakechi Chahta Chicksah Chitokaka 
-		  "Kowi Anuskasha" Kashehotapalo "Nalusa Falaya" Mosholatubbee Shilombish Shilup Chilita Holahta Chuka Nahotabi Hiloha                     Kannakli 
+		  "Kowi Anuskasha" Kashehotapalo "Nalusa Falaya" Mosholatubbee Shilombish Shilup Chilita Holahta Chuka Nahotabi Hiloha Kannakli 
 		  Masheli Okshauanli Homastubbee Malata "Yakni Foi" "Chunkash Anli" Fichik Hoshonti Lunsa Nittakechi Nutackachie
 		}
 		
 		female_names = {
-		  Atepa Poloma Byhalia Coahoma Osyka Lahoma Alabama Kinta Hatabushik Fala Isi Iiniwa Nita Opa Poloma Talulah Tippah                       Teata 
-		  Lushanya Shanafila Palli Ahpi Ohoyo Onsi Omba Kinta Tula Coahoma lshtahullo Hashi Tahli Hoklonote "Oka Nahullo" "Impa                   Shilup" 
-		  "Hashok Okwa Hui'ga" Biskinik Ishkitini Ofunlo Heloha Melatha Foe Uskula Hushi Chula Mantema Onatima Nompashtika                         Shinkak Hashilli 
-		  Anoli Umbachi Kashofa Okshakla "Hina Hanta" lmabachi Otapi Yukpa "Nana Moma" Chulosa Okla Amona Hishi "Onnat Minti"                     Hanan Nakishwana 
+		  Atepa Poloma Byhalia Coahoma Osyka Lahoma Alabama Kinta Hatabushik Fala Isi Iiniwa Nita Opa Poloma Talulah Tippah Teata 
+		  Lushanya Shanafila Palli Ahpi Ohoyo Onsi Omba Kinta Tula Coahoma lshtahullo Hashi Tahli Hoklonote "Oka Nahullo" "Impa Shilup" 
+		  "Hashok Okwa Hui'ga" Biskinik Ishkitini Ofunlo Heloha Melatha Foe Uskula Hushi Chula Mantema Onatima Nompashtika Shinkak Hashilli 
+		  Anoli Umbachi Kashofa Okshakla "Hina Hanta" lmabachi Otapi Yukpa "Nana Moma" Chulosa Okla Amona Hishi "Onnat Minti" Hanan Nakishwana 
 		  Humma ltilakna
     }
        founder_named_dynasties = yes
@@ -175,5 +175,4 @@ eastern_woodlands = {
         modifier = default_culture_modifier
 	 
 		}
-	
 }
