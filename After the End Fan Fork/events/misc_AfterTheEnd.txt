@@ -672,12 +672,9 @@ character_event = {
 			}
 			modifier = {
 				factor = 80
-				culture = butternut
+				culture = okie
 			}
-			modifier = {
-				factor = 35
-				culture = kanaak
-			}
+			
 		}
 		set_graphical_culture = white
 	}
@@ -1213,17 +1210,13 @@ character_event = {
 				factor = 0
 				culture = prairielander
 			}
-				modifier = {
+			modifier = {
 				factor = 15
 				culture = choctaw
 			}
 			modifier = {
 				factor = 5
-				culture = butternut
-			}
-			modifier = {
-				factor = 3
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = black
@@ -1760,17 +1753,13 @@ character_event = {
 				factor = 0
 				culture = prairielander
 			}
-				modifier = {
+			modifier = {
 				factor = 10
 				culture = choctaw
 			}
 			modifier = {
-				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 2
-				culture = kanaak
+				factor = 4
+				culture = okie
 			}
 		}
 		set_graphical_culture = brown
@@ -2312,14 +2301,9 @@ character_event = {
 				culture = choctaw
 			}
 			modifier = {
-				factor = 0
-				culture = butternut
+				factor = 6
+				culture = okie
 			}
-			modifier = {
-				factor = 20
-				culture = kanaak
-			}
-			
 		}
 		set_graphical_culture = native
 	}
@@ -2861,11 +2845,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 20
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = chinese
@@ -3408,11 +3388,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = norse
@@ -3955,11 +3931,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = celtic
@@ -4502,11 +4474,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = ugric
@@ -5049,11 +5017,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 			
 		}
@@ -5597,12 +5561,9 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
+				culture = okie
 			}
-			modifier = {
-				factor = 5
-				culture = kanaak
-			}
+			
 		}
 		set_graphical_culture = indian
 	}
@@ -6144,11 +6105,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = slavic
@@ -6673,18 +6630,14 @@ character_event = {
 				factor = 29
 				culture = prairielander
 			}
-		    modifier = {
+		        modifier = {
 				factor = 0
 				culture = choctaw
 			}
-            modifier = {
-				factor = 15
-				culture = butternut
-			}
 			modifier = {
-				factor = 0
-				culture = kanaak
-			} 			
+				factor = 80
+				culture = okie
+			}
 		}
 		set_graphical_culture = german
 	}
@@ -7222,11 +7175,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = english
@@ -7769,11 +7718,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0
-				culture = butternut
-			}
-			modifier = {
-				factor = 0
-				culture = kanaak
+				culture = okie
 			}
 		}
 		set_graphical_culture = persian
