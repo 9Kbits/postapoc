@@ -10,5 +10,5 @@ b_guthrie_OK = temple
 b_norman_OK = city
 
 # Misc
-culture = okie
+culture = texan
 religion = catholic
