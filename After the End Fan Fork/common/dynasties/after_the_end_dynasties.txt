@@ -8001,19 +8001,3 @@
 2018028 = { name="Okla Falayaa" culture=choctaw } 
 2018029 = { name="Conehatta" culture=choctaw }
 2018030 = { name="Anoatubby" culture=choctaw }
-
-2019001 = { name="Long" culture=butternut }
-2019002 = { name="Vallandigham" culture=butternut }
-2019003 = { name="Ross" culture=butternut }
-2019004 = { name="Dean" culture=butternut }
-2019005 = { name="Seymour" culture=butternut }
-2019006 = { name="Storey" culture=butternut }
-2019007 = { name="Davidson" culture=butternut }
-2019008 = { name="Pomeroy" culture=butternut }
-2019009 = { name="Voorhees" culture=butternut }
-2019010 = { name="Wood" culture=butternut }
-2019011 = { name="Pendleton" culture=butternut }
-2019012 = { name="Olds" culture=butternut }
-2019013 = { name="Bright" culture=butternut }
-
-2020001 = { name="May" culture=kanaak }
