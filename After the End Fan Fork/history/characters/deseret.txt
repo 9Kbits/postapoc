@@ -86,7 +86,7 @@
 	name="Sylvester"
 	dynasty=1830022
 	culture=utahn
-	religion=mormon
+	religion=woolleyite
 	2627.7.30={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -128,7 +128,7 @@
 	name="Rishel"
 	dynasty=1830023
 	culture=utahn
-	religion=mormon
+	religion=woolleyite
 	trait=brave
 	2642.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -183,7 +183,7 @@
 	dynasty=1830026
 	female=yes
 	culture=utahn
-	religion=mormon
+	religion=woolleyite
 	2641.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
