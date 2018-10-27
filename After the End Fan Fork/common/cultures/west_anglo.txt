@@ -276,46 +276,4 @@ west_anglo = {
 
 		modifier = default_culture_modifier
 	}
-	
-	
-	okie = {
-		graphical_cultures = { texangfx cowboygfx }
-
-		color = { 0.72 0.55 0.30 }
-
-		#dust bowler immigrants + 'Mid-west farmer' names
-		male_names = {
-		
-		Arkie 
-		Bud_Bud
-		Elijah
-		Kenneth_Kenneth 
-		Rickey 
-		Cassidy_Cassidy
-		Jerauld Jonathan_Jonathan Jackson Jacob_Jacob Joshua_Joshua
-	        Wilson_William Woodrow 
-		}
-
-		female_names = {
-		Bonnie_Bonnie Belle
-		Enid
-		Inola
-		Okie
-		Nettie 
-		Madge
-		}
-
-		from_dynasty_prefix = ""
-
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 35
-
-
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 30
-		mother_name_chance = 10
-
-		modifier = default_culture_modifier
-	}
 }
