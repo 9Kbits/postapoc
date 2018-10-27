@@ -3148,7 +3148,7 @@ e_prairielander = {
 		culture = prairielander
 		OR = {
 			realm_size = 150
-			e_cuba = { OR = { is_titular = no has_holder = yes } }
+			e_prairielander = { OR = { is_titular = no has_holder = yes } }
 		}
 	}
 	short_name = yes
@@ -3174,7 +3174,7 @@ e_choctaw = {
 		culture = choctaw
 		OR = {
 			realm_size = 150
-			e_cuba = { OR = { is_titular = no has_holder = yes } }
+			e_choctaw = { OR = { is_titular = no has_holder = yes } }
 		}
 	}
 	short_name = yes
@@ -3182,31 +3182,6 @@ e_choctaw = {
 	creation_requires_capital = no	
 }
 
-e_okie = {
-	color={ 250 128 114 }
-	color2={ 160 82 45 }
-	capital = 325 # Oklahoma
-	
-	culture = okie
-	allow = {
-		NOT = {
-			has_game_rule = {
-				name = cultural_empires
-				value = off
-			}
-		}
-		war = no
-		NOT = { tier = emperor }
-		culture = okie
-		OR = {
-			realm_size = 150
-			e_cuba = { OR = { is_titular = no has_holder = yes } }
-		}
-	}
-	short_name = yes
-	
-	creation_requires_capital = no	
-}
 
 
 ### titular kingdoms
