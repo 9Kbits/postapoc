@@ -11,5 +11,5 @@ b_swannanoa_NC = city
 b_black_mountain_NC = castle
 
 # Misc
-culture = appalachian
+culture = cherokee
 religion = charismatic
