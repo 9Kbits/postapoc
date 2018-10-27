@@ -14,7 +14,7 @@ b_atwater_CA = temple
 #b_hilmar_CA = temple
 
 # Misc
-culture = valleyan
+culture = calaotian
 religion = cetic
 terrain = hills
 
