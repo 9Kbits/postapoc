@@ -6,7 +6,7 @@
 #
 ###################################
 #
-# Written by Sara Wendel-Örtqvist
+# Written by Sara Wendel-Ã–rtqvist
 # and Chris King
 # and Henrik Eklund
 
@@ -577,8 +577,12 @@ character_event = {
 	desc = {
 		text = EVTDESC6031_ALL
 		trigger = {
-			NOT = { religion_group = muslim }
-			NOT = { religion_group = christian }
+			NOR = {
+				religion_group = christian
+				religion_group = cult_of_saints
+				religion_group = latter_day_saints
+			}
+
 		}
 	}
 	
@@ -616,13 +620,25 @@ character_event = {
 	
 	option = {
 		name = EVTOPTA6031
-		trigger = { religion_group = christian }
+		trigger = {
+			OR = {
+				religion_group = christian
+				religion_group = cult_of_saints
+				religion_group = latter_day_saints
+			}
+		}
 		remove_trait = possessed
 	}
 	
 	option = {
 		name = EVTOPTA6031_ALL
-		trigger = { NOT = { religion_group = christian } }
+		trigger = {
+			NOR = {
+				religion_group = christian
+				religion_group = cult_of_saints
+				religion_group = latter_day_saints
+			}
+		}
 		remove_trait = possessed
 	}
 }
@@ -2095,7 +2111,6 @@ character_event = {
 		OR = {
 			has_character_modifier = voice_of_jesus
 			has_character_modifier = voice_of_satan
-			religion = falling_star
 		}
 		NOT = { has_character_modifier = holy_comet }
 	}
@@ -2202,6 +2217,8 @@ character_event = {
 	option = {
 		name = EVTOPTA6206
 		remove_trait = gluttonous
+		lose_weight_small_effect = yes
+		weight_trait_check_effect = yes
 	}
 }
 
@@ -2236,6 +2253,8 @@ character_event = {
 	option = {
 		name = EVTOPTA6207
 		add_trait = temperate
+		lose_weight_medium_effect = yes
+		weight_trait_check_effect = yes
 	}
 }
 
@@ -2359,7 +2378,7 @@ character_event = {
 	}
 
 	option = {
-		name = EVTOPTA6211
+		name = GLORY_TO_HIGHGOD
 		add_trait = diligent
 	}
 }
@@ -2576,29 +2595,7 @@ character_event = {
 
 	option = {
 		name = EVTOPTA6218
-		trigger = {
-			NOR = {
-				religion = anabaptist
-				religion = falling_star
-			}
-		}
 		become_heretic = yes
-	}
-	
-	option = {
-		name = EVTOPTA6218
-		trigger = {
-			religion = anabaptist
-		}
-		religion = evangelical
-	}
-	
-	option = {
-		name = EVTOPTA6218
-		trigger = {
-			religion = falling_star
-		}
-		religion = sacred_heart
 	}
 }
 
@@ -3172,6 +3169,8 @@ character_event = {
 	option = {
 		name = EVTOPTA6234
 		add_trait = gluttonous
+		gain_weight_small_effect = yes
+		weight_trait_check_effect = yes
 	}
 }
 
@@ -3739,13 +3738,12 @@ character_event = {
 		OR = {
 			religion = norse_pagan
 			religion = norse_pagan_reformed
-			religion = rust_cultist
-			religion = rust_cultist_reformed
-			religion = thelemic
-			religion = thelemic_reformed
-			religion = celtic_pagan
-			religion = celtic_pagan_reformed
-			religion = brethren
+			religion = slavic_pagan
+			religion = slavic_pagan_reformed
+			religion = baltic_pagan
+			religion = baltic_pagan_reformed
+			religion = finnish_pagan
+			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }
@@ -3802,13 +3800,12 @@ character_event = {
 		OR = {
 			religion = norse_pagan
 			religion = norse_pagan_reformed
-			religion = rust_cultist
-			religion = rust_cultist_reformed
-			religion = thelemic
-			religion = thelemic_reformed
-			religion = celtic_pagan
-			religion = celtic_pagan_reformed
-			religion = brethren
+			religion = slavic_pagan
+			religion = slavic_pagan_reformed
+			religion = baltic_pagan
+			religion = baltic_pagan_reformed
+			religion = finnish_pagan
+			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }
@@ -3865,13 +3862,12 @@ character_event = {
 		OR = {
 			religion = norse_pagan
 			religion = norse_pagan_reformed
-			religion = rust_cultist
-			religion = rust_cultist_reformed
-			religion = thelemic
-			religion = thelemic_reformed
-			religion = celtic_pagan
-			religion = celtic_pagan_reformed
-			religion = brethren
+			religion = slavic_pagan
+			religion = slavic_pagan_reformed
+			religion = baltic_pagan
+			religion = baltic_pagan_reformed
+			religion = finnish_pagan
+			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }
@@ -3928,13 +3924,12 @@ character_event = {
 		OR = {
 			religion = norse_pagan
 			religion = norse_pagan_reformed
-			religion = rust_cultist
-			religion = rust_cultist_reformed
-			religion = thelemic
-			religion = thelemic_reformed
-			religion = celtic_pagan
-			religion = celtic_pagan_reformed
-			religion = brethren
+			religion = slavic_pagan
+			religion = slavic_pagan_reformed
+			religion = baltic_pagan
+			religion = baltic_pagan_reformed
+			religion = finnish_pagan
+			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }
@@ -4144,13 +4139,13 @@ character_event = {
 		OR = {
 			ai = no
 			has_game_rule = {
-				name = supernatural_events
+				name = silly_events
 				value = unrestricted
 			}
 		}
 		NOR = {
 			has_game_rule = {
-				name = supernatural_events
+				name = silly_events
 				value = off
 			}
 			has_character_flag = cat_spymaster_flag
@@ -4280,7 +4275,6 @@ character_event = {
 		}
 		hidden_tooltip = {
 			remove_character_modifier = pet_cat
-			
 		}
 	}
 }
@@ -4305,6 +4299,10 @@ character_event = {
 					id = 6363
 				}
 			}
+			if = { 
+				limit = { trait = immortal }
+				character_event = { id = 6365 days = 10 }
+			}
     	}
     }
 }
@@ -4327,5 +4325,32 @@ character_event = {
 			who = FROMFROM
 			years = 100
 		}
+	}
+}
+
+# Immortality
+character_event = {
+	id = 6365
+	desc = EVTDESC6365
+	picture = GFX_evt_kitten_shadow
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+
+	
+	trigger = {
+		trait = lunatic
+		trait = immortal
+	}
+
+	option = {
+		name = EVTOPTA6365
+		FROM = { 
+			add_trait = immortal 
+		}
+	}
+
+	option = {
+		name = EVTOPTB6365
 	}
 }
