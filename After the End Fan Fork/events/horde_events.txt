@@ -81,7 +81,7 @@ narrative_event = {
 	   
 	immediate = {
 		set_global_flag = redcoat_rumors
-		activate_title = { title = e_redcoat_dominion staBluefields = yes }
+		activate_title = { title = e_redcoat_dominion status = yes }
 		create_character = {
 			random_traits = no
 			dynasty = 1812044 # FitzSpatstone
@@ -1278,7 +1278,7 @@ narrative_event = {
 	}
 	
 	immediate = {
-		activate_title = { title = d_minutemen staBluefields = yes }
+		activate_title = { title = d_minutemen status = yes }
 		create_random_soldier = {
 			dynasty = none
 			random_traits = yes
@@ -1947,7 +1947,7 @@ narrative_event = {
 				}
 			}
 			set_defacto_liege = ROOT
-			activate_title = { title = e_estelaria staBluefields = yes }
+			activate_title = { title = e_estelaria status = yes }
 			e_estelaria = {
 				grant_title = ROOT
 				succession = feudal_elective
@@ -2067,7 +2067,7 @@ narrative_event = {
 				AND = {
 					religion_group = cult_of_saints
 					trait = cynical
-				}				
+				}
 			}
 			primary_title = { holy_order = no }
 		}
