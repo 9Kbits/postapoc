@@ -44,8 +44,10 @@ afro_syncretic = {
 		}
 		
 		priests_can_marry = yes
-		female_temple_holders = yes
+		female_temple_holders = no
 		allow_looting = yes
+		max_consorts = 3
+		matrilineal_marriages = no
 		#can_hold_temples = yes
 		allow_rivermovement = yes
 		can_demand_religious_conversion = no
@@ -836,10 +838,10 @@ cult_of_saints= {
 	color = { 0.8 0.2 0.1 }
 	
 	male_names = {
-		Jesús Pedro Pablo Cristóbal Cristián José Juan Diego
+		JesÃºs Pedro Pablo CristÃ³bal CristiÃ¡n JosÃ© Juan Diego
 	}
 	female_names = {
-		Maria Benedicta Magdalena Fátima Sarita
+		Maria Benedicta Magdalena FÃ¡tima Sarita
 	}
 	
 	#default interface
