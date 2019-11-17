@@ -2249,7 +2249,10 @@ defined_text = {
 	text = {
 		localisation_key = string_heroic_wrestle
 		trigger = {
-			society_member_of = warrior_lodge_mexican
+			OR = {
+				society_member_of = warrior_lodge_mexican
+				has_character_flag = los_luchadores
+			}
 			has_character_flag = fighting_to_rank_up
 			NOT = { has_character_flag = is_battlefield_duel }
 			NOT = { has_character_flag = is_legendary_duel }
@@ -2258,7 +2261,10 @@ defined_text = {
 	text = {
 		localisation_key = string_legendary_wrestle
 		trigger = {
-			society_member_of = warrior_lodge_mexican
+			OR = {
+				society_member_of = warrior_lodge_mexican
+				has_character_flag = los_luchadores
+			}
 			has_character_flag = is_legendary_duel
 			NOT = { has_character_flag = is_battlefield_duel }
 			NOT = { has_character_flag = fighting_to_rank_up }
@@ -2267,7 +2273,10 @@ defined_text = {
 	text = {
 		localisation_key = wrestle_title
 		trigger = {
-			society_member_of = warrior_lodge_mexican
+			OR = {
+				society_member_of = warrior_lodge_mexican
+				has_character_flag = los_luchadores
+			}
 		}
 	}
 	fallback_text = {
