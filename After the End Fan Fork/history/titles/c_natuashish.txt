@@ -1,4 +1,0 @@
-2660.1.1 = {
-	holder = 2300013
-	liege = d_labrador
-}
