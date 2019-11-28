@@ -568,8 +568,8 @@ PROV567;Cariboo;;;;;;;;;;;;;x
 PROV568;Chilcotin;;;;;;;;;;;;;x
 PROV569;Shuswap;;;;;;;;;;;;;x
 PROV570;Kelowna;;;;;;;;;;;;;x
-PROV571;Arrowhead;;;;;;;;;;;;;x
-PROV572;Kinbasket;;;;;;;;;;;;;x
+PROV571;Selkirk;;;;;;;;;;;;;x
+PROV572;Yoho;;;;;;;;;;;;;x
 PROV573;Hoodoos;;;;;;;;;;;;;x
 PROV574;Saskatoon;;;;;;;;;;;;;x
 PROV575;Piapot;;;;;;;;;;;;;x
@@ -680,7 +680,7 @@ PROV679;Nye Pass;;;;;;;;;;;;;x
 PROV680;Death Valley;;;;;;;;;;;;;x
 PROV681;Broughton;;;;;;;;;;;;;x
 PROV682;Prince George;;;;;;;;;;;;;x
-PROV683;Robson Valley;;;;;;;;;;;;;x
+PROV683;Robson;;;;;;;;;;;;;x
 PROV684;Yellowhead;;;;;;;;;;;;;x
 PROV685;Kitimat;;;;;;;;;;;;;x
 PROV686;Similkameen;;;;;;;;;;;;;x
@@ -710,7 +710,7 @@ PROV709;Sucre;;;;;;;;;;;;;x
 PROV710;Swan Valley;;;;;;;;;;;;;x
 PROV711;Nechako;;;;;;;;;;;;;x
 PROV712;Bulkley;;;;;;;;;;;;;x
-PROV713;Cache Creek;;;;;;;;;;;;;x
+PROV713;Lillooet;;;;;;;;;;;;;x
 PROV714;Boundary;;;;;;;;;;;;;x
 PROV715;Chisasibi;;;;;;;;;;;;;x
 PROV716;Thompson Valley;;;;;;;;;;;;;x
@@ -819,7 +819,7 @@ PROV818;Cumbres de Monterrey;Cumbres de Monterrey;Cumbres de Monterrey;;;;;;;;;;
 PROV819;Montemorelos;Montemorelos;Montemorelos;;;;;;;;;;;x
 PROV820;Ciudad Victoria;Ciudad Victoria;Ciudad Victoria;;;;;;;;;;;x
 PROV821;Cimitarra;Cimitarra;Cimitarra;;;;;;;;;;;x
-PROV822;Kawawachikamach;Kawawachikamach;Kawawachikamach;;;;;;;;;;;x
+PROV822;Caniapiscau;Caniapiscau;Caniapiscau;;;;;;;;;;;x
 PROV823;Pine Pass;Pine Pass;Pine Pass;;;;;;;;;;;x
 PROV824;High Level;High Level;High Level;;;;;;;;;;;x
 PROV825;Sikanni;Sikanni;Sikanni;;;;;;;;;;;x
@@ -847,7 +847,7 @@ PROV846;Kiis Gwaay;Kiis Gwaay;Kiis Gwaay;;;;;;;;;;;x
 PROV847;Gwaay Haanas;Gwaay Haanas;Gwaay Haanas;;;;;;;;;;;x
 PROV848;Whitehorse;Whitehorse;Whitehorse;;;;;;;;;;;x
 PROV849;Kluane;Kluane;Kluane;;;;;;;;;;;x
-PROV850;Whapmagoostui;Whapmagoostui;Whapmagoostui;;;;;;;;;;;x
+PROV850;Great Whale River;Great Whale River;Great Whale River;;;;;;;;;;;x
 PROV851;Vermilion Crossing;Vermilion Crossing;Vermilion Crossing;;;;;;;;;;;x
 PROV852;Cassiar;Cassiar;Cassiar;;;;;;;;;;;x
 PROV853;Port Nelson;Port Nelson;Port Nelson;;;;;;;;;;;x
@@ -855,13 +855,13 @@ PROV854;Churchill;Churchill;Churchill;;;;;;;;;;;x
 PROV855;Fond-du-Lac;Fond-du-Lac;Fond-du-Lac;;;;;;;;;;;x
 PROV856;Resolution;Resolution;Resolution;;;;;;;;;;;x
 PROV857;Northern Lights;Northern Lights;Northern Lights;;;;;;;;;;;x
-PROV858;Natuashish;Natuashish;Natuashish;;;;;;;;;;;x
-PROV859;PROV859;;;;;;;;;;;;;x
-PROV860;PROV860;;;;;;;;;;;;;x
-PROV861;PROV861;;;;;;;;;;;;;x
-PROV862;PROV862;;;;;;;;;;;;;x
-PROV863;PROV863;;;;;;;;;;;;;x
-PROV864;PROV864;;;;;;;;;;;;;x
+PROV858;New Moravia;New Moravia;New Moravia;;;;;;;;;;;x
+PROV859;Winisk;Winisk;Winisk;;;;;;;;;;;x
+PROV860;Puvirnituq;Puvirnituq;Puvirnituq;;;;;;;;;;;x
+PROV861;Wolstenholme;Wolstenholme;Wolstenholme;;;;;;;;;;;x
+PROV862;Sanikiluaq;Sanikiluaq;Sanikiluaq;;;;;;;;;;;x
+PROV863;Payne Bay;Payne Bay;Payne Bay;;;;;;;;;;;x
+PROV864;Koksoak;Koksoak;Koksoak;;;;;;;;;;;x
 PROV865;PROV865;;;;;;;;;;;;;x
 PROV866;PROV866;;;;;;;;;;;;;x
 PROV867;PROV867;;;;;;;;;;;;;x
@@ -885,16 +885,16 @@ PROV884;PROV884;;;;;;;;;;;;;x
 PROV885;PROV885;;;;;;;;;;;;;x
 PROV886;PROV886;;;;;;;;;;;;;x
 PROV887;PROV887;;;;;;;;;;;;;x
-PROV888;PROV888;;;;;;;;;;;;;x
-PROV889;PROV889;;;;;;;;;;;;;x
-PROV890;PROV890;;;;;;;;;;;;;x
-PROV891;PROV891;;;;;;;;;;;;;x
-PROV892;PROV892;;;;;;;;;;;;;x
-PROV893;PROV893;;;;;;;;;;;;;x
-PROV894;PROV894;;;;;;;;;;;;;x
-PROV895;PROV895;;;;;;;;;;;;;x
-PROV896;PROV896;;;;;;;;;;;;;x
-PROV897;Coast of Labrador;;;;;;;;;;;;;x
+PROV888;Eastern Hudson Bay;;;;;;;;;;;;;x
+PROV889;Outer Grand Banks;;;;;;;;;;;;;x
+PROV890;Coast of Kenora;;;;;;;;;;;;;x
+PROV891;Sanikiluaq Sea;;;;;;;;;;;;;x
+PROV892;Western Hudson Bay;;;;;;;;;;;;;x
+PROV893;Coast of Winisk;;;;;;;;;;;;;x
+PROV894;James Bay;;;;;;;;;;;;;x
+PROV895;Ungava Bay;;;;;;;;;;;;;x
+PROV896;Coast of the Torngats;;;;;;;;;;;;;x
+PROV897;Coast of Nunatsiavut;;;;;;;;;;;;;x
 PROV898;Richelieu River;;;;;;;;;;;;;x
 PROV899;Delaware Canal;;;;;;;;;;;;;x
 PROV900;Georges Bank;;;;;;;;;;;;;x
@@ -962,9 +962,9 @@ PROV961;PROV961;;;;;;;;;;;;;x
 PROV962;PROV962;;;;;;;;;;;;;x
 PROV963;PROV963;;;;;;;;;;;;;x
 PROV964;PROV964;;;;;;;;;;;;;x
-PROV965;PROV965;;;;;;;;;;;;;x
-PROV966;PROV966;;;;;;;;;;;;;x
-PROV967;PROV967;;;;;;;;;;;;;x
+PROV965;Delta del Orinoco;;;;;;;;;;;;;x
+PROV966;Nahanni Wilderness;;;;;;;;;;;;;x
+PROV967;Nunavik Wilderness;;;;;;;;;;;;;x
 PROV968;Northern Rocky Mountains;;;;;;;;;;;;;x
 PROV969;Northern Rocky Mountains;;;;;;;;;;;;;x
 PROV970;Stikine Wilderness;;;;;;;;;;;;;x
@@ -972,7 +972,7 @@ PROV971;Coast Mountains;;;;;;;;;;;;;x
 PROV972;Coast Mountains;;;;;;;;;;;;;x
 PROV973;Akpatok Island;;;;;;;;;;;;;x
 PROV974;Ottawa Islands;;;;;;;;;;;;;x
-PROV975;Sanikiluaq;;;;;;;;;;;;;x
+PROV975;Kenora Wilderness;;;;;;;;;;;;;x
 PROV976;Wood Buffalo Wilderness;;;;;;;;;;;;;x
 PROV977;Birch Mountains;;;;;;;;;;;;;x
 PROV978;Thinahtea Wilderness;;;;;;;;;;;;;x
@@ -984,13 +984,13 @@ PROV983;White Mountains;;;;;;;;;;;;;x
 PROV984;Green Mountains;;;;;;;;;;;;;x
 PROV985;Black Rock Desert;;;;;;;;;;;;;x
 PROV986;James Bay;;;;;;;;;;;;;x
-PROV987;Torngats;;;;;;;;;;;;;x
+PROV987;Torngat Mountains;;;;;;;;;;;;;x
 PROV988;Costa de Nariño;;;;;;;;;;;;;x
 PROV989;Maderas del Carmen;;;;;;;;;;;;;x
 PROV990;Mojave Wasteland;;;;;;;;;;;;;x
 PROV991;Mojave Wasteland;;;;;;;;;;;;;x
 PROV992;Grand Canyon;;;;;;;;;;;;;x
-PROV993;Francisco Aniceto Lugo;;;;;;;;;;;;;x
+PROV993;Delta del Orinoco;;;;;;;;;;;;;x
 PROV994;Cordillera Central;;;;;;;;;;;;;x
 PROV995;Grand Canyon;;;;;;;;;;;;;x
 PROV996;Chihuahua Desert;;;;;;;;;;;;;x
@@ -1412,7 +1412,7 @@ PROV1411;Lake Tahoe;;;;;;;;;;;;;x
 PROV1412;Rainy Lake;;;;;;;;;;;;;x
 PROV1413;Lake Izabal;;;;;;;;;;;;;x
 PROV1414;Caratasca Lagoon;;;;;;;;;;;;;x
-PROV1415;Hudson Bay;;;;;;;;;;;;;x
+PROV1415;Rio Caroní;;;;;;;;;;;;;x
 PROV1416;Bras d'Or Lake;;;;;;;;;;;;;x
 PROV1417;Lake Winnipeg;;;;;;;;;;;;;x
 PROV1418;Lake Winnipegosis;;;;;;;;;;;;;x
@@ -1716,11 +1716,11 @@ PROV1715;Eutsuk Lake;;;;;;;;;;;;;x
 PROV1716;Takla Lake;;;;;;;;;;;;;x
 PROV1717;Trembleur Lake;;;;;;;;;;;;;x
 PROV1718;Tezzeron Lake;;;;;;;;;;;;;x
-PROV1719;1719;;;;;;;;;;;;;x
-PROV1720;1720;;;;;;;;;;;;;x
-PROV1721;1721;;;;;;;;;;;;;x
-PROV1722;1722;;;;;;;;;;;;;x
-PROV1723;1723;;;;;;;;;;;;;x
+PROV1719;Kusawa Lake;;;;;;;;;;;;;x
+PROV1720;Tagish Lake;;;;;;;;;;;;;x
+PROV1721;Atlin Lake;;;;;;;;;;;;;x
+PROV1722;Teslin Lake;;;;;;;;;;;;;x
+PROV1723;Williston Lake;;;;;;;;;;;;;x
 PROV1724;1724;;;;;;;;;;;;;x
 PROV1725;1725;;;;;;;;;;;;;x
 PROV1726;1726;;;;;;;;;;;;;x

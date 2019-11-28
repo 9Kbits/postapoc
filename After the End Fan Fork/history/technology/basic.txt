@@ -82,7 +82,7 @@ technology = {
 	}
 }
 
-# the freezing north
+# middle canada
 technology = {
 	titles = {
 		d_talbot
@@ -91,12 +91,44 @@ technology = {
 		d_quinte
 		d_ottawa
 		d_midland
+		d_algoma
+		d_shield
+		d_nipissing
+		d_thunder
+		d_alberta
+		d_the_stampede
+		d_peace
+	}
+
+	768 = {
+		military = 1.8
+		economy = 1.5
+		culture = 1.5
+		TECH_NAVAL = 2.0
+	}
+
+	2666 = {
+		military = 1.8
+		economy = 1.5
+		culture = 1.5
+		TECH_NAVAL = 2.0
+	}
+}
+
+# quebec
+technology = {
+	titles = {
 		d_montreal
 		d_bas_st_laurent
 		d_gaspesia
 		d_estrie
 		d_chaudiere_appalaches
-		d_monteregie
+		d_sept_rivieres
+		d_prince_edward_island
+		d_north_nova
+		d_nova_scotia
+		d_restigouche
+		d_cape_breton
 		d_mauricia
 		d_saguenay
 		d_outaouais
@@ -104,27 +136,65 @@ technology = {
 		d_new_brunswick
 		d_petitcodiac
 		d_miramichi
-		d_restigouche
-		d_prince_edward_island
-		d_north_nova
-		d_nova_scotia
-		d_cape_breton
-		d_algoma
-		d_shield
-		d_nipissing
-		d_thunder
-		d_alberta
+		d_monteregie
+	}
+
+	768 = {
+		military = 1.8
+		economy = 1.5
+		culture = 1.5
+		TECH_NAVAL = 2.0
+	}
+
+	2666 = {
+		military = 1.8
+		economy = 1.5
+		culture = 1.5
+		TECH_NAVAL = 2.0
+	}
+}
+
+# the freezing north-east
+technology = {
+	titles = {
 		d_minganie
-		d_sept_rivieres
+		d_baie_james
+		d_torngat
+		d_kativik
 		d_anticosti_island
 		d_newfoundland
 		d_avalon
 		d_labrador
 		d_mushkegowuk
 		d_eeyou_istchee
-		d_the_stampede
 		d_miquelon
-		d_peace
+		d_noranda
+	}
+
+	768 = {
+		military = 1.8
+		economy = 1.5
+		culture = 1.5
+		TECH_NAVAL = 2.0
+	}
+
+	2666 = {
+		military = 1.8
+		economy = 1.5
+		culture = 1.5
+		TECH_NAVAL = 2.0
+	}
+}
+
+# the freezing north-west
+technology = {
+	titles = {
+		d_athabasca
+		d_mackenzie
+		d_liard
+		d_stikine
+		d_yukon
+		d_omineca
 	}
 
 	768 = {
@@ -650,6 +720,10 @@ technology = {
 		d_keewatin
 		d_palliser
 		d_chinook
+		d_parkland
+		d_tarsands
+		d_nelson
+		d_desnethe
 	}
 
 	768 = {
@@ -726,14 +800,9 @@ technology = {
 		d_willamette
 		d_highdesert
 		d_north_jefferson
-		d_vancouver
+		d_fraser
 		d_cariboo
-		d_the_coast
-		d_victoria
-		d_up_island
-		d_omineca
 		d_okanagan
-		d_dire_straits
 	}
 
 	768 = {
@@ -751,6 +820,32 @@ technology = {
 	}
 }
 
+# haida coast
+technology = {
+	titles = {
+		d_dire_straits
+		d_haida_gwaii
+		d_alexander
+		d_juneau
+		d_the_coast
+		d_victoria
+		d_up_island
+	}
+
+	768 = {
+		military = 1.7
+		economy = 1.5
+		culture = 2.0
+		TECH_NAVAL = 2.0
+	}
+
+	2666 = {
+		military = 1.7
+		economy = 1.5
+		culture = 2.0
+		TECH_NAVAL = 2.0
+	}
+}
 
 # colombia
 technology = {

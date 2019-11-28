@@ -755,9 +755,10 @@ province_event = {
 		county = {
 			NOT = { de_facto_liege = e_edokko }
 			OR = {
-				de_jure_liege = d_portlandia
-				de_jure_liege = d_vancouver
-				de_jure_liege = d_puget
+				de_jure_liege = d_juneau
+				de_jure_liege = d_alexander
+				de_jure_liege = d_haida_gwaii
+				de_jure_liege = d_the_coast
 			}
 		}
 	}

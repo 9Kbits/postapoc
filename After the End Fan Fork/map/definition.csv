@@ -569,8 +569,8 @@ province;red;green;blue;x;x
 568;161;70;109;Chilcotin;x
 569;148;191;0;Shuswap;x
 570;198;46;5;Kelowna;x
-571;214;132;0;Arrowhead;x
-572;169;24;58;Kinbasket;x
+571;214;132;0;Selkirk;x
+572;169;24;58;Yoho;x
 573;255;254;203;Hoodoos;x
 574;211;224;116;Saskatoon;x
 575;188;193;77;Piapot;x
@@ -681,7 +681,7 @@ province;red;green;blue;x;x
 680;197;209;237;Death Valley;x
 681;206;103;70;Broughton;x
 682;179;64;134;Prince George;x
-683;121;173;137;Robson Valley;x
+683;121;173;137;Robson;x
 684;88;209;209;Yellowhead;x
 685;219;128;112;Kitimat;x
 686;209;158;115;Similkameen;x
@@ -711,7 +711,7 @@ province;red;green;blue;x;x
 710;67;241;50;Swan Valley;x
 711;203;0;185;Nechako;x
 712;154;0;140;Bulkley;x
-713;122;92;122;Cache Creek;x
+713;122;92;122;Lillooet;x
 714;228;1;59;Boundary;x
 715;134;109;176;Chisasibi;x
 716;200;146;85;Thompson Valley;x
@@ -820,7 +820,7 @@ province;red;green;blue;x;x
 819;194;94;36;Montemorelos;x
 820;158;152;64;Ciudad Victoria;x
 821;205;198;10;Cimitarra;x
-822;150;128;191;Kawawachikamach;x
+822;150;128;191;Caniapiscau;x
 823;163;57;168;Pine Pass;x
 824;15;92;154;High Level;x
 825;94;226;216;Sikanni;x
@@ -848,7 +848,7 @@ province;red;green;blue;x;x
 847;195;81;212;Gwaay Haanas;x
 848;170;180;30;Whitehorse;x
 849;147;55;237;Kluane;x
-850;213;97;238;Whapmagoostui;x
+850;213;97;238;Great Whale River;x
 851;211;240;219;Vermilion Crossing;x
 852;196;159;18;Cassiar;x
 853;191;138;189;Port Nelson;x
@@ -856,13 +856,13 @@ province;red;green;blue;x;x
 855;180;152;143;Fond-du-Lac;x
 856;59;92;218;Resolution;x
 857;62;122;247;Northern Lights;x
-858;205;102;186;Natuashish;x
-859;;;;DUMMY859;x
-860;;;;DUMMY860;x
-861;;;;DUMMY861;x
-862;;;;DUMMY862;x
-863;;;;DUMMY863;x
-864;;;;DUMMY864;x
+858;205;102;186;New Moravia;x
+859;12;62;79;Winisk;x
+860;183;252;137;Puvirnituq;x
+861;228;229;177;Wolstenholme;x
+862;197;158;97;Sanikiluaq;x
+863;165;166;52;Payne Bay;x
+864;105;157;99;Koksoak;x
 865;;;;DUMMY865;x
 866;;;;DUMMY866;x
 867;;;;DUMMY867;x
@@ -886,16 +886,16 @@ province;red;green;blue;x;x
 885;;;;DUMMY885;x
 886;;;;DUMMY886;x
 887;;;;DUMMY887;x
-888;;;;DUMMY888;x
-889;;;;DUMMY889;x
-890;;;;DUMMY890;x
-891;;;;DUMMY891;x
-892;;;;DUMMY892;x
-893;;;;DUMMY893;x
-894;;;;DUMMY894;x
-895;;;;DUMMY895;x
-896;;;;DUMMY896;x
-897;201;213;191;DUMMY897;x
+888;80;204;136;Northern Hudson Bay;x
+889;101;89;255;Outer Grand Banks;x
+890;168;182;18;Coast of Kenora;x
+891;80;207;155;Sanikiluaq Sea;x
+892;205;217;133;Western Hudson Bay;x
+893;18;238;144;Coast of Winisk;x
+894;167;246;159;James Bay;x
+895;53;244;236;Ungava Bay;x
+896;138;123;174;Coast of the Torngats;x
+897;201;213;191;Coast of Nunatsiavut;x
 898;1;210;148;Richelieu River;x
 899;3;201;202;Delaware Canal;x
 900;17;108;216;Georges Bank;x
@@ -963,9 +963,9 @@ province;red;green;blue;x;x
 962;;;;DUMMY962;x
 963;;;;DUMMY963;x
 964;;;;DUMMY964;x
-965;;;;DUMMY965;x
-966;;;;DUMMY966;x
-967;;;;DUMMY967;x
+965;61;6;153;Delta del Orinoco;x
+966;35;58;203;Nahanni Wilderness;x
+967;47;45;192;Nunavik Wilderness;x
 968;72;113;50;Northern Rocky Mountains;x
 969;41;35;70;Northern Rocky Mountains;x
 970;56;36;113;Stikine Wilderness;x
@@ -973,7 +973,7 @@ province;red;green;blue;x;x
 972;49;24;117;Coast Mountains;x
 973;106;9;135;Akpatok Island;x
 974;102;25;33;Ottawa Islands;x
-975;197;158;97;Sanikiluaq;x
+975;228;126;95;Kenora Wilderness;x
 976;136;29;15;Wood Buffalo Wilderness;x
 977;35;31;12;Birch Mountains;x
 978;50;43;82;Thinahtea Wilderness;x
@@ -985,19 +985,19 @@ province;red;green;blue;x;x
 984;239;199;234;Green Mountains;x
 985;247;236;249;Black Rock Desert;x
 986;125;24;96;James Bay;x
-987;252;28;18;Torngats;x
+987;252;28;18;Torngat Mountains;x
 988;71;236;35;Costa de Narino;x
 989;74;28;82;Maderas del Carmen;x
 990;89;4;11;Mojave Wasteland;x
 991;101;36;12;Mojave Wasteland;x
 992;27;58;81;Grand Canyon;x
-993;34;17;48;Francisco Aniceto Lugo;x
+993;34;17;48;Delta del Orinoco;x
 994;50;44;62;Cordillera Central;x
 995;16;45;73;Grand Canyon;x
 996;41;46;92;Chihuahua Desert;x
 997;233;189;207;Altar Desert;x
 998;158;153;184;Akimiski Island;x
-999;198;216;230;Arctic Ontario;x
+999;198;216;230;Kenora Wilderness;x
 1000;249;255;87;Okefenokee;x
 1001;252;255;171;Ochlockonee;x
 1002;199;204;70;Blackshear;x
@@ -1413,7 +1413,7 @@ province;red;green;blue;x;x
 1412;160;184;229;Rainy Lake;x
 1413;0;76;203;Lake Izabal;x
 1414;9;64;191;Caratasca Lagoon;x
-1415;43;46;100;Hudson Bay;x
+1415;43;46;100;Rio Caroni;x
 1416;64;70;82;Bras d'Or Lake;x
 1417;49;106;152;Lake Winnipeg;x
 1418;12;73;85;Lake Winnipegosis;x
@@ -1706,7 +1706,7 @@ province;red;green;blue;x;x
 1705;8;191;182;Amisk Lake;x
 1706;17;77;206;Athapapuskow Lake;x
 1707;80;101;211;La Grande Riviere;x
-1708;36;121;81;Kawawachikamach;x
+1708;36;121;81;Caniapiscau;x
 1709;93;133;226;Suggi Lake;x
 1710;111;181;213;Churchill Lake;x
 1711;87;141;211;Southern Indian Lake;x
@@ -1717,11 +1717,11 @@ province;red;green;blue;x;x
 1716;40;10;200;Takla Lake;x
 1717;90;20;190;Trembleur Lake;x
 1718;186;55;170;Tezzeron Lake;x
-1719;;;;DUMMY1719;x
-1720;;;;DUMMY1720;x
-1721;;;;DUMMY1721;x
-1722;;;;DUMMY1722;x
-1723;;;;DUMMY1723;x
+1719;100;250;205;Kusawa Lake;x
+1720;107;193;81;Tagish Lake;x
+1721;148;224;8;Atlin Lake;x
+1722;30;250;51;Teslin Lake;x
+1723;110;209;106;Williston Lake;x
 1724;;;;DUMMY1724;x
 1725;;;;DUMMY1725;x
 1726;;;;DUMMY1726;x

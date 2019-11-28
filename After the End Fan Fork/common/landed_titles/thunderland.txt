@@ -23,7 +23,8 @@ e_thunderland = {
 			c_billings = {
 				color = { 0 0 255 }
 				color2= { 255 255 255 }
-				
+				holy_site = trailwalker
+				holy_site = trailwalker_reformed
 				b_billings_MT = {}
 				b_lockwood_MT = {}
 				b_laurel_MT = {}
@@ -273,56 +274,7 @@ e_thunderland = {
 				b_ulm_MT = {}
 				b_gibson_flats_MT = {}
 			}
-		}
-		d_palliser = {
-			color = { 35 153 112 }
-			color2 = { 255 255 255 }
-			
-			capital = 496 #Warner
-			
-			culture = mountainer
-			
-			c_medicine_hat = {
-				color = { 255 186 18 }
-				color2 = { 0 0 0 }
-				
-				b_medicine_hat_AB = {}
-				b_redcliff_AB = {}
-				b_seven_persons_AB = {}
-				b_bow_island_AB = {}
-				b_dunmore_AB = {}
-				b_manyberries_AB = {}
-				b_foremost_AB = {}
-			}
-			c_warner = {
-				color = { 73 141 175 }
-				color2 = { 255 255 255 }
-				blackfoot = "Aksaysim"
-				
-				b_lethbridge_AB = {}
-				b_coaldale_AB = {}
-				b_taber_AB = {}
-				b_vauxhall_AB = {}
-				b_shelby_MT = {}
-				b_galata_MT = {}
-				b_sweet_grass_MT = {}
-				b_stirling_AB = {}
-			}
-			c_pincher_creek = {
-				color = { 132 40 10 }
-				color2 = { 255 255 255 }
-				
-				b_cardston_AB = {}
-				b_magrath_AB = {}
-				b_cut_bank_MT = {}
-				b_browning_MT = {
-					ktunaxa = "Tlawat'inak"}
-				b_glenwood_AB = {}
-				b_hill_spring_AB = {}
-				b_aetna_AB = {}
-			}
-		}
-		
+		}		
 		d_glacier = {
 			color = { 75 122 147 }
 			color2 = { 255 255 255 }
@@ -427,7 +379,7 @@ e_thunderland = {
 	k_prairieland = {
 		color = { 225 153 10 }
 		color2 = { 255 255 255 }
-			
+
 		culture = prairielander
 		
 		plautdietsch="Grassteppeland"
@@ -485,6 +437,7 @@ e_thunderland = {
 			c_regina = {
 				color = { 21 103 55 }
 				color2 = { 255 232 0 }
+				holy_site = exovedate
 			
 				b_regina_SK = {}
 				b_emerald_park_SK = {}
@@ -509,6 +462,54 @@ e_thunderland = {
 			}
 		}
 		
+		d_palliser = {
+			color = { 35 153 112 }
+			color2 = { 255 255 255 }
+			
+			capital = 496 #Warner
+			
+			culture = mountainer
+			
+			c_medicine_hat = {
+				color = { 255 186 18 }
+				color2 = { 0 0 0 }
+				
+				b_medicine_hat_AB = {}
+				b_redcliff_AB = {}
+				b_seven_persons_AB = {}
+				b_bow_island_AB = {}
+				b_dunmore_AB = {}
+				b_manyberries_AB = {}
+				b_foremost_AB = {}
+			}
+			c_warner = {
+				color = { 73 141 175 }
+				color2 = { 255 255 255 }
+				blackfoot = "Aksaysim"
+				
+				b_lethbridge_AB = {}
+				b_coaldale_AB = {}
+				b_taber_AB = {}
+				b_vauxhall_AB = {}
+				b_shelby_MT = {}
+				b_galata_MT = {}
+				b_sweet_grass_MT = {}
+				b_stirling_AB = {}
+			}
+			c_pincher_creek = {
+				color = { 132 40 10 }
+				color2 = { 255 255 255 }
+				
+				b_cardston_AB = {}
+				b_magrath_AB = {}
+				b_cut_bank_MT = {}
+				b_browning_MT = {
+					ktunaxa = "Tlawat'inak"}
+				b_glenwood_AB = {}
+				b_hill_spring_AB = {}
+				b_aetna_AB = {}
+			}
+		}
 		d_missinipi = {
 			color = { 166 210 151 }
 			color2 = { 118 170 220 }
@@ -566,19 +567,6 @@ e_thunderland = {
 				b_canoe_narrows_SK = {}
 				b_st_georges_hill_SK = {}
 			}
-			c_la_ronge = {
-				color = { 99 82 123 }
-				color2 = { 96 50 17 }
-				
-				b_la_ronge_SK = {}
-				b_wadin_bay_SK = {}
-				b_anglo_rouyn_SK = {}
-				b_missinipe_SK = {}
-				b_stanley_mission_SK = {}
-				b_mclennan_lake_SK = {}
-				b_brabant_lake_SK = {}
-				b_southend_SK = {}
-			}
 		}
 		
 		d_saskatchewan = {
@@ -618,6 +606,7 @@ e_thunderland = {
 			c_nipawin = {
 				color = { 100 15 152 }
 				color2 = { 255 232 0 }
+				holy_site = exovedate
 			
 				b_nipawin_SK = {}
 				b_tobin_SK = {}
@@ -627,6 +616,7 @@ e_thunderland = {
 				b_white_star_SK = {}
 				b_fairy_glen_SK = {}
 				b_arborfield_SK = {}
+				b_batoche_SK = {}
 			}
 		}
 		
@@ -730,6 +720,9 @@ e_thunderland = {
 				color2 = { 255 255 255 }
 
 				haida = "Kat'a'eehl"	#climb down, descend
+				
+				holy_site = trailwalker
+				holy_site = trailwalker_reformed
 				
 				b_calgary_AB = {
 					ktunaxa = "Aknuqtaptsik'" }
@@ -885,7 +878,7 @@ e_thunderland = {
 				color2 = { 255 175 0 }
 				holy_site = midewiwin
 				holy_site = midewiwin_reformed
-				
+				holy_site = exovedate
 				b_winnipeg_MB = {}
 				b_whiteshell_MB = {} 
 				b_selkirk_MB = {}
@@ -1018,7 +1011,7 @@ e_thunderland = {
 			color2 = { 0 0 0 }
 			
 			capital = 853
-						
+
 			c_split_lake = {
 				color = { 50 129 121 }
 				color2 = { 96 50 17 }
@@ -1046,7 +1039,7 @@ e_thunderland = {
 			c_port_nelson = {
 				color = { 91 173 201 }
 				color2 = { 96 50 17 }
-				
+				holy_site = exovedate
 				b_port_nelson_MB = {}
 				b_york_factory_MB = {}
 				b_sundance_MB = {}
@@ -1068,18 +1061,17 @@ e_thunderland = {
 				b_bakers_narrows_MB = {}
 				b_grand_rapids_MB = {}
 			}
-			c_leaf_rapids = {
-				color = { 155 22 251 }
-				color2 = { 96 50 17 }
+			c_gods_lake = {
+				color = { 55 116 180 }
+				color2 = { 117 35 114 }
 				
-				b_leaf_rapids_MB = {}
-				b_ruttan_mine_MB = {}
-				b_granville_lake_MB = {}
-				b_laurie_river_MB = {}
-				b_lynn_lake_MB = {}
-				b_jetait_MB = {}
-				b_south_indian_lake_MB = {}
-				b_notigi_MB = {}
+				b_gods_lake_narrows_MB = {}
+				b_oxford_house_MB = {}
+				b_norway_house_MB = {}
+				b_wasagamack_MB = {}
+				b_garden_hill_MB = {}
+				b_saint_theresa_point_MB = {}
+				b_cross_lake_MB = {}
 			}
 		}
 		d_parkland = {
@@ -1150,20 +1142,6 @@ e_thunderland = {
 				b_bellsite_MB = {}
 				b_barrows_MB = {}
 			}
-			c_paskoyac = {
-				color = { 180 151 110 }
-				color2 = { 117 35 114 }
-				
-				b_the_pas_MB = {}
-				b_cormorant_MB = {}
-				b_moose_lake_MB = {}
-				b_cranberry_portage_MB = {}
-				b_wanless_MB = {}
-				b_flin_flon_MB = {}
-				b_deschambault_lake_SK = {}
-				b_pelican_narrows_SK = {}
-				b_jan_lakes_SK = {}
-			}
 		}
 
 		d_keewatin = {
@@ -1172,7 +1150,7 @@ e_thunderland = {
 			
 			culture = saulteaux
 			
-			capital = 764 # Opasquia
+			capital = 765 # Big Trout
 
 			ojibwe = "Giiwedin" 
 			saulteaux = "Giiwedin"
@@ -1201,7 +1179,7 @@ e_thunderland = {
 				b_angling_lake_ON = {}
 				b_summer_beaver_ON = {}
 				b_kasabonika_ON = {}
-				b_webequie_ON = {}
+				b_cotter_ON = {}
 				b_lansdowne_house_ON = {}
 			}
 			c_opasquia = {
@@ -1219,17 +1197,67 @@ e_thunderland = {
 				b_ponask_lake_ON = {}
 				b_red_sucker_lake_ON = {}
 			}
-			c_gods_lake = {
-				color = { 55 116 180 }
+			c_winisk = {
+				color = { 99 173 195 }
 				color2 = { 117 35 114 }
 				
-				b_gods_lake_narrows_MB = {}
-				b_oxford_house_MB = {}
-				b_norway_house_MB = {}
-				b_wasagamack_MB = {}
-				b_garden_hill_MB = {}
-				b_saint_theresa_point_MB = {}
-				b_cross_lake_MB = {}
+				b_winisk_ON = {}
+				b_fort_severn_ON = {}
+				b_peawanuck_ON = {}
+				b_polar_bear_ON = {}
+				b_atik_ON = {}
+				b_webequie_ON = {}
+				b_eastwood_ON = {}
+			}
+		}
+		
+		d_desnethe = {
+			color = { 151 210 196 }
+			color2 = { 220 170 118 }
+			
+			capital = 759 # Paskoyac
+			
+			c_la_ronge = {
+				color = { 99 82 123 }
+				color2 = { 96 50 17 }
+				
+				b_la_ronge_SK = {}
+				b_wadin_bay_SK = {}
+				b_anglo_rouyn_SK = {}
+				b_missinipe_SK = {}
+				b_stanley_mission_SK = {}
+				b_mclennan_lake_SK = {}
+				b_brabant_lake_SK = {}
+				b_southend_SK = {}
+			}
+			
+			c_paskoyac = {
+				color = { 180 151 110 }
+				color2 = { 117 35 114 }
+				
+				b_the_pas_MB = {}
+				b_cormorant_MB = {}
+				b_moose_lake_MB = {}
+				b_cranberry_portage_MB = {}
+				b_wanless_MB = {}
+				b_flin_flon_MB = {}
+				b_deschambault_lake_SK = {}
+				b_pelican_narrows_SK = {}
+				b_jan_lakes_SK = {}
+			}
+			
+			c_leaf_rapids = {
+				color = { 155 22 251 }
+				color2 = { 96 50 17 }
+				
+				b_leaf_rapids_MB = {}
+				b_ruttan_mine_MB = {}
+				b_granville_lake_MB = {}
+				b_laurie_river_MB = {}
+				b_lynn_lake_MB = {}
+				b_jetait_MB = {}
+				b_south_indian_lake_MB = {}
+				b_notigi_MB = {}
 			}
 		}
 	}

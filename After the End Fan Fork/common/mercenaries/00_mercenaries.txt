@@ -914,6 +914,28 @@ d_fruit_of_islam_composition = {
 	light_cavalry = 300
 	camel_cavalry = 150
 }
+d_arabian_knights_composition = {
+	levy_size = 1
+	camel_cavalry = 200
+}
+d_fighting_javidan_composition = {
+	levy_size = 2
+	pikemen = 100
+	heavy_infantry = 300
+	archers = 400
+}
+d_crossed_scimitars_composition = {
+	levy_size = 2
+	light_infantry = 500
+	light_cavalry = 400
+}
+d_balboa_warriors_composition = {
+	levy_size = 1
+	horse_archers = 500
+	pikemen = 400
+}
+
+
 
 d_atletico_junior_composition = {
 	levy_size = 3
@@ -953,6 +975,24 @@ d_smoking_snakes_composition = {
 	heavy_infantry = 350
 	knights = 200
 	archers = 200
+}
+d_guardians_of_tradition_composition = {
+	levy_size = 3
+	light_cavalry = 150
+	heavy_infantry = 150
+}
+
+d_canadian_rangers_composition = {
+	levy_size = 3
+	light_infantry = 250
+	archers = 150
+	light_cavalry = 100
+}
+
+d_policemens_union_composition = {
+	levy_size = 2
+	light_infantry = 400
+	archers = 100
 }
 
 ## Must exist or else dynamic mercenary band might fail for nomads!

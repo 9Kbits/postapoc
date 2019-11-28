@@ -782,6 +782,18 @@ character_event = {
 				factor = 3
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene #you'll see in a bit
+			}
+			modifier = {
+				factor = 30
+				culture = yukoner
+			}
+			modifier = {
+				factor = 3
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = white
 	}
@@ -1432,6 +1444,18 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 2
+				culture = yukoner
+			}
+			modifier = {
+				factor = 3
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = black
@@ -2084,6 +2108,18 @@ character_event = {
 				factor = 3
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 3
+				culture = dene
+			}
+			modifier = {
+				factor = 2
+				culture = yukoner
+			}
+			modifier = {
+				factor = 3
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = brown
 	}
@@ -2734,6 +2770,14 @@ character_event = {
 			modifier = {
 				factor = 92
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 92
+				culture = dene
+			}
+			modifier = {
+				factor = 15
+				culture = yukoner
 			}
 		}
 		set_graphical_culture = native
@@ -3386,6 +3430,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 1
+				culture = yukoner
+			}
+			modifier = {
+				factor = 91
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = chinese
 	}
@@ -4032,6 +4088,18 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = norse
@@ -4684,6 +4752,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 5
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = celtic
 	}
@@ -5330,6 +5410,18 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = ugric
@@ -5982,6 +6074,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = mediterranean
 	}
@@ -6632,6 +6736,18 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = indian
@@ -7284,6 +7400,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = slavic
 	}
@@ -7935,6 +8063,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = west_slavic
 	}
@@ -8569,6 +8709,18 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = german
@@ -9216,6 +9368,18 @@ character_event = {
 			modifier = {
 				factor = 2
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 3
+				culture = dene
+			}
+			modifier = {
+				factor = 15
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = english
@@ -9868,6 +10032,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = persian
 	}
@@ -10519,6 +10695,18 @@ character_event = {
 				factor = 0
 				culture = tsimshianic
 			}
+			modifier = {
+				factor = 0
+				culture = dene
+			}
+			modifier = {
+				factor = 0
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
+			}
 		}
 		set_graphical_culture = italian
 	}
@@ -11169,6 +11357,18 @@ character_event = {
 			modifier = {
 				factor = 0
 				culture = tsimshianic
+			}
+			modifier = {
+				factor = 2
+				culture = dene
+			}
+			modifier = {
+				factor = 5
+				culture = yukoner
+			}
+			modifier = {
+				factor = 0
+				culture = iyyu
 			}
 		}
 		set_graphical_culture = french
