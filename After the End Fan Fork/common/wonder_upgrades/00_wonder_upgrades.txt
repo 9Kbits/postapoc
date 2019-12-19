@@ -4538,3 +4538,59 @@ upgrade_ate_lady_guadalupe = {
 		monthly_character_piety = 5
 	}
 }
+
+upgrade_shrine_of_america = { 
+	picture = GFX_upgrade_icon_crates
+
+	potential = { religion_group = oldworld }
+	allow = {
+		trigger_if = {
+			limit = { NOT = { religion_group = oldworld } }
+			religion_group = oldworld
+		}
+	}
+	active = { religion_group = oldworld }
+
+	flags = {
+		statues
+		is_singular
+	}
+	build_time = 24
+	gold_cost_flat = 450
+	gold_cost_ticking = 1
+	owner_modifier = {
+		oldworld_opinion = 10
+		monthly_character_piety = 5
+	}
+	local_modifier = {
+		local_revolt_risk = -0.05
+	}
+}
+
+upgrade_shrine_of_the_great_spirit = { 
+	picture = GFX_upgrade_icon_crates
+
+	potential = { religion_group = amero_syncretic }
+	allow = {
+		trigger_if = {
+			limit = { NOT = { religion_group = amero_syncretic } }
+			religion_group = amero_syncretic
+		}
+	}
+	active = { religion_group = amero_syncretic }
+
+	flags = {
+		statues
+		is_singular
+	}
+	build_time = 24
+	gold_cost_flat = 450
+	gold_cost_ticking = 1
+	owner_modifier = {
+		amero_syncretic_opinion = 10
+		monthly_character_piety = 5
+	}
+	local_modifier = {
+		local_revolt_risk = -0.05
+	}
+}

@@ -137,6 +137,12 @@ wonder_cathedral_saint_joseph_construction_desc;This ancient Basilica stands imp
 wonder_basilica_guadalupe;[FromFrom.GetGuadalupeNameString];;;;;;;;;;;;;x
 wonder_basilica_guadalupe_desc;[FromFrom.GetGuadalupeDescString];;;;;;;;;;;;;x
 wonder_basilica_guadalupe_construction_desc;[FromFrom.GetGuadalupeDescString];;;;;;;;;;;;;x
+wonder_mt_rushmore;Mt. Rushmore;;;;;;;;;;;;;x
+wonder_mt_rushmore_desc;These enormous stone visages have watched over America since time immemorial, their unflinching gaze as steady as the land itself. Rushmore is a popular site of pilgrimage, serving as a source of pride for the glorious past and hope for the uncertain future. Whether they were men or gods, any American can draw inspiration from this monumental edifice.\n\nWashington! Jefferson! Roosevelt! Lincoln! America needs you now more than ever!;;;;;;;;;;;;;x
+upgrade_shrine_of_america;Shrine of Old America;;;;;;;;;;;;x
+upgrade_shrine_of_america_desc;Dedicated to wonders of Old World. This shrine is reminder of what once was, and what still may be...;;;;;;;;;;;;x
+upgrade_shrine_of_the_great_spirit;Shrine of the Great Spirit;;;;;;;;;;;;x
+upgrade_shrine_of_america_desc;Many of the Plains people believe in the Great Spirit. And this shrine serves to all of them, symbolizing shared history, struggles and promise of tommorow.;;;;;;;;;;;;x
 upgrade_ate_lady_guadalupe;[FromFrom.GetGuadalupeIconNameString];;;;;;;;;;;;;x
 upgrade_ate_lady_guadalupe_desc;[FromFrom.GetGuadalupeIconDescString];;;;;;;;;;;;;x
 
