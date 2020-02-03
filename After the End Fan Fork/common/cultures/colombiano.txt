@@ -17,14 +17,14 @@ colombiano = {
 			Gabriel Gaio Gaitan Gaston Gilberto Giron Guadalupe Gustavo
 			Helibelton Heliodoro Héracles Hernan Herodoto Hidalgo Holguin Honor Hugo
 			Idomeneo Isidoro Ismael
-			Jeison Jerrald Jose Josue Juan
+			Jeison Jerrald José_Joseph Josue Juan
 			Kiritz
 			Lantz Leano Leontzio Luis Luken
 			Macario Magallanez Manuel Matro Menelao Metelo Montealegre Montrel
 			Nepote Neso Nestor Nicátor Nizias
 			Pablo Paléfato Pancho Pedro Peralta Pirro Plutarco Plutón Polen Polentzi Porfiro Pupieno
 			Radamel Rafael Ramone Regal Remedios Renteria Rubiano
-			Sabas Sabino Santiago Sejano Seleuco Simon Sócrates Stefan
+			Sabas Sabino Santiago_James Sejano Seleuco Simon Sócrates Stefan
 			Talamantez Temístocles Teófilo Txare
 			Urtats Uztaritz
 			Víctor Victorino Vita Vitor
@@ -95,7 +95,7 @@ colombiano = {
 			"Sebastian Herrera" "Sebastian Quintero" 
 			"Walter Andres"
 
-			Aderbal Alberto_Albert Alejandro_Alexander Alex_Alexander Alexander_Alexander Alonso Amílcar Andrés_Andrew Andrew_Andrew Aníbal Antonio_Anthony Arturo_Arthur Asdrúbal Augusto_Augustus Baltazar Barule Bomílcar Boodes Bostar Brayan Bryan Cachimbal Camilo Carlos_Charles Cartalón Cesar_Caesar Chorizo Christ_Christian Clitómaco Cristian_Christian Daniel Danna Daudy David_David Diego Diógenes Eddy Eduard Edwin Emanuel Enrique Epícides Esteban Fabio Felipe Fernando Francisco Gaspar Gianfranco Giovanni Giscón Goku Guillermo Gustavo Hannón Hector Helicóptero Henry Hernan Himilcón Hipócrates Jack Jaime Jairo Jesús Jhewer Jhoan Jhon Jimmy Joakin Johan John Jorge José Juan Juandi Julian Julio Jusayú Kristhian Kumar Lucas Luís Magón Manuel_Immanuel Mario Mark_Mark Mateo_Matthew Matthew_Matthew Melchor Miguel_Michael Mike_Michael Ministro Moises Neider Nelson_Nelson Nicolás_Nicholas Nilson_Nelson Oscar_Oscar Pablo_Paul Paul_Paul Pedro_Peter Rafael Ramon Rene Ricardo_Richard Richard_Richard Rico Rodrigo Rubén Samuél_Samuel Santiago Saub Sebastián_Sebastian Sergio Stiven_Stephen Tavo Usnavy Valentina_Valentine Walter Wisnaldo Yicelub 
+			Aderbal Alberto_Albert Alejandro_Alexander Alex_Alexander Alexander_Alexander Alonso Amílcar Andrés_Andrew Andrew_Andrew Aníbal Antonio_Anthony Arturo_Arthur Asdrúbal Augusto_Augustus Baltazar Barule Bomílcar Boodes Bostar Brayan Bryan Cachimbal Camilo Carlos_Charles Cartalón Cesar_Caesar Chorizo Christ_Christian Clitómaco Cristian_Christian Daniel Danna Daudy David_David Diego Diógenes Eddy Eduard Edwin Emanuel Enrique Epícides Esteban Fabio Felipe Fernando Francisco Gaspar Gianfranco Giovanni Giscón Goku Guillermo_William Gustavo Hannón Hector Helicóptero Henry Hernan Himilcón Hipócrates Jack Jaime Jairo Jesús Jhewer Jhoan Jhon Jimmy Joakin Johan John Jorge José Juan Juandi Julian Julio Jusayú Kristhian Kumar Lucas Luís Magón Manuel_Immanuel Mario Mark_Mark Mateo_Matthew Matthew_Matthew Melchor Miguel_Michael Mike_Michael Ministro Moises Neider Nelson_Nelson Nicolás_Nicholas Nilson_Nelson Oscar_Oscar Pablo_Paul Paul_Paul Pedro_Peter Rafael Ramon Rene Ricardo_Richard Richard_Richard Rico Rodrigo Rubén Samuél_Samuel Santiago Saub Sebastián_Sebastian Sergio Stiven_Stephen Tavo Usnavy Valentina_Valentine Walter Wisnaldo Yicelub 
 		}
 			
 		female_names = {
@@ -106,7 +106,7 @@ colombiano = {
 			"Gallina Ipuana" 
 			"Jessica Pineda" "Johana Cano" 
 			"Laura Guerrero" "Laura Sofia Parra" "Laura Sofia" "Laura Valentina" "Lina Marcela" "Lizeth Camila" "Luisa Fernanda" "Luz Astrid" "Luz Dary" "Luz Elena" "Luz Marina" 
-			"Mari Jose" "María Alejandra" "María Angelica" "María Camila" "María Concepción" "María del Carmen" "María Elena" "María Eugenia" "María Fernanda" "María Isabel" "María José" "María Juliana" "María Paula" "María Perra" "María Rámos" "María Teresa" "Marii Ann" "Martha Cecilia" "Martha Lucia" 
+			"Mari José" "María Alejandra" "María Angelica" "María Camila" "María Concepción" "María del Carmen" "María Elena" "María Eugenia" "María Fernanda" "María Isabel" "María José" "María Juliana" "María Paula" "María Perra" "María Rámos" "María Teresa" "Marii Ann" "Martha Cecilia" "Martha Lucia" 
 			"Natalia Pulgarin" 
 			"Olga Lucía" 
 			"Paola Andrea" "Paula Andrea" "Paula Milena" 
@@ -188,6 +188,64 @@ colombiano = {
 			Ximena
 			Yineth Yisela Yomara Yoreli Yosdalkis Yosiri
 			Zuleima 
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "ez"
+		female_patronym = "ez"
+		grammar_transform = spanish
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+	
+	rolo = {
+		graphical_cultures = { southerngfx occitangfx }
+		#Common local names
+		#Bolivar and associates
+		color = { 0.95 0.4 0.4 }
+		
+		male_names = {
+			Alberto_Albert Alfonso Álvaro Andrés Antanas Arturo_Arthur
+			Carlos_Charles
+			Daniel
+			Enrique_Henry Esteban
+			Fernando Francisco
+			Guillermo_William
+			Haider Hernando
+			James_James Javier Jesús Joaquín José_Joseph Juan_John
+			Laureano Liborio Luis_Louis
+			Miguel_Michael
+			Patricio_Patrick Pedro_Peter
+			Rafael Rodrigo Rodolfo Rufino
+			Santiago_James Simón
+			Virgilio
+		}
+
+		female_names = {
+			Ana Andrea Antonia
+			Benigna Blanca
+			Carolina Catalina Catherine Clara Claudia Concepción
+			Diana
+			Eliana Estefanía
+			Fabiola Fanny Felicia Francisca
+			Hipólita
+			Josefa Josefina Juana
+			Laura Luz_Lucy
+			Manuela María Marta
+			Nancy
+			Patricia
+			Teresa
+			Valentina
+			Ysabel
 		}
 		
 		from_dynasty_prefix = "de "
