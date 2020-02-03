@@ -214,12 +214,13 @@ colombiano = {
 		color = { 0.95 0.4 0.4 }
 		
 		male_names = {
-			Alberto_Albert Alfonso Álvaro Andrés Antanas Arturo_Arthur
-			Carlos_Charles
-			Daniel
-			Enrique_Henry Esteban
+			Alberto_Albert Alfonso Álvaro Anacleto Andrés Antanas Arturo_Arthur
+			Benjamín_Benjamin
+			Carlos_Charles Claudio
+			Daniel Dionisio
+			Eduardo Enrique_Henry Esteban
 			Fernando Francisco
-			Guillermo_William
+			Germán Guillermo_William
 			Haider Hernando
 			James_James Javier Jesús Joaquín José_Joseph Juan_John
 			Laureano Liborio Luis_Louis
@@ -238,6 +239,7 @@ colombiano = {
 			Eliana Estefanía
 			Fabiola Fanny Felicia Francisca
 			Hipólita
+			Ines
 			Josefa Josefina Juana
 			Laura Luz_Lucy
 			Manuela María Marta
