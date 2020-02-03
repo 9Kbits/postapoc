@@ -211,6 +211,7 @@ colombiano = {
 		graphical_cultures = { southerngfx occitangfx }
 		#Common local names
 		#Bolivar and associates
+		#we could use some other name sources, particularly for women
 		color = { 0.95 0.4 0.4 }
 		
 		male_names = {
