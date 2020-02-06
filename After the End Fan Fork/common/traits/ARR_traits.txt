@@ -206,18 +206,22 @@ wolf = {
 jaguar_warrior  = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		shaddai
-		fords_striker
 		valhalla_bound
+		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
 		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -242,18 +246,22 @@ jaguar_warrior  = {
 dragon_soldier  = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		shaddai
-		fords_striker
 		valhalla_bound
+		jaguar_warrior
+		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
 		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
-		jaguar_warrior
+		hivernant
+		service_cross
 	}
 	
 	martial = 2

@@ -2333,9 +2333,10 @@ oldworld = {
 		can_excommunicate = yes
 		can_grant_claim = yes
 		can_grant_divorce = yes
-		allow_viking_invasion = yes
-		can_grant_invasion_cb = invasion
+		#allow_viking_invasion = yes
+		#can_grant_invasion_cb = invasion
 		allow_rivermovement = yes
+		can_call_crusade = yes
 		#female_temple_holders = yes
 		#feminist = yes
 		

@@ -813,6 +813,14 @@ has_crusade_trait_trigger = {
 			religion = exovedate
 			trait = hivernant
 		}
+		AND = {
+			OR = {
+				religion = americanist
+				religion = hamiltonian
+				religion = jeffersonian
+			}
+			trait = service_cross
+		}
 	}
 }
 

@@ -3518,6 +3518,15 @@ crusade = {
 	
 	can_use_gui = {
 		ROOT = {
+			custom_tooltip = {
+				text = CRUSADE_COOLDOWN
+				religion_scope = {
+					OR = {
+						NOT = { has_flag = crusade_fired }
+						had_flag = { flag = crusade_fired days = 3650 }
+					}
+				}
+			}
 			uses_new_crusade = no
 			has_called_crusade = no
 			religion_authority = 0.05
@@ -3565,6 +3574,7 @@ crusade = {
 							religion = midewiwin_reformed
 							religion = raven_tales_reformed
 						}
+						pacifist = no
 						custom_tooltip = {
 							text = CTT_PAGAN_GHWS_UNLOCKED
 							has_global_flag = pagan_ghws_unlocked
@@ -3644,6 +3654,17 @@ crusade = {
 		ROOT = {
 			uses_new_crusade = no
 			can_call_crusade = yes
+			trigger_if = {
+				limit = { religion = americanist }
+				NOT = {
+					any_independent_ruler = {
+						any_war = {
+							attacker = { religion = americanist }
+							using_cb = crusade
+						}
+					}
+				}
+			}
 		}
 		
 		FROM = {
@@ -3687,7 +3708,10 @@ crusade = {
 	
 	is_valid = {
 		ROOT = {
-			can_call_crusade = yes
+			OR = {
+				can_call_crusade = yes
+				religion = americanist
+			}
 		}
 		FROM = {
 			OR = {
@@ -3715,7 +3739,20 @@ crusade = {
 	}
 
 	on_add = {
-		hidden_tooltip = { fire_haruspicy_event_effect = yes }
+		hidden_tooltip = { 
+			fire_haruspicy_event_effect = yes 
+			if = {
+				limit = {
+					has_game_rule = { name = holy_war_cooldown_rule value = off }
+				}
+				ROOT = {
+					religion_scope = {
+						clr_flag = crusade_fired
+						set_flag = crusade_fired
+					}
+				}
+			}
+		}
 		if = {
 			limit = { defender = { is_offmap_governor = offmap_china } }
 			attacker = {  
@@ -3999,9 +4036,11 @@ crusade = {
 			
 			hidden_tooltip = {
 				if = {
-					OR = {
-						this_has_lame_nickname_trigger = yes
-						has_nickname = no
+					limit = {
+						OR = {
+							this_has_lame_nickname_trigger = yes
+							has_nickname = no
+						}
 					}
 					random_list = {
 						10 = { give_nickname = nick_the_holy }
@@ -4991,13 +5030,9 @@ new_crusade = {
 								character_event = { id = HFP.41090 days = 1 }
 								if = {
 									limit = {
-										NOR = {
-											trait = crusader
-											trait = crusader_king
-											trait = crusader_queen
-										}
+										has_crusade_trait_trigger = no
 									}
-									add_trait = crusader
+									add_crusade_trait_effect = yes
 								}
 							}
 							character_event = { id = HFP.41007 }
@@ -5216,6 +5251,7 @@ new_crusade = {
 						NOR = {
 							has_character_flag = grandCrusader
 							trait = crusader_king
+							trait = crusader_queen
 						}
 					}
 					set_character_flag = grandCrusader
@@ -5225,6 +5261,7 @@ new_crusade = {
 						OR = {
 							has_character_flag = grandCrusader
 							trait = crusader_king
+							trait = crusader_queen
 						}
 					}
 					narrative_event = { id = HF.49020 }

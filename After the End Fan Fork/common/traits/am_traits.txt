@@ -894,18 +894,22 @@ gracia_libertador = {
 fords_striker  = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
 		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -928,17 +932,22 @@ fords_striker  = {
 sword_of_the_lamb  = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		knight_templar
 		order_of_the_garter
+		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -961,18 +970,22 @@ sword_of_the_lamb  = {
 knight_templar  = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		order_of_the_garter
 		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -995,18 +1008,22 @@ knight_templar  = {
 order_of_the_garter = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -1040,18 +1057,22 @@ libertador_descendant = {
 danite = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -1074,18 +1095,22 @@ danite = {
 thunderbird_warrior = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
-		lughs_own
 		danite
+		shaddai
+		lughs_own
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -1108,18 +1133,22 @@ thunderbird_warrior = {
 raven_warrior = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		jaguar_warrior
-		shaddai
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
-		lughs_own
 		danite
+		shaddai
+		lughs_own
 		thunderbird_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -1988,6 +2017,40 @@ tire_machet = {
 	voodoo_opinion = 5
 	
 	customizer = no
+}
+
+service_cross = {
+	opposites = {
+		crusader
+		crusader_king
+		crusader_queen
+		mujahid
+		valhalla_bound
+		jaguar_warrior
+		fords_striker
+		sword_of_the_lamb
+		knight_templar
+		order_of_the_garter
+		danite
+		shaddai
+		lughs_own
+		thunderbird_warrior
+		raven_warrior
+		dragon_soldier
+		hivernant
+	}
+	
+	martial = 2
+	combat_rating = 10 #old value: 1
+	
+	church_opinion = 15
+	same_opinion_if_same_religion = 15
+	
+	ai_zeal = 10
+	customizer = no
+	
+	male_compliment_adj = COMPL_DECORATED
+	female_compliment_adj = COMPL_DECORATED
 }
 
 #Commented these out because I have no idea what these are supposed to do.

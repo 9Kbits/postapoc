@@ -4121,4 +4121,11 @@ spriteTypes = {
 		name = "GFX_hunt_for_whale"
 		texturefile = "gfx\\interface\\decision_icon_whale_hunt.dds"
 	}
+	spriteType = {
+		name = "GFX_trait_service_cross"
+		texturefile = "gfx/traits/service_cross.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 }

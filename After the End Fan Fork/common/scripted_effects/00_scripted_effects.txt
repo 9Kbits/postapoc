@@ -4099,6 +4099,17 @@ add_crusade_trait_effect = {
 		add_trait = hivernant
 		break = yes
 	}
+	if = {
+		limit = {
+			OR = {
+				religion = americanist
+				religion = hamiltonian
+				religion = jeffersonian
+			}
+		}
+		add_trait = service_cross
+		break = yes
+	}
 }
 
 ###MONKS & MYSTICS###

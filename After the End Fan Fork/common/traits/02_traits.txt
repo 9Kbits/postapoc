@@ -1861,18 +1861,22 @@ immortal = {
 valhalla_bound  = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
 		danite
-		lughs_own
 		shaddai
-		jaguar_warrior
+		lughs_own
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -2106,19 +2110,22 @@ sea_queen = {
 
 shaddai = {
 	opposites = {
+		crusader_king
+		crusader_queen
 		mujahid
 		valhalla_bound
-		crusader
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
 		danite
 		lughs_own
-		jaguar_warrior
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2
@@ -3554,14 +3561,19 @@ crusader_king = {
 		crusader_queen
 		mujahid
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
+		danite
 		shaddai
 		lughs_own
-		jaguar_warrior
+		thunderbird_warrior
+		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	ai_zeal = 20
@@ -3586,14 +3598,19 @@ crusader_queen = {
 		crusader_king
 		mujahid
 		valhalla_bound
+		jaguar_warrior
 		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
+		danite
 		shaddai
 		lughs_own
-		jaguar_warrior
+		thunderbird_warrior
+		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 
 	ai_zeal = 20

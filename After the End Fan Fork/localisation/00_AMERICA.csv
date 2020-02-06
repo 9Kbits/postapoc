@@ -638,6 +638,8 @@ scholar_desc;This character leads the life of a scholar, poring over books and c
 CAMPAIGN_FUND_MORMON;Tithing Donation;;;;;;;;;;;;;x
 CAMPAIGN_FUND_CARDINALS_DESC;Money given as a tithing donation will increase your influence with the church and make your candidate more likely to called as the next $RULER_TITLE$. You can freely adjust the amount until the next $RULER_TITLE$ is called, when the donation will be used.;;;;;;;;;;;;;x
 
+CRUSADE_COOLDOWN;A [Root.Religion.GetCrusadeName] for the [Root.Religion.GetName] faith has not been called in the last 10 years\n;;;;;;;;;x
+
 ###########Traits###########
 
 sympathy_afro_syncretic;Sympathy for [afro_syncretic.GetGroupName];;;;;;;;;;;;;x
@@ -766,6 +768,8 @@ broad_anglican;Broad Church;;;;;;;;;;;;;x
 broad_anglican_desc;This character is a follower of the Broad Church, believing in a middle ground on principles of church authority and rituals.;;;;;;;;;;;;;x
 low_anglican;Low Church;;;;;;;;;;;;;x
 low_anglican_desc;This character is a follower of the Low Church, believing in a decentralized church and less emphasis on rituals.;;;;;;;;;;;;;x
+service_cross;Service Cross;;;;;;;;;;;;;x
+service_cross_desc;This character has fought to retake holy American land.;;;;;;;;;;;;;
 
 ###########Bloodlines###########
 yudkow;Blood of the Lawgiver;;;;;;;;;;;;;x

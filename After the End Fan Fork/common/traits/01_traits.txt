@@ -6,6 +6,8 @@
 mujahid = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		valhalla_bound
 		jaguar_warrior
 		fords_striker
@@ -18,6 +20,8 @@ mujahid = {
 		thunderbird_warrior
 		raven_warrior
 		dragon_soldier
+		hivernant
+		service_cross
 	}
 	
 	martial = 2

@@ -1,19 +1,22 @@
 hivernant = {
 	opposites = {
 		crusader
+		crusader_king
+		crusader_queen
 		mujahid
-		shaddai
-		fords_striker
 		valhalla_bound
+		jaguar_warrior
+		fords_striker
 		sword_of_the_lamb
 		knight_templar
 		order_of_the_garter
 		danite
+		shaddai
 		lughs_own
 		thunderbird_warrior
 		raven_warrior
-		jaguar_warrior
 		dragon_soldier
+		service_cross
 	}
 	
 	martial = 2

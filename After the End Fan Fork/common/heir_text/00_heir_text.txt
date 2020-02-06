@@ -1589,20 +1589,7 @@ heir_text_crusader = { # Crusader/Other GHW trait
 		}
 		modifier = {
 			factor = 0
-			NOR = {
-				trait = valhalla_bound
-				trait = sword_of_the_lamb
-				trait = fords_striker
-				trait = knight_templar
-				trait = lughs_own
-				trait = danite
-				trait = order_of_the_garter
-				trait = crusader
-				trait = shaddai
-				trait = jaguar_warrior
-				trait = thunderbird_warrior
-				trait = raven_warrior
-			}
+			has_crusade_trait_trigger = no
 		}
 	}
 }

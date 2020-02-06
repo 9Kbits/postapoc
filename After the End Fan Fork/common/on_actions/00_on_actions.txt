@@ -1778,6 +1778,7 @@ on_crusade_creation = {
 		consumer.4 # Consumerist Marketing Campaigns
 		event_atomicist.200 # Atomicist First Strikes
 		rustcultist.2 # Rust Cultist Industrial Action
+		americanist_crusade.1 # Americanist Liberation War
 			
 		CM.10015  # Chronicle entry
  	}
