@@ -502,6 +502,9 @@ bureau_offices_desc;This province contains offices for bureaucrats, increasing t
 bureau_roads;Road Network Center;;;;;;;;;;;;;x
 bureau_roads;This province is the center of a realm-wide road network, fostering better bureaucracies accross the realm.;;;;;;;;;;;;;x 
 
+influenced_authority;Influenced Imperial Authority;;;;;;;;;;;;;x
+influenced_authority;This character has acted to influence the authority of the Emperor.;;;;;;;;;;;;;x
+
 #Traits
 not_evaluated;Unevaluated;;;;;;;;;;;;;x
 not_evaluated_desc;This bureaucrat has not been evaluated by an Evaluator of Merit or Guru, and is not seen as legitimate by vassals and peers.;;;;;;;;;;;;;x
@@ -577,7 +580,6 @@ title_governator;Governatus;;;;;;;;;;;;;x
 title_governator_desc;The Governatus of the Empire of California is a very influential title among the Imperial Court and all throughout California. As the highest ranking official within the Imperial Court, surpassing even the kings and queens of the bureaucratic realms, the Governatus has the ear of the emperor at all times.;;;;;;;;;;;;;x
 
 #Casus Bellis
-
 CB_NAME_GOVERNATOR_WAR;Governatus Claim War;;;;;;;;;;;;;x
 WAR_NAME_GOVERNATOR_WAR;$ORDER$Governatus Claim War;;;;;;;;;;;;;x
 governator_war_desc;Any Bureaucratic ruler can claim the title Governatus while they are in charge.;;;;;;;;;;;;;x
